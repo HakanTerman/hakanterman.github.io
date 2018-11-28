@@ -2,8 +2,8 @@
 main:
   - title: "CV"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    title: "Hakkımda"
-    url: /hakkimda/
+  - title: "Hakkimda"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
