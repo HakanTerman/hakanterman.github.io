@@ -1,9 +1,13 @@
-# main links
+# main links links
 main:
+  - title: "Tekno-Blog"
+    url: /tekno-blog/
+  - title: "Kişisel-Blog"
+    url: /kisisel-blog/
   - title: "CV"
     url: /cv/
   - title: "Hakkimda"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /hakkimda/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
