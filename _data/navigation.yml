@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "CV"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /cv/
   - title: "Hakkimda"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Posts"
