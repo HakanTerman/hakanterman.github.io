@@ -8,11 +8,6 @@ header:
   caption: "Photo credit: [Jozef Polc](https://500px.com/halfpoint)"
 ---
 
-**Uyarı** Merhaba, beni daha iyi tanımak için  [LinkedIn profilimi](http://linkedin.com/in/HakanTerman) incelemek ister misiniz ?.
-{: .notice}
-
----
-
 ### Kısaca Ben
 
 Bilgisayara olan ilgisi ve merakının peşinde elinden geldiğince bir şeyler yapmaya çalışan, aynı zamanda yine bu alanda eğitimini sürdüren, gelecek dönemde de mesleği olarak devam ettirmek isteyen, hayallerinin peşinden koşan birisi..
@@ -58,3 +53,8 @@ Bilgisayara olan ilgisi ve merakının peşinde elinden geldiğince bir şeyler 
 ### Ödüller & Onur Belgeleri
 
 * 2016 - Mezuniyet Onur Belgesi - Uşak Üniversitesi
+
+---
+
+**Uyarı** Merhaba, beni daha iyi tanımak için  [LinkedIn profilimi](http://linkedin.com/in/HakanTerman) incelemek ister misiniz ?.
+{: .notice}
