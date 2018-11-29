@@ -5,11 +5,11 @@ excerpt: "Hakan TERMAN - Özgeçmiş - CV"
 layout: single
 modified: 2018-11-29T20:53:07.573882-04:00
 header:
-  image: CVHakan.jpg
-  caption: "Photo credit: [Foto](http://)"
+  image: /assets/images/CVHakan.jpg
+  caption: "Photo credit: [Jozef Polc](https://500px.com/halfpoint)"
 ---
 
-**Uyarı** Daha detaylı inceleme için  [LinkedIn profilim](http://linkedin.com/in/HakanTerman)i inceleyebilirsiniz.
+**Uyarı** Merhaba, beni daha iyi tanımak için  [LinkedIn profilimi](http://linkedin.com/in/HakanTerman) incelemek ister misiniz ?.
 {: .notice}
 
 ---
