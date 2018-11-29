@@ -14,6 +14,9 @@
     {% include head/custom.html %}
   </head>
 
+  <div id="main" role="main">
+    {% include sidebar.html %}
+
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
     {% include_cached browser-upgrade.html %}
@@ -34,6 +37,7 @@
         {% include footer/custom.html %}
         {% include_cached footer.html %}
       </footer>
+    </div>
     </div>
 
     {% include scripts.html %}
