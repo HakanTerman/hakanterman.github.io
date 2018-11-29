@@ -1,5 +1,5 @@
 ---
-permalink: /kategori/#teknoloji/
+permalink: /kategori/teknoloji/
 title: "Teknoloji"
 excerpt: "Teknoloji Blogu - Hakan TERMAN"
 layout: single
