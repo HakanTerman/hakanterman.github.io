@@ -1,13 +1,11 @@
 # main links links
 main:
-  - title: "Tekno-Blog"
-    url: /tekno-blog/
   - title: "Kişisel-Blog"
     url: /kisisel-blog/
-  - title: "CV"
-    url: /cv/
-  - title: "Hakkimda"
-    url: /hakkimda/
+  - title: "Tekno-Blog"
+    url: /tekno-blog/
+  - title: "İletişim"
+    url: /iletisim/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
