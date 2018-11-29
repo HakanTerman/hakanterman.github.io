@@ -5,8 +5,10 @@ layout: single
 modified: 2018-11-29T20:53:07.573882-04:00
 header:
   image: /assets/images/CVHakan.jpg
-  caption: "Photo credit: [Jozef Polc](https://500px.com/halfpoint)"
+  caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
 ---
+
+###
 
 ### Kısaca Ben
 

@@ -1,0 +1,9 @@
+---
+layout: page
+permalink: /teknoloji/
+title: Tekno Blog
+---
+
+{% for post in site.categories.teknoloji %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}

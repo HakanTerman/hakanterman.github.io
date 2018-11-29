@@ -1,0 +1,9 @@
+---
+layout: page
+permalink: /kisisel/
+title: Kişisel Blog
+---
+
+{% for post in site.categories.Kisisel %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
