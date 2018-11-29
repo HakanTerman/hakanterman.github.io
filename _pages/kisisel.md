@@ -1,5 +1,5 @@
 ---
-permalink: /kategori/kisisel/
+permalink: /kisisel/
 title: "Kişisel Blog"
 excerpt: "Kişisel Blog - Hakan TERMAN"
 layout: single
