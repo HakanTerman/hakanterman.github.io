@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /index.html
 excerpt: "Hakan TERMAN - Özgeçmiş - CV"
 layout: single
 modified: 2018-11-29T20:53:07.573882-04:00
