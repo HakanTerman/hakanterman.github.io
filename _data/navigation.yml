@@ -1,9 +1,9 @@
 # main links links
 main:
   - title: "Kişisel-Blog"
-    url: /kisisel-blog/
+    url: /kisisel/
   - title: "Tekno-Blog"
-    url: /tekno-blog/
+    url: /teknoloji/
   - title: "İletişim"
     url: /iletisim/
   # - title: "Sample Posts"
