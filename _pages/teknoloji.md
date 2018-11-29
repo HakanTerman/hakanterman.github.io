@@ -1,6 +1,6 @@
 ---
 permalink: /kategori/teknoloji/
-title: "Teknoloji"
+title: "Teknoloji Blogu"
 excerpt: "Teknoloji Blogu - Hakan TERMAN"
 layout: single
 header:
@@ -16,10 +16,9 @@ header:
 
   {% if post.category == 'Teknoloji' %}
   <div class="post">
-    <h1 class="post-title">
+    <h3 class="post-title">
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </h1>
-    {{ post.content }}
+    </h3>
   </div>
   {% endif %}
   {% endfor %}
