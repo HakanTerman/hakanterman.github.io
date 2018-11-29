@@ -1,7 +1,7 @@
 ---
-permalink: /kategori/#teknoloji/
-title: "Teknoloji"
-excerpt: "Teknoloji Blogu - Hakan TERMAN"
+permalink: /kategori/#kisisel/
+title: "Kişisel"
+excerpt: "Kişisel Blog - Hakan TERMAN"
 layout: single
 header:
   image: /assets/images/CVHakan.jpg
@@ -14,7 +14,7 @@ header:
     {% assign author = site.authors[post.author] %}
     {{ author.display_name }}
 
-  {% if post.category == 'Teknoloji' %}
+  {% if post.category == 'Kişisel' %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">{{ post.title }}</a>
