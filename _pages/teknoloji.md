@@ -1,9 +1,8 @@
 ---
-permalink: /kat1.html
-title: "kat1"
-excerpt: "Hakan TERMAN - Özgeçmiş - CV"
+permalink: /kategori/teknoloji/
+title: "Teknoloji"
+excerpt: "Teknoloji - Hakan TERMAN"
 layout: single
-modified: 2018-11-29T20:53:07.573882-04:00
 header:
   image: /assets/images/CVHakan.jpg
   caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
@@ -20,7 +19,6 @@ header:
     <h1 class="post-title">
       <a href="{{ post.url }}">{{ post.title }}</a>
     </h1>
-    {{ post.content }}
   </div>
   {% endif %}
   {% endfor %}
