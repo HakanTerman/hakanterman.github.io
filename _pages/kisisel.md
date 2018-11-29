@@ -14,7 +14,7 @@ header:
     {% assign author = site.authors[post.author] %}
     {{ author.display_name }}
 
-  {% if post.category == 'Kişisel' %}
+  {% if post.category == 'Kisisel' %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">{{ post.title }}</a>
