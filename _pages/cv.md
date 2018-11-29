@@ -1,6 +1,5 @@
 ---
-permalink: /cv/
-title: CV
+permalink: /
 excerpt: "Hakan TERMAN - Özgeçmiş - CV"
 layout: single
 modified: 2018-11-29T20:53:07.573882-04:00
@@ -14,7 +13,7 @@ header:
 
 ---
 
-### Özet
+### Kısaca Ben
 
 Bilgisayara olan ilgisi ve merakının peşinde elinden geldiğince bir şeyler yapmaya çalışan, aynı zamanda yine bu alanda eğitimini sürdüren, gelecek dönemde de mesleği olarak devam ettirmek isteyen, hayallerinin peşinden koşan birisi..
 
