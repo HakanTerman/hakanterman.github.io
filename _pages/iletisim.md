@@ -10,11 +10,12 @@ header:
 ---
 
 <form action="https://formspree.io/hakanterman@gmail.com" method="POST">
-  <input type="text" name="name" placeholder="Adınız">
-  <input type="email" name="email" placeholder="E-Posta Adresiniz">
-  <textarea name="message" placeholder="Mesajınız"></textarea>
-  <input type="submit" value="Gönder">
+  <input type="text" name="Isim" placeholder="Adınız" id="goog-wm-qt">
+  <input type="email" name="Eposta" placeholder="E-Posta Adresiniz" id="goog-wm-qt">
+  <textarea name="Mesaj" placeholder="Mesajınız" id="goog-wm-qt"></textarea>
+  <input type="submit" value="Gönder" id="goog-wm-sb">
 </form>
+
 
 ### Bana ulaşmak için yan taraftaki sosyal medya hesaplarını da kullanabilirsiniz. En kısa sürede geri dönüş yapmaya çalışacağım. Yazmaktan çekinmeyin.
 
