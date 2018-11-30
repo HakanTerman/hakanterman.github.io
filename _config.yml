@@ -20,9 +20,9 @@ title                    : "Hakan TERMAN"
 title_separator          : "-"
 name                     : "Hakan TERMAN"
 description              : "Kişisel Web Sitesi"
-url                      : "https://hakanterman.github.io"
+url                      : "http://hakanterman.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hakanterman/hakanerman.github.io"
+repository               : "hakanterman/hakanterman.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
