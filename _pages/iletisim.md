@@ -9,11 +9,10 @@ header:
   caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
 ---
 
-### İletişim
+* Form
 
-Buraya İletişim Formu Gelecek
+### Bana ulaşmak için yan taraftaki sosyal medya hesaplarını da kullanabilirsiniz. En kısa sürede geri dönüş yapmaya çalışacağım.
 
 ---
-
-**Uyarı** Merhaba, beni daha iyi tanımak için  [LinkedIn profilimi](http://linkedin.com/in/HakanTerman) incelemek ister misiniz ?.
+**Mail** hakanterman [@] gmail [.] com
 {: .notice}
