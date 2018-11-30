@@ -26,8 +26,8 @@ Bilgisayara olan ilgisi ve merakının peşinde elinden geldiğince bir şeyler 
 
 ### Deneyim
 
-* 02/2011 - Now - Web İçerik Yönetimi  **Freelance**
 * 07/2015 - 08/2015 - Bilgi İşlem Stajı **T.C Sağlık Bakanlığı - Sivaslı Devlet Hastanesi**
+* 02/2011 - Bugün - Web İçerik Yönetimi  **Freelance**
 
 ### Dil
 
@@ -38,8 +38,8 @@ Bilgisayara olan ilgisi ve merakının peşinde elinden geldiğince bir şeyler 
 
 * 2014 - 2016 - Bilgisayar Programcılığı - Uşak Üniversitesi
 * 2016 - 2017 - Bilişim Sistemleri Mühendisliği - Yakın Doğu Üniversitesi(Terk)
-* 2017 - 2019 - Yönetim Bilişim Sistemleri - Anadolu Üniversitesi
-* 2017 - 2021 - Bilgisayar Teknolojisi ve Bilişim Sistemleri - Trakya Üniversitesi
+* 2017 - Bugün - Yönetim Bilişim Sistemleri - Anadolu Üniversitesi
+* 2017 - Bugün - Bilgisayar Teknolojisi ve Bilişim Sistemleri - Trakya Üniversitesi
 
 ### Sertifikalar
 
