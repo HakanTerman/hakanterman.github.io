@@ -6,7 +6,7 @@ layout: single
 modified: 2018-11-29T20:53:07.573882-04:00
 header:
   image: /assets/images/iletisim.jpg
-  caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
+  caption: "Fotoğraf Sahibi : [Igor Stevanovic](https://500px.com/stevanovicigor)"
 ---
 
 <form action="https://formspree.io/hakanterman@gmail.com" method="POST">

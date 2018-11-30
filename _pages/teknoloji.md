@@ -4,8 +4,8 @@ title: "Teknoloji Blogu"
 excerpt: "Teknoloji Blogu - Hakan TERMAN"
 layout: single
 header:
-  image: /assets/images/CVHakan.jpg
-  caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
+  image: /assets/images/teknoloji.jpg
+  caption: "Fotoğraf Sahibi : [Andrea Obzerova](https://500px.com/ABOPhotography)"
 ---
 
 <div class="posts">

@@ -4,8 +4,8 @@ title: "Kişisel Blog"
 excerpt: "Kişisel Blog - Hakan TERMAN"
 layout: single
 header:
-  image: /assets/images/CVHakan.jpg
-  caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
+  image: /assets/images/kisisel.jpg
+  caption: "Fotoğraf Sahibi : [David Charouz](https://500px.com/DavidCharouz)"
 ---
 
 <div class="posts">
