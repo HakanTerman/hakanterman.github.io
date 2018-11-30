@@ -16,9 +16,9 @@ header:
 
   {% if post.category == 'Kisisel' %}
   <div class="post">
-    <h3 class="post-title">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </h3>
+    <ul><h3 class="post-title">
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    </h3></ul>
   </div>
   {% endif %}
   {% endfor %}
