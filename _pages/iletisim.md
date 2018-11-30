@@ -9,9 +9,14 @@ header:
   caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
 ---
 
-* Form
+<form action="https://formspree.io/hakanterman@gmail.com" method="POST">
+  <input type="text" name="name" placeholder="Adınız">
+  <input type="email" name="email" placeholder="E-Posta Adresiniz">
+  <textarea name="message" placeholder="Mesajınız"></textarea>
+  <input type="submit" value="Gönder">
+</form>
 
-### Bana ulaşmak için yan taraftaki sosyal medya hesaplarını da kullanabilirsiniz. En kısa sürede geri dönüş yapmaya çalışacağım.
+### Bana ulaşmak için yan taraftaki sosyal medya hesaplarını da kullanabilirsiniz. En kısa sürede geri dönüş yapmaya çalışacağım. Yazmaktan çekinmeyin.
 
 ---
 **Mail** hakanterman [@] gmail [.] com
