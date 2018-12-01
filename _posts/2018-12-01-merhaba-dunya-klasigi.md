@@ -16,4 +16,4 @@ Daha önce çeşitli siteler, farklı kategorilerde bloglar ile internette yayı
 
 Bilgisayar ve teknolojiye olan ilgimin dışında gezmeyi, fotoğraf çekmeyi, gündemi takip etmeyi de pek aksattığım söylenemez. Kişisel alanda bu konulara da yer verebilmeyi umut ediyorum.
 
-### Kısacası, burası da benim not defterim.. Umarım işine yarar bir şeyler bulabilirsin.
+### Kısacası, burası da benim not defterim.. Umarım işine yarar bir şeyler bulabilirsin. Hoşgeldin..
