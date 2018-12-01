@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/posts/jekyll.jpg
   image: /assets/images/posts/jekyll.jpg
   caption: "Fotoğraf Sahibi : [Ilya Pavlov](https://www.everypixel.com/search?q=&authorname=Ilya%20Pavlov)"
-category: Teknoljoi
+category: Teknoloji
 ---
 
 Blog'umu beğendin değil mi ? Hatta konu hakkında biraz bilgi sahibiysen muhtemelen site kaynak kodlarını da inceledin. Biliyorum, çünkü benim de yaptığım şeylerden biri, bu siteyi nasıl yaptılar acaba diye kurcalamak.
