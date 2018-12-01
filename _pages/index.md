@@ -3,7 +3,7 @@ permalink: /index.html
 title: ""
 excerpt: "Hakan TERMAN - Özgeçmiş - CV"
 layout: single
-modified: 2018-11-29T20:53:07.573882-04:00
+modified: 2018-12-01T20:42:00.573882-04:00
 header:
   image: /assets/images/CVHakan.jpg
   caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
@@ -50,6 +50,17 @@ Bilgisayara olan ilgisi ve merakının peşinde elinden geldiğince bir şeyler 
 * 10/2015 - Bilgisayar İşletmenliği - Çizgi Tagem
 * 10/2015 - Bilişim Teknolojileri Destek Uzmanı - Çizgi-Tagem
 * 07/2015 - Introduction to Cybersecurity - Cisco
+* 03/2017 - Satış ve Pazarlama Teknikleri - İstanbul İşletme Enstitüsü
+* 03/2017 - Stres Yönetimi - İstanbul İşletme Enstitüsü
+* 02/2017 - CV Hazırlama ve İş Görüşmesine Hazırlık - İstanbul İşletme Enstitüsü
+* 02/2017 - Genel Muhasebe - İstanbul İşletme Enstitüsü
+* 02/2017 - İş Hukuku Uygulamaları - İstanbul İşletme Enstitüsü
+* 02/2017 - İş Yerinde Görgü Ve Etik Kuralları - İstanbul İşletme Enstitüsü
+* 04/2016 - Finansal Yönetim - İstanbul İşletme Enstitüsü
+* 04/2016 - Liderlik ve İşletme Yönetimi - İstanbul İşletme Enstitüsü
+* 04/2016 - Zaman Yönetimi - İstanbul İşletme Enstitüsü
+* 04/2016 - Zor Müşterilerle Başa Çıkma Yöntemleri - İstanbul İşletme Enstitüsü
+* 11/2015 - İletişim Teknolojileri ve Toplum - İstanbul İşletme Enstitüsü
 
 ### Ödüller & Onur Belgeleri
 
@@ -57,5 +68,5 @@ Bilgisayara olan ilgisi ve merakının peşinde elinden geldiğince bir şeyler 
 
 ---
 
-**Uyarı** Merhaba, beni daha iyi tanımak için  [LinkedIn profilimi](http://linkedin.com/in/HakanTerman) incelemek ister misiniz ?.
+**Uyarı** Merhaba, daha detaylı bilgiler için  [LinkedIn profilimi](http://linkedin.com/in/HakanTerman) ya da [Kariyer.Net profilimi](http://www.kariyer.net/ozgecmis/HakanTerman) incelemek ister misiniz ?.
 {: .notice}
