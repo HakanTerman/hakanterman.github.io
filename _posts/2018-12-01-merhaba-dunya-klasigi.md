@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/posts/merhaba.jpg
   image: /assets/images/posts/merhaba.jpg
   caption: "Fotoğraf Sahibi : [A. Dmitrenko](https://500px.com/dmitrenko)"
-category: Teknoloji, Kisisel
+category: [Teknoloji, Kisisel]
 ---
 
 Merhabaa, sanırım hakkımda bir şeyler öğrenmek istediğin için buradasın. Kendimi biraz olsun tanıtabildiğim bir sayfam olsun istedim. Anasayfa'da okuduğun klasik bi CV'den sonra burada samimi olarak tanışalım.
