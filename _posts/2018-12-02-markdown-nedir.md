@@ -4,7 +4,7 @@ tags: [markdown, markdown nedir]
 header:
   teaser: /assets/images/posts/markdown.jpg
   image: /assets/images/posts/markdown.jpg
-  caption: "Fotoğraf Sahibi : [A. Dmitrenko](https://500px.com/dmitrenko)"
+  caption: "Fotoğraf Sahibi : [Hakan Terman](https://hakanterman.com)"
 category: Teknoloji
 ---
 
@@ -85,4 +85,4 @@ Ana hatları ile sistemi bu şekilde özetleyebiliriz. Daha detaylı şekilde ya
 
 * [Stackedit](https://stackedit.io/app)
 
-Markdown etiketleri konusunda [Ömer Yaylaali](http://omeryaylaalti.github.io/blog/markdown/)'nın  blogundaki yazısından biraz kopya çektim.
+Markdown etiketleri'ni öğrenirken, bu konuda güzel bir rehber hazırlayan [Ömer Yaylaali](http://omeryaylaalti.github.io/blog/markdown/)'nın  blogundaki yazısından biraz kopya çektiğimi de belirtmeden geçmeyeyim.
