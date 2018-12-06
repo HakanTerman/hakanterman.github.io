@@ -7,7 +7,7 @@ header:
   caption: "Fotoğraf Sahibi : [Hakan Terman](https://hakanterman.com)"
 category: Teknoloji
 layout: single
-permalink: /teknoloji/markdown-nedir
+permalink: /teknoloji/markdown-nedir/
 ---
 
 ### Jekyll'e Nasıl Yazı Eklenir ?
