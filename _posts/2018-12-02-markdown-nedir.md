@@ -6,6 +6,7 @@ header:
   image: /assets/images/posts/markdown.jpg
   caption: "Fotoğraf Sahibi : [Hakan Terman](https://hakanterman.com)"
 category: Teknoloji
+layout: single
 ---
 
 ### Jekyll'e Nasıl Yazı Eklenir ?
