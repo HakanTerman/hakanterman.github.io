@@ -3,12 +3,6 @@ layout: default
 author_profile: true
 ---
 
-{% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
-{% endif %}
-
 <div id="main" role="main">
   {% include sidebar.html %}
 
