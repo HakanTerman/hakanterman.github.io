@@ -291,9 +291,9 @@ compress_html:
 
 # Defaults
 defaults:
-   _posts
+#   _posts
   - scope:
-      path: ""
+      path: "/yazi"
       type: posts
     values:
       layout: single
