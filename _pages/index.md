@@ -1,6 +1,7 @@
 ---
 permalink: /index.html
 title: ""
+tags: [hakanterman, hakan terman kimdir, hakan terman, terman hakan]
 excerpt: "Hakan TERMAN - Özgeçmiş - CV"
 layout: single
 modified: 2018-12-01T20:42:00.573882-04:00
