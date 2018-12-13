@@ -28,5 +28,6 @@ header:
   </div>
    {% capture year %}{{currentyear}}{% endcapture %}
   {% endif %}
+  {% endif %}
   {% endfor %}
 </div>
