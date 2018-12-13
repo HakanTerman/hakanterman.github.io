@@ -16,9 +16,12 @@ header:
 
   {% if post.category == 'Teknoloji' %}
   <div class="post">
-  <ul><h3 class="post-title">
-    <li><a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a></li>
-  </h3></ul>
+  <div class="post-inner">
+  <div class="date">{{ post.date | date: "%d/%m/%Y" }}</div>
+  <div class="title">
+<a href="{{ post.url }}">{{ post.title }}</a>
+  </div>
+  </div>  
   </div>
   {% endif %}
   {% endfor %}
