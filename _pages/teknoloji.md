@@ -14,9 +14,6 @@ header:
     {% assign author = site.authors[post.author] %}
     {{ author.display_name }}
 
-    {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
-    {% if currentyear != year %}
-
   {% if post.category == 'Teknoloji' %}
   <div class="post">
   <div class="post-inner">
@@ -26,8 +23,6 @@ header:
   </div>
   </div>  
   </div>
-   {% capture year %}{{currentyear}}{% endcapture %}
-  {% endif %}
   {% endif %}
   {% endfor %}
 </div>
