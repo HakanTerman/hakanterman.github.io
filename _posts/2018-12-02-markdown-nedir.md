@@ -10,8 +10,6 @@ layout: single
 permalink: /teknoloji/markdown-nedir/
 ---
 
-### Jekyll'e Nasıl Yazı Eklenir ?
-
 Jekyll'in online çalışan, veritabanı ihtiyacı olmayan bir sistem olduğundan bir önceki yazımda belirtmiştim.
 Sistem üzerinde yazılar '.md' dosyası içinde tutuluyor. Her yazı aslında birer dosyadan oluşmakta. Jekyll bu dosyaları okuyup 'HTML' biçimine çevirerek otomatik olarak yayına alıyor.
 
