@@ -20,16 +20,16 @@ Yaşamayı seven, gezmeyi görmeyi seven biri olarak yaşadığım her günü ve
 2. Yüksek lisans yap.
 3. Uzun bir araba yolculuğuna çık.
 4. Dünyanın 7 Harikasından birini gör.
-5. Ehliyet al (Araba kullanmayı öğren).
+5. ~~Ehliyet al (Araba kullanmayı öğren).~~
 6. Gün doğumu ve gün batımını dışarıda eşsiz bir yerde izle.
 7. Yeni yıla yurt dışında gir.
 8. Yamaç Paraşütü yap.
-9. Dikili bir ağacın olsun.
-10. Ormanda bir gece geçir - kamp vs.
+9. ~~Dikili bir ağacın olsun.~~
+10. ~~Ormanda bir gece geçir - kamp vs.~~
 11. Helikoptere bin.
 12. Kuzey Işıklarını gör.
 13. Bir şişe içinde mesaj gönder.
-14. Anıtkabir’i ziyaret et
+14. ~~Anıtkabir’i ziyaret et.~~
 15. TT Arena’da maç izle.
 16. Silah kullanmayı öğren,Poligon’a git
 17. 81 ilin tümünü gör.
@@ -42,10 +42,10 @@ Yaşamayı seven, gezmeyi görmeyi seven biri olarak yaşadığım her günü ve
 24. Roller Coaster’a bin.
 25. G-max’e bin.
 26. Paraşütle uçaktan atla
-27. Sahilde sabahla.
+27. ~~Sahilde sabahla.~~
 28. Bir yıl boyunca her gün fotoğrafını çek.
 29. Business Class uç.
-30. Balık tut.
+30. ~~Balık tut.~~
 31. Araba sahibi ol.
 32. Ev sahibi ol.
 33. Zaman kapsülü göm.
@@ -58,9 +58,9 @@ Yaşamayı seven, gezmeyi görmeyi seven biri olarak yaşadığım her günü ve
 40. Dart tahtasını 12’den vur.
 41. Volkanik bir dağı yakından gör.
 42. Sev.
-43. Sevilin.
-44. İşaret dili öğrenin.
-45. Mors alfabesi öğren.
+43. Sevil.
+44. ~~Platonik olarak sevdiğiniz birine duygularını açıkça söyle.~~
+45. Hayatının aşkını bul.
 46. Mona Lisa gibi bir kaç büyük eseri yerinde gör.
 47. Çin seddine ayak bas.
 48. Tüm ulaşım araçlarını dene.
@@ -74,7 +74,7 @@ Yaşamayı seven, gezmeyi görmeyi seven biri olarak yaşadığım her günü ve
 56. Teleferiğe bin.
 57. Tekne turuna çık.
 58. Dövme yaptır.
-59. Su kaydırağından kay.
+59. ~~Su kaydırağından kay.~~
 60. Paintball savaşı yap.
 61. Trenle uzun yolculuk yap (Doğu Ekspresi)
 62. Taj mahali ziyaret et.
@@ -84,24 +84,25 @@ Yaşamayı seven, gezmeyi görmeyi seven biri olarak yaşadığım her günü ve
 66. Rastgele bir adrese mektup yolla.
 67. Atv’ye bin.
 68. En azından bir günlüğüne hayallerindeki arabayı kullan.
-69. Platonik olarak sevdiğiniz birine duygularınızı açıkça söyle.
-70. Noel babayı Finlandiya’da ziyaret et.
-71. Finlandiya’dakicam iglolarda en az bir gece konaklayın.
-72. Büyük Kanyon’u gezin.
-73. Çernobil bölgesine git, Pripyat şehrini gez.
-74. London Eye'i gör.
-75. Eyfel kulesini gör.
-76. Dini kitapların 4’ünü kendi dilinde anlayarak oku.
-77. Mostar köprüsünü gör.
-78. Onunla aynı kıyafetleri giy, bir gün geçir.
-79. Anayasa kitapçığını oku.
-80. Kelebekler Vadisini gör.
-81. Hayatının aşkını bul.
+69. İşaret dili öğrenin.
+70. Mors alfabesi öğren.
+71. Noel babayı Finlandiya’da ziyaret et.
+72. Finlandiya’daki cam iglolarda en az bir gece konaklayın.
+73. Büyük Kanyon’u gezin.
+74. Çernobil bölgesine git, Pripyat şehrini gez.
+75. London Eye'i gör.
+76. Eyfel kulesini gör.
+77. Dini kitapların 4’ünü kendi dilinde anlayarak oku.
+78. Mostar köprüsünü gör.
+79. Onunla aynı kıyafetleri giy, bir gün geçir.
+80. Anayasa kitapçığını oku.
+81. Kelebekler Vadisini gör.
 82. Likya yolunu takip et, manzaları gör.
 83. KKTC'de ters trafikte araba kullan.
 84. Yabancı bir ülkede araba kullan.
 85. Arabanla ülke değiştir.
-86. ...
+86. Bungee-Jumping yap.
+87. ...
 00. Ölmeden Önce Yapılacaklar Listeni Uygula!
 
 Bu konuda bir çok blog'u inceleyip bir çok yazı okudum ama ilk olarak bu konuda yazı yazma fikrini aklıma getiren [Hayallerimde Ben](https://www.hayallerimdeben.com/25ten-once-25/)'e çok teşekkürler.
