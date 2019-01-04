@@ -32,7 +32,7 @@ Nüfus sanıyorum ki merkezde 60 Bin civarı.
 
 Şehir içi ulaşım için 6 farklı hat ile çalışan minibüsler mevcut. İlçe içinde sizi her yere öğrenciyseniz **1.50,** sivilseniz **2.50** TL gibi bir ücret ile götürebiliyorlar. Biraz eski tip, ufak şehir içi dolmuşlar canlanabilir gözünüzde. Yolculuk eğlenceli olabiliyor :)
 
-Edirne Merkez'e yaklaşık 120km civarında. Otobüs ile ulaşım için biletler de XXTL civarında. Bunun dışında Tekirdağ'a yaklaşık 90km ve İstanbul'a xxkm civarında.
+Edirne Merkez'e yaklaşık 120km civarında. Otobüs ile ulaşım için biletler de 20-25TL civarında. Bunun dışında Tekirdağ'a yaklaşık 90km ve 20TL ve İstanbul'a 240km ve 40-45TL civarında.
 
 * Geceler
 
