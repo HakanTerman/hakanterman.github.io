@@ -1,6 +1,6 @@
 ---
 title: Her Yönüyle Keşan
-tags: [2018, 2018 yılı, hayatıma neler kattı, 2018 özeti]
+tags: [keşan, yusuf çapraz uygulamalı bilimler, keşanda öğrenci olmak, keşanda hayat, ctis, trakya üni ctis, trakya ctis, keşan btbs, keşanda öğrenci olmak, edirne keşan]
 header:
   teaser: /assets/images/posts/kesan.jpg
   image: /assets/images/posts/kesan.jpg
