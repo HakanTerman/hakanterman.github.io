@@ -22,11 +22,13 @@ Bilgisayara olan ilgisi ve merakının peşinde elinden geldiğince bir şeyler 
 * Microsoft Office
 * Linux
 * Linux Sunucu
-* Photoshop
+* Adobe Photoshop
+* Grafik Tasarımı & Reklam
 * Bilgisayar Ağları
 
 ### Deneyim
 
+* 06/2019 - 08/2019 - Bilgi İşlem Stajı **T.C Sivaslı Belediyesi**
 * 07/2015 - 08/2015 - Bilgi İşlem Stajı **T.C Sağlık Bakanlığı - Sivaslı Devlet Hastanesi**
 * 02/2011 - Bugün - Web İçerik Yönetimi  **Freelance**
 
