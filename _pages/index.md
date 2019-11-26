@@ -4,7 +4,7 @@ title: ""
 tags: [hakanterman, hakan terman kimdir, hakan terman, terman hakan]
 excerpt: "Hakan TERMAN - Özgeçmiş - CV"
 layout: single
-modified: 2018-12-01T20:42:00.573882-04:00
+modified: 2019-11-26T20:11:00.573882-04:00
 header:
   image: /assets/images/CVHakan.jpg
   caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
