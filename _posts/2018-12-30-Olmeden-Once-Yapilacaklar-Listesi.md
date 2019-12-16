@@ -20,16 +20,16 @@ Yaşamayı seven, gezmeyi görmeyi seven biri olarak yaşadığım her günü ve
 2. Yüksek lisans yap.
 3. Uzun bir araba yolculuğuna çık.
 4. Dünyanın 7 Harikasından birini gör.
-5. ~~Ehliyet al (Araba kullanmayı öğren).~~
+5. ~~Ehliyet al (Araba kullanmayı öğren).~~ (Aralık 2015)
 6. Gün doğumu ve gün batımını dışarıda eşsiz bir yerde izle.
 7. Yeni yıla yurt dışında gir.
 8. Yamaç Paraşütü yap.
-9. ~~Dikili bir ağacın olsun.~~
-10. ~~Ormanda bir gece geçir - kamp vs.~~
+9. ~~Dikili bir ağacın olsun.~~ (Sivaslı/Ev Bahçesi/Aklıma gelmeyen bir çok yer)
+10. ~~Ormanda bir gece geçir - kamp vs.~~ (Sivaslı/Sırakayalar)
 11. Helikoptere bin.
 12. Kuzey Işıklarını gör.
-13. Bir şişe içinde mesaj gönder.
-14. ~~Anıtkabir’i ziyaret et.~~
+13. ~~Bir şişe içinde mesaj gönder.~~ (Çanakkale-2019)
+14. ~~Anıtkabir’i ziyaret et.~~ (Şubat 2016)
 15. TT Arena’da maç izle.
 16. Silah kullanmayı öğren,Poligon’a git
 17. 81 ilin tümünü gör.
@@ -42,20 +42,20 @@ Yaşamayı seven, gezmeyi görmeyi seven biri olarak yaşadığım her günü ve
 24. Roller Coaster’a bin.
 25. G-max’e bin.
 26. Paraşütle uçaktan atla
-27. ~~Sahilde sabahla.~~
-28. Bir yıl boyunca her gün fotoğrafını çek.
+27. ~~Sahilde sabahla.~~ (Alanya - 2017 Eylül)
+28. Bir yıl boyunca her gün kendi fotoğrafını çek.
 29. Business Class uç.
-30. ~~Balık tut.~~
+30. ~~Balık tut.~~ (Emet - 2011)
 31. Araba sahibi ol.
 32. Ev sahibi ol.
 33. Zaman kapsülü göm.
 34. Hayallerinin peşinden koşan birine daha yardımcı olmanın mutluluğunu hisset.
 35. 1000 parçalı puzzle al çöz.
-36. Hayatınızın kilit noktalarındaki insanlara teşekkür et.
-37. Güneş tutulmasını izle.
-38. Uçurtma uçur.
+36. Hayatının kilit noktalarındaki insanlara teşekkür et.
+37. ~~Güneş tutulmasını izle.~~ (Sivaslı)
+38. ~~Uçurtma uçur.~~ (Sivaslı)
 39. En az 5 insanı “ölmeden önce yapılacaklar listesi” hazırlaması için ikna et.
-40. Dart tahtasını 12’den vur.
+40. ~~Dart tahtasını 12’den vur.~~ (Keşan/TUBİT)
 41. Volkanik bir dağı yakından gör.
 42. Sev.
 43. Sevil.
@@ -70,17 +70,17 @@ Yaşamayı seven, gezmeyi görmeyi seven biri olarak yaşadığım her günü ve
 52. Dilek Feneri Bırak.
 53. Oktoberfest’te Almanya’da Bira İç.
 54. Mısır’da Piramitleri Gör.
-55. Mektup yaz.
-56. Teleferiğe bin.
+55. ~~Mektup yaz.~~ (2006)
+56. ~~Teleferiğe bin.~~ (Denizli/İzmir/Ankara)
 57. Tekne turuna çık.
 58. Dövme yaptır.
-59. ~~Su kaydırağından kay.~~
+59. ~~Su kaydırağından kay.~~ (Alanya/İzmir/Uşak...)
 60. Paintball savaşı yap.
-61. Trenle uzun yolculuk yap (Doğu Ekspresi)
+61. Trenle uzun yolculuk yap (Doğu Ekspresi gibi)
 62. Taj mahali ziyaret et.
 63. Gemi ile dünya turuna çık.
 64. Paristeki aşıklar köprüsüne kilit tak.
-65. Bowling oyna.
+65. ~~Bowling oyna.~~ (Ankara/Uşak)
 66. Rastgele bir adrese mektup yolla.
 67. Atv’ye bin.
 68. En azından bir günlüğüne hayallerindeki arabayı kullan.
@@ -102,7 +102,11 @@ Yaşamayı seven, gezmeyi görmeyi seven biri olarak yaşadığım her günü ve
 84. Yabancı bir ülkede araba kullan.
 85. Arabanla ülke değiştir.
 86. Bungee-Jumping yap.
-87. ...
+87. ~~Dikili bir ağacın olsun.~~ (Sivaslı)
+88. ~~Traktör kullan.~~ (Sivaslı - New Holland TT55)
+89. .~~TBMM Genel Kurulunu Gör..~~ (Mayıs 2017)
+90. Havaalanında veya tren istastonunda bir gece geçir.
+91. ...
 00. Ölmeden Önce Yapılacaklar Listeni Uygula!
 
 Bu konuda bir çok blog'u inceleyip bir çok yazı okudum ama ilk olarak bu konuda yazı yazma fikrini aklıma getiren [Hayallerimde Ben](https://www.hayallerimdeben.com/25ten-once-25/)'e çok teşekkürler.
