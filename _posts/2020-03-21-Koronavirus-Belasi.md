@@ -77,9 +77,8 @@ Açıklama anından itibaren ülkem insanında başlayan panik hali kendisini er
 
 İhtiyacından fazlasını alan insanlar, kendilerinden sonra gelecek kişiyi düşünmeyip bencilliklerini ortaya koymaya devam ediyor.
 
-{{< tweet 1241062462671077377 >}}
 
-[Tweet](https://twitter.com/JakirHo86545903/status/1241062462671077377)
+![Stok Yapmayın](https://pbs.twimg.com/media/ETkjumvU0AEsPDl?format=jpg&name=900x900)
 
 ![Bencillik](https://i.ibb.co/QDKHRYt/bencillik.png)
 
@@ -100,9 +99,8 @@ Vee gelelim karantina maceralarının başlamasına. Yurt dışından dönen her
 
 Eğitime ara verilmesi ve tekrardan örgün eğitime dönüş tarihinin belli olmaması üzerine Milli Eğitim Bakanı Sayın Ziya SELÇUK uzaktan eğitim için çalışmalarının olduğunu ve 23 Mart itibari ile Eğitim Bilişim Ağı (EBA) ve TRT ile anlaşmalı eğitim kanalları aracılığıyla eğitime uzaktan devam edileceğini açıkladı.
 
-{{< tweet 1240968685520551937 >}}
-
-[Tweet](https://twitter.com/ziyaselcuk/status/1240968685520551937)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="tr" dir="ltr">Çocuklara selam ederek, bu sürecin tatil değil uzaktan eğitim olduğunu herkese hatırlatmak için paylaşmanızı rica ederim. Eğitime hep birlikte devam edeceğiz... #tatildegiluzaktanegitim
+#uzaklaştıkçayakınlaşıyoruz</p>&mdash; Ziya Selçuk (@ziyaselcuk) <a href="https://twitter.com/ziyaselcuk/status/1240968685520551937">ÖS 2:49 · 20 Mar 2020</a></blockquote>
 
 YÖK başkanı Sayın Yekta SARAÇ yaptığı açıklamada "23 Mart'ta uzaktan eğitim kapasitesine sahip üniversitelerimizde dijital imkanlarla uzaktan öğretim süreci başlayacak. Bu kapasiteye sahip olmayan üniversiteler için de 23 Mart'ta açık ders malzemeleri havuzu açılacaktır. Bu hususu üniversitelerin kendi karar süreçlerinde, kendi şartları içerisinde sürdürmelerinin doğru olduğunu düşünüyoruz" dedi.
 Vize sınavları ertelenecek mi sorusuna, "Üniversiteler karar verecek. Online sınav olup olmayacağına üniversiteler karar verecek. Online yapabilirler ama şeffaf ve denetelenebilir nitelikte olmasını istiyoruz" dedi. ([Haber Kaynağı](https://www.ntv.com.tr/egitim/yok-baskani-sarac-23-martta-universitelerde-uzaktan-egitim-baslayacak,ev-QfMQho0-gnCXOclhFWQ))
@@ -122,9 +120,8 @@ Dünyanın bir çok yerinde insanlar kendilerine bir nevi karantina uyguluyor, t
 
 İnsanların evlerine kapanması durumunun olumsuz etkileri de yok değil, yiyecek bir şeyler bulamayan sokak hayvanları aç kaldıkları için her yerde yemek arıyorlar, insanların kendilerini beslemesine alışık olan güvercinler aç kaldıkları için sokakta bir insan dahi görseler peşine takılıyorlar, vahşi hayvanlar insanların gittiğini düşünerekten şehir merkezlerine iniyor
 
-{{< tweet 1241086203916664834 >}}
+<blockquote class="twitter-tweet"><p lang="tr" dir="ltr">İnsanlar tarafından beslenmeye alıştırılan şehirlerde yaşayan hayvanlar herkes evlere kapandığından aç kalıyorlar. İspanya’da aç kalmış güvercinler ıssız sokakta bir insan görüyorlar. <a href="https://t.co/mr7UGBL9fP">pic.twitter.com/mr7UGBL9fP</a></p>&mdash; klaus (@cesitlikonular) <a href="https://twitter.com/cesitlikonular/status/1241086203916664834?ref_src=twsrc%5Etfw">March 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[Tweet](https://twitter.com/cesitlikonular/status/1241086203916664834)
 
 Tabii bu kadar salgın tedbirleri derken, dünya futbolu da bundan nasibini aldı. Uluslararası bir çok futbol organizasyonu bu dönemde ertelendi. Her 4 Yılda bir yapılan Avrupa Futbol turnuvasının bu seneki organizasyonu Euro 2020 de 2021'e ertelendi. Dünya ülkeleri kendi lig maçlarını da bir süreliğine erteleme kararı aldı. Ülkemizde de salgın haberi ile birlikte ilk hafta maçlar seyircisiz olarak oynandı, kulüplerdeki futbolcular ve Galatasaray Teknik direktörü Fatih Terim gibi bir çok isim bu duruma itiraz ederek liglerin ertelenmesi gerektiğini söylediler. Bu doğrultuda Gençlik ve Spor Bakanı sayın Muharrem KASAPOĞLU'nun açıklaması ile ligler süresiz olarak ertelenmiş oldu. ([Haber Kaynağı](https://www.ntv.com.tr/spor/son-dakika-ligler-ertelendi-bakan-kasapoglu-acikladi,P7MB5WDmLEabTEvIAwB47A))
 
@@ -219,7 +216,7 @@ Gelen cevap şu şekilde :
 
 Bu sayede kullanıcılar bilgi alınmak istedikleri seçeneğin numarasını girerek salgınla ilgili son gelişmelere ulaşılabiliyor.
 
-Virüs ile ilgili Dünya üzerindeki son dakika bilgilerini de sayfanın sonunda aşağıdaki pencereden anlık olarak takip edebilirsiniz :
+Virüs ile ilgili Dünya üzerindeki son dakika bilgilerini de sayfanın sonunda aşağıdaki pencereden veya [bu bağlantıdan](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) anlık olarak takip edebilirsiniz :
 
 <iframe src="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" width="600" height="350" allowfullscreen></iframe>
 
