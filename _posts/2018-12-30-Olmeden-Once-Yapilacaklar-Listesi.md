@@ -102,11 +102,16 @@ Yaşamayı seven, gezmeyi görmeyi seven biri olarak yaşadığım her günü ve
 84. Yabancı bir ülkede araba kullan.
 85. Arabanla ülke değiştir.
 86. Bungee-Jumping yap.
-87. ~~Dikili bir ağacın olsun.~~ (Sivaslı)
+87. Baba ol...
 88. ~~Traktör kullan.~~ (Sivaslı - New Holland TT55)
 89. .~~TBMM Genel Kurulunu Gör..~~ (Mayıs 2017)
 90. Havaalanında veya tren istastonunda bir gece geçir.
-91. ...
+91. Kendin bir resim yap ve çerçevelet.
+92. Birine etkileneceği bir sürpriz yap.
+93. Casinoda Slot makinesinde şansını dene.
+94. Galata Kulesine çık. (Tek değil :p )
+95. Kız Kulesi'ne git.
+96. ...
 00. Ölmeden Önce Yapılacaklar Listeni Uygula!
 
 Bu konuda bir çok blog'u inceleyip bir çok yazı okudum ama ilk olarak bu konuda yazı yazma fikrini aklıma getiren [Hayallerimde Ben](https://www.hayallerimdeben.com/25ten-once-25/)'e çok teşekkürler.
