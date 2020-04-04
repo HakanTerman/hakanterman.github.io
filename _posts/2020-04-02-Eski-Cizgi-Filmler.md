@@ -60,12 +60,12 @@ Onlarca örnek sayabilirim buna, hatta aklıma gelenleri yazayım şöyle ;
 	-   Snoopy
 	-   Vikingler
 	-   Power Puf Girls
-  -   Beyaz Tavuk (Foghorn Leghorn)
-  -   Ayakları olan yumurta (ismini hatırlayamadım)
-  -   Hector ve Yavrusu Spike
-  -   Afacan Dennis
-  -   Değerli
-  -   101 Dalmaçyalı
+	-   Beyaz Tavuk (Foghorn Leghorn)
+	-   Ayakları olan yumurta (ismini hatırlayamadım)
+	-   Hector ve Yavrusu Spike
+	-   Afacan Dennis
+	-   Değerli
+	-   101 Dalmaçyalı
 
 Şuan için hatırlayabildiklerim bu kadar, eğer unuttuklarım varsa yorumlardan bekliyorum :)
 
