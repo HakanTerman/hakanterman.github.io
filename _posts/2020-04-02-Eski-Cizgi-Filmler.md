@@ -27,9 +27,9 @@ Bir çok çocuğun tarihe ilgi duymasına sebep olan, daha önceleri hayatın fa
 
 Bugs Bunny vardı mesela; çeşitli figürlerle dans eden zekice hamlelerle kendisini koruyan bi tavşan. Avcıdan kaçan ama vurulmayan bi Daffy Duck vardı, insanların hayvanları avlamaya çalıştıkları, av sezonu diye bir dönem olduğunu ilk defa o çizgi filmde görmüştüm ben. Çoğunun teması sevgiydi, mutluluktu.
 
-Onlarca örnek sayabilirim buna, hatta aklıma gelenleri yazayı şöyle ;
+Onlarca örnek sayabilirim buna, hatta aklıma gelenleri yazayım şöyle ;
 
-	-   Looney Tunes (Bugs Bunny, Daffy Duck, Tazmanya Canavarı)
+	-   Looney Tunes (Bugs Bunny, Daffy Duck, Tazmanya Canavarı, Avcı Domuz, Sam)
 	-   Tom ve Jerry
 	-   Pembe Panter
 	-   Tweety ve Sylvester
@@ -60,7 +60,14 @@ Onlarca örnek sayabilirim buna, hatta aklıma gelenleri yazayı şöyle ;
 	-   Snoopy
 	-   Vikingler
 	-   Power Puf Girls
+  -   Beyaz Tavuk (Foghorn Leghorn)
+  -   Ayakları olan yumurta (ismini hatırlayamadım)
+  -   Hector ve Yavrusu Spike
+  -   Afacan Dennis
+  -   Değerli
+  -   101 Dalmaçyalı
 
+Şuan için hatırlayabildiklerim bu kadar, eğer unuttuklarım varsa yorumlardan bekliyorum :)
 
 Bugün bu çizgi filmleri gördüğümde 24 yaşıma rağmen oturup izliyorum. Ama televizyonlar yayınlamamakta ısrar ediyor, 3 yaşındaki çocuklara bir dönem Kayyu diye bir karakterin saçmalıklarını izletmek, Pepee çok üzülüyor diye şarkı söyletmek daha doğru geliyor. Sadece çizgi film olsun, karakterler göz boyasın ama bir şey öğretilmesin mantığı ile yayınlanan bu çizgi filmlerin gerçekten de izlenecek hiç bir yanı yok.
 
