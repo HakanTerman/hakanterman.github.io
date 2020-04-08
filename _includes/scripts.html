@@ -9,7 +9,43 @@
   {% endfor %}
 {% else %}
   <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+  <script>
+  const theme = localStorage.getItem('theme');
+  	if (theme === "dark") {
+  		document.documentElement.setAttribute('data-theme', 'dark');
+  	}
+  </script>
   <script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+  <script>
+  const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');
+
+if (theme === "dark") {
+	document.getElementById("theme-toggle").innerHTML = "Light Mode";
+} else if (theme === "light") {
+	document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+} else if  (userPrefers === "dark") {
+	document.documentElement.setAttribute('data-theme', 'dark');
+	window.localStorage.setItem('theme', 'dark');
+	document.getElementById("theme-toggle").innerHTML = "Light Mode";
+} else {
+	document.documentElement.setAttribute('data-theme', 'light');
+	window.localStorage.setItem('theme', 'light');
+	document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+}
+
+function modeSwitcher() {
+	let currentMode = document.documentElement.getAttribute('data-theme');
+	if (currentMode === "dark") {
+		document.documentElement.setAttribute('data-theme', 'light');
+		window.localStorage.setItem('theme', 'light');
+		document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+	} else {
+		document.documentElement.setAttribute('data-theme', 'dark');
+		window.localStorage.setItem('theme', 'dark');
+		document.getElementById("theme-toggle").innerHTML = "Light Mode";
+	}
+}
+  </script>
 {% endif %}
 
 {% if site.search == true or page.layout == "search" %}
