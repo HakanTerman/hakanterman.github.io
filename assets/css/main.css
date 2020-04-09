@@ -12,7 +12,7 @@ body[data-theme="dark"] {
 }
 
 @media (data-theme="dark") {
-    html {
+    body {
       background-color: #252a34;
       text-color: #eaeaea;
       primary-color: #00adb5;
