@@ -11,9 +11,9 @@ body[data-theme="dark"] {
 
 }
 
-@media (data-theme="dark") {
-    body {
-      background-color: #252a34;
+@media (prefers-color-scheme: dark) {
+    html {
+      background-color: (#252a34;)
       text-color: #eaeaea;
       primary-color: #00adb5;
       border-color: mix(#fff, $background-color, 20%);
