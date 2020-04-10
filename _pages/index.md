@@ -111,5 +111,5 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 
 ---
 
-**Uyarı** Merhaba, daha detaylı bilgiler için  [LinkedIn profilimi](http://linkedin.com/in/HakanTerman), [Kariyer.Net profilimi](http://www.kariyer.net/ozgecmis/HakanTerman) ya da [Özgeçmişimi](http://www.kariyer.net/ozgecmis/HakanTerman) incelemek ister misiniz ?.
+**Uyarı** Merhaba, daha detaylı bilgiler için  [LinkedIn profilimi](http://linkedin.com/in/HakanTerman), [Kariyer.Net profilimi](http://www.kariyer.net/ozgecmis/HakanTerman) ya da [Özgeçmişimi](https://hakanterman.com/assets/hakanterman-cv.pdf) incelemek ister misiniz ?.
 {: .notice}
