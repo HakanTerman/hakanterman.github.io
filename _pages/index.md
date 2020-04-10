@@ -87,7 +87,9 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 ### Sertifikalar
 
 > 12/2016 - TEB KOBİ TV Online Eğitim Katılım Belgesi - TEB
+
 > 08/2016 - Web Programlama 301 - Turkcell Geleceği Yazanlar
+
 > 08/2016 - Web Programlama 201 - Turkcell Geleceği Yazanlar
 > 08/2016 - Web Programlama 101 - Turkcell Geleceği Yazanlar
 > 10/2015 - Bilgisayar İşletmenliği - Çizgi Tagem
