@@ -10,11 +10,11 @@ header:
   caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
 ---
 
-### Kimim Ben
+## Kimim Ben
 
 Doğru ya, bu sayfaya geldiysen muhtemelen hakkımda bir şeyler arıyor olmalısın, hazır buraya kadar gelmişken dur biraz anlatayım;
 
-Çocukluğumdan bu yana (o kadar da yaşlı değilim, 96 model :blush: ) bir şeylerin nasıl çalıştığı ve acaba ben de yapabilir miyim yönündeki merakım sonucu olarak bu sayfaya kadar geldik, beraberiz.
+Çocukluğumdan bu yana (o kadar da yaşlı değilim, 96 model :blush:) bir şeylerin nasıl çalıştığı ve acaba ben de yapabilir miyim yönündeki merakım sonucu olarak bu sayfaya kadar geldik, beraberiz.
 Elektrikli aletlerin nasıl çalışıyor olduğunu merak eden, bulduğu her fırsatta söküp anlamasa da içine bakan ben bu merakımı bilgisayar denilen bu aletle birleşirince bir de üzerine internet diye bir şeyin olduğunu fark edince olanlar oldu.
 
 2005 civarı tanıştığım bilgisayar benim için yaşıtlarım gibi bir oyun makinesi olmanın ötesinde, acaba bununla neler yapılabiliyor sorununu da beraberinde getirdi. 2006 yılında "blogcu" isimli bir sitede, benim de bir sitem olabileceğini anlayıp o kayıt formunu doldurduktan sonra aslında bilmeden HTML diye bir şeyi keşfetmiş oldum.
@@ -28,11 +28,31 @@ Bunlara ek olarak aile ve arkadaş ortamının "bilgisayarcı" olarak nitelediğ
 **Merhaba Ben Hakan :)**
 
 Eğer bu sektörde bir şeyler yapıyorsan güne kadar çeşitli forum sitelerinde, ya da internette bir yerlerde farklı kullanıcı adları ile karşılaşmış olduğumuzu tahmin ediyorum.
+
 2018'den bu yana çok aşırı canlı olmasa da bir blog sitem var, sosyal medyanın her türlüsünü kullanıyorum. Eğer bu çocuk gözümün önünde bir yerlerde dursun dersen, onlara da sol taraftaki bağlantılardan ulaşabilirsin.
 
 Dünyayı, hayatı, insanları dolayısı ile yaşamayı seven biriyim, bol bol da hayalleri olan..
 
 Teknik detaylara geçecek olursak onlar da şöyle işte :
+
+### Donanım
+Bir çok konuda olduğu gibi burada da marka takıntılı birisi değilim, aldığım ürünün markasından, gösterişinden daha çok işimi ne seviyede rahatlattığına odaklanıyorum. Ama ne yalan söyleyeyim, bazı markalar da bu işi yapıyor ya. (Tamam tamam şakaydı :yum:)
+
+2005'ten beri sanırım hayatımda bilgisayar başına geçmediğim gün sayılıdır diyebilirim. Bir şeyler beni bu cihazın başına mutlaka çekiyor. Aslında şikayetci değilim, ben de onu seviyorum :p Hayatımın bir parçası oldu diyebiliriz.
+Tabi o zamandan beri çok fazla bilgisayar değişikliği yapmış olsam da şuan ["Macbook Pro 13"](https://www.apple.com/tr/macbook-pro/) sahibiyim.
+
+Telefonum, sık sık güncellenen ekipmanlarımdan biri olarak bana eşlik ediyor. Bir çok kişi gibi ben de kendisinin baya bir düşkünüyüm. Yani online dünyaya her yerde bağlantımı sağlayan bu cihaz benim için gayet önemli. ["Xiaomi Mi 9T"](https://www.mi.com/tr/mi-9-t/) Kullanıcısı olarak kendisinden gayet de memnunum.
+
+Fotoğraf çekmeyi seviyorum, genel olarak gittiğim yerlerde kendi fotoğraflarım yoğunlukla olmakla birlikte güzel manzaraları da kendimce görüntülemeye çalışıyorum. Profesyonel bir makine sahibi değilim ama, yarı profesyonel ["Canon SX500"](https://www.canon-europe.com/support/consumer_products/products/cameras/digital_compact/powershot_sx_series/powershot_sx500_is.html?type=specifications) yıllardır bana eşlik ediyor.
+
+Sırt çantam yanımda olduğu sürece her türlü teknolojik ekipmanım da yanımda oluyor, Harici Disk'ten Android Tablet'e, CAT6'dan USB'ye kadar kadar aklınıza gelebilecek her şey.:joy:
+
+### Yazılım
+
+Son dönemde ufak tefek grafik işlerimi halledeyim, hazır PSD'leri düzenlerim diye başına geçtiğim [Adobe Photoshop](https://www.adobe.com/tr/products/photoshop.html) ile baya baya haşır neşiriz bu aralar. Çok profesyonel kullanıcısı değilim ama kendi işlerimi görebiliyorum.
+
+Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu dönemde elimin altında [Atom](https://atom.io/) gayet de işlerimi görmeye yetiyor. Öyle alışmışım ki şuan bu yazıyı bile Atom penceresinde yazdığımı fark ettim.
+
 
 ### Yetenekler
 
@@ -66,24 +86,24 @@ Teknik detaylara geçecek olursak onlar da şöyle işte :
 
 ### Sertifikalar
 
-* 12/2016 - TEB KOBİ TV Online Eğitim Katılım Belgesi - TEB
-* 08/2016 - Web Programlama 301 - Turkcell Geleceği Yazanlar
-* 08/2016 - Web Programlama 201 - Turkcell Geleceği Yazanlar
-* 08/2016 - Web Programlama 101 - Turkcell Geleceği Yazanlar
-* 10/2015 - Bilgisayar İşletmenliği - Çizgi Tagem
-* 10/2015 - Bilişim Teknolojileri Destek Uzmanı - Çizgi-Tagem
-* 07/2015 - Introduction to Cybersecurity - Cisco
-* 03/2017 - Satış ve Pazarlama Teknikleri - İstanbul İşletme Enstitüsü
-* 03/2017 - Stres Yönetimi - İstanbul İşletme Enstitüsü
-* 02/2017 - CV Hazırlama ve İş Görüşmesine Hazırlık - İstanbul İşletme Enstitüsü
-* 02/2017 - Genel Muhasebe - İstanbul İşletme Enstitüsü
-* 02/2017 - İş Hukuku Uygulamaları - İstanbul İşletme Enstitüsü
-* 02/2017 - İş Yerinde Görgü Ve Etik Kuralları - İstanbul İşletme Enstitüsü
-* 04/2016 - Finansal Yönetim - İstanbul İşletme Enstitüsü
-* 04/2016 - Liderlik ve İşletme Yönetimi - İstanbul İşletme Enstitüsü
-* 04/2016 - Zaman Yönetimi - İstanbul İşletme Enstitüsü
-* 04/2016 - Zor Müşterilerle Başa Çıkma Yöntemleri - İstanbul İşletme Enstitüsü
-* 11/2015 - İletişim Teknolojileri ve Toplum - İstanbul İşletme Enstitüsü
+> 12/2016 - TEB KOBİ TV Online Eğitim Katılım Belgesi - TEB
+> 08/2016 - Web Programlama 301 - Turkcell Geleceği Yazanlar
+> 08/2016 - Web Programlama 201 - Turkcell Geleceği Yazanlar
+> 08/2016 - Web Programlama 101 - Turkcell Geleceği Yazanlar
+> 10/2015 - Bilgisayar İşletmenliği - Çizgi Tagem
+> 10/2015 - Bilişim Teknolojileri Destek Uzmanı - Çizgi-Tagem
+> 07/2015 - Introduction to Cybersecurity - Cisco
+> 03/2017 - Satış ve Pazarlama Teknikleri - İstanbul İşletme Enstitüsü
+> 03/2017 - Stres Yönetimi - İstanbul İşletme Enstitüsü
+> 02/2017 - CV Hazırlama ve İş Görüşmesine Hazırlık - İstanbul İşletme Enstitüsü
+> 02/2017 - Genel Muhasebe - İstanbul İşletme Enstitüsü
+> 02/2017 - İş Hukuku Uygulamaları - İstanbul İşletme Enstitüsü
+> 02/2017 - İş Yerinde Görgü Ve Etik Kuralları - İstanbul İşletme Enstitüsü
+> 04/2016 - Finansal Yönetim - İstanbul İşletme Enstitüsü
+> 04/2016 - Liderlik ve İşletme Yönetimi - İstanbul İşletme Enstitüsü
+> 04/2016 - Zaman Yönetimi - İstanbul İşletme Enstitüsü
+> 04/2016 - Zor Müşterilerle Başa Çıkma Yöntemleri - İstanbul İşletme Enstitüsü
+> 11/2015 - İletişim Teknolojileri ve Toplum - İstanbul İşletme Enstitüsü
 
 ### Ödüller & Onur Belgeleri
 
