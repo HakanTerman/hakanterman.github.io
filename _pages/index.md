@@ -10,9 +10,29 @@ header:
   caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
 ---
 
-### Kısaca Ben
+### Kimim Ben
 
-Bilgisayara olan ilgisi ve merakının peşinde elinden geldiğince bir şeyler yapmaya çalışan, aynı zamanda yine bu alanda eğitimini sürdüren, gelecek dönemde de mesleği olarak devam ettirmek isteyen, hayallerinin peşinden koşan birisi..
+Doğru ya, bu sayfaya geldiysen muhtemelen hakkımda bir şeyler arıyor olmalısın, hazır buraya kadar gelmişken dur biraz anlatayım;
+
+Çocukluğumdan bu yana (o kadar da yaşlı değilim, 96 model :blush: ) bir şeylerin nasıl çalıştığı ve acaba ben de yapabilir miyim yönündeki merakım sonucu olarak bu sayfaya kadar geldik, beraberiz.
+Elektrikli aletlerin nasıl çalışıyor olduğunu merak eden, bulduğu her fırsatta söküp anlamasa da içine bakan ben bu merakımı bilgisayar denilen bu aletle birleşirince bir de üzerine internet diye bir şeyin olduğunu fark edince olanlar oldu.
+
+2005 civarı tanıştığım bilgisayar benim için yaşıtlarım gibi bir oyun makinesi olmanın ötesinde, acaba bununla neler yapılabiliyor sorununu da beraberinde getirdi. 2006 yılında "blogcu" isimli bir sitede, benim de bir sitem olabileceğini anlayıp o kayıt formunu doldurduktan sonra aslında bilmeden HTML diye bir şeyi keşfetmiş oldum.
+
+Sayısız ücretsiz siteler derken, 2009 civarında ilk ücretli domainimi kaydettim. Bu sonrasında neredeyse kaydettiğim 100 civarı domainin sadece ilkiydi bu serüvenin sonunda bu işi meslek olarak yapabilecek bir yolda buldum. Aslına bakacak olursak yeni bir şeyler öğrenmeyi hep sevdim.
+Uşak Üniversitesi Bilgisayar Programcılığı bölümü ile başlayan yükseköğrenim serüvenim, dört farklı üniversite ile bu günlere kadar geldi. Evet biraz karmaşık bir eğitim hayatım oldu.
+Halihazırda önlisans mezunu ve lisans mezunu olmaya bir adımı kalmış, yetmemiş gibi yükseklisans yapma hevesinde olan biri olarak şuan bu yazıyı yazıyorum. Dolaylı yollardan da istediğine ulaşan, ama halen daha farklı arayışların da içinde olan biri de diyebiliriz..
+
+Bunlara ek olarak aile ve arkadaş ortamının "bilgisayarcı" olarak nitelediği o uydu cihazlarına kanal ayarlamadan bilgisayar formatlamaya kadar çeşitlilik gösteren işleri yapan teknik eleman da ben oluyorum haliyle.
+
+**Merhaba Ben Hakan :)**
+
+Eğer bu sektörde bir şeyler yapıyorsan güne kadar çeşitli forum sitelerinde, ya da internette bir yerlerde farklı kullanıcı adları ile karşılaşmış olduğumuzu tahmin ediyorum.
+2018'den bu yana çok aşırı canlı olmasa da bir blog sitem var, sosyal medyanın her türlüsünü kullanıyorum. Eğer bu çocuk gözümün önünde bir yerlerde dursun dersen, onlara da sol taraftaki bağlantılardan ulaşabilirsin.
+
+Dünyayı, hayatı, insanları dolayısı ile yaşamayı seven biriyim, bol bol da hayalleri olan..
+
+Teknik detaylara geçecek olursak onlar da şöyle işte :
 
 ### Yetenekler
 
