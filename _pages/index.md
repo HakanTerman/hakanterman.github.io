@@ -10,7 +10,7 @@ header:
   caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
 ---
 
-## Kimim Ben
+## :man_technologist: Kimim Ben
 
 Doğru ya, bu sayfaya geldiysen muhtemelen hakkımda bir şeyler arıyor olmalısın, hazır buraya kadar gelmişken dur biraz anlatayım;
 
@@ -35,7 +35,7 @@ Dünyayı, hayatı, insanları dolayısı ile yaşamayı seven biriyim, bol bol 
 
 Teknik detaylara geçecek olursak onlar da şöyle işte :
 
-### Donanım
+### :gear: Donanım
 
 Bir çok konuda olduğu gibi burada da marka takıntılı birisi değilim, aldığım ürünün markasından, gösterişinden daha çok işimi ne seviyede rahatlattığına odaklanıyorum. Ama ne yalan söyleyeyim, bazı markalar da bu işi yapıyor ya. (Tamam tamam şakaydı :yum:)
 
@@ -48,13 +48,13 @@ Fotoğraf çekmeyi seviyorum, genel olarak gittiğim yerlerde kendi fotoğraflar
 
 Sırt çantam yanımda olduğu sürece her türlü teknolojik ekipmanım da yanımda oluyor, Harici Disk'ten Android Tablet'e, CAT6'dan USB'ye kadar kadar aklınıza gelebilecek her şey.:joy:
 
-### Yazılım
+### :dvd: Yazılım
 
 Son dönemde ufak tefek grafik işlerimi halledeyim, hazır PSD'leri düzenlerim diye başına geçtiğim [Adobe Photoshop](https://www.adobe.com/tr/products/photoshop.html) ile baya baya haşır neşiriz bu aralar. Çok profesyonel kullanıcısı değilim ama kendi işlerimi görebiliyorum.
 
 Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu dönemde elimin altında [Atom](https://atom.io/) gayet de işlerimi görmeye yetiyor. Öyle alışmışım ki şuan bu yazıyı bile Atom penceresinde yazdığımı fark ettim.
 
-### Yetenekler
+### :raised_hands: Yetenekler
 
 * Web Tasarım
 * Web Projeleri
@@ -66,25 +66,25 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 * Grafik Tasarımı & Reklam
 * Bilgisayar Ağları
 
-### Deneyim
+### :man_office_worker: Deneyim
 
 * 06/2019 - 08/2019 - Bilgi İşlem Stajı **T.C Sivaslı Belediyesi**
 * 07/2015 - 08/2015 - Bilgi İşlem Stajı **T.C Sağlık Bakanlığı - Sivaslı Devlet Hastanesi**
 * 02/2011 - Bugün - Web İçerik Yönetimi  **Freelance**
 
-### Dil
+### :speaking_head: Dil
 
 * Türkçe - Anadil Yetkinliği
 * İngilizce - Giriş Seviyesi
 
-### Eğitim
+### :mortar_board: Eğitim
 
 * 2014 - 2016 - Bilgisayar Programcılığı - Uşak Üniversitesi
 * 2016 - 2017 - Bilişim Sistemleri Mühendisliği - Yakın Doğu Üniversitesi(Terk)
 * 2017 - Bugün - Yönetim Bilişim Sistemleri - Anadolu Üniversitesi
 * 2017 - Bugün - Bilgisayar Teknolojisi ve Bilişim Sistemleri - Trakya Üniversitesi
 
-### Sertifikalar
+### :scroll: Sertifikalar
 
 * 12/2016 - TEB KOBİ TV Online Eğitim Katılım Belgesi - TEB
 * 08/2016 - Web Programlama 301 - Turkcell Geleceği Yazanlar
@@ -105,11 +105,11 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 * 04/2016 - Zor Müşterilerle Başa Çıkma Yöntemleri - İstanbul İşletme Enstitüsü
 * 11/2015 - İletişim Teknolojileri ve Toplum - İstanbul İşletme Enstitüsü
 
-### Ödüller & Onur Belgeleri
+### :trophy: Ödüller & Onur Belgeleri
 
 * 2016 - Mezuniyet Onur Belgesi - Uşak Üniversitesi
 
 ---
 
-**Uyarı** Merhaba, daha detaylı bilgiler için  [LinkedIn profilimi](http://linkedin.com/in/HakanTerman), [Kariyer.Net profilimi](http://www.kariyer.net/ozgecmis/HakanTerman) ya da [Özgeçmişimi](https://hakanterman.com/assets/hakanterman-cv.pdf) incelemek ister misiniz ?.
+**:warning: Uyarı** Merhaba, daha detaylı bilgiler için  [LinkedIn profilimi](http://linkedin.com/in/HakanTerman), [Kariyer.Net profilimi](http://www.kariyer.net/ozgecmis/HakanTerman) ya da [Özgeçmişimi](https://hakanterman.com/assets/hakanterman-cv.pdf) incelemek ister misiniz ?.
 {: .notice}
