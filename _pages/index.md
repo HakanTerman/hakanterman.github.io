@@ -29,7 +29,7 @@ Bunlara ek olarak aile ve arkadaş ortamının "bilgisayarcı" olarak nitelediğ
 
 Eğer bu sektörde bir şeyler yapıyorsan güne kadar çeşitli forum sitelerinde, ya da internette bir yerlerde farklı kullanıcı adları ile karşılaşmış olduğumuzu tahmin ediyorum.
 
-2018'den bu yana çok aşırı canlı olmasa da bir blog sitem var, sosyal medyanın her türlüsünü kullanıyorum. Eğer bu çocuk gözümün önünde bir yerlerde dursun dersen, onlara da masaüstü versiyonunda sol taraftaki bağlantılardan ulaşabilirsin.
+2018'den bu yana çok aşırı canlı olmasa da bir blog sitem var, sosyal medyanın her türlüsünü kullanıyorum. Eğer bu çocuk gözümün önünde bir yerlerde dursun dersen, onlara da sol taraftaki bağlantılardan (mobil için yukarıdaki takip et butonundan) ulaşabilirsin.
 
 Dünyayı, hayatı, insanları dolayısı ile yaşamayı seven biriyim, bol bol da hayalleri olan..
 
@@ -57,8 +57,8 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 
 ### :man_office_worker: Deneyim
 
-* 06/2019 - 08/2019 - Bilgi İşlem Stajı **T.C Sivaslı Belediyesi**
-* 07/2015 - 08/2015 - Bilgi İşlem Stajı **T.C Sağlık Bakanlığı - Sivaslı Devlet Hastanesi**
+* 06/2019 - 08/2019 - Bilgi İşlem Stajı **[T.C Sivaslı Belediyesi](http://sivasli.bel.tr/)**
+* 07/2015 - 08/2015 - Bilgi İşlem Stajı **[T.C Sağlık Bakanlığı - Sivaslı Devlet Hastanesi](https://sivaslidh.saglik.gov.tr/)**
 * 02/2011 - Bugün - Web İçerik Yönetimi  **Freelance**
 
 ### :speaking_head: Dil
@@ -68,10 +68,10 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 
 ### :mortar_board: Eğitim
 
-* 2017 - Bugün - Bilgisayar Teknolojisi ve Bilişim Sistemleri - **Trakya Üniversitesi**
-* 2017 - Bugün - Yönetim Bilişim Sistemleri - **Anadolu Üniversitesi**
-* 2016 - 2017 - Bilişim Sistemleri Mühendisliği (Terk) - **Yakın Doğu Üniversitesi**
-* 2014 - 2016 - Bilgisayar Programcılığı - **Uşak Üniversitesi***
+* 2017 - Bugün - Bilgisayar Teknolojisi ve Bilişim Sistemleri(CTIS) - **[Trakya Üniversitesi](https://trakya.edu.tr/)**
+* 2017 - Bugün - Yönetim Bilişim Sistemleri - **[Anadolu Üniversitesi](https://anadolu.edu.tr/)**
+* 2016 - 2017 - Bilişim Sistemleri Mühendisliği (Terk) - **[Yakın Doğu Üniversitesi](https://neu.edu.tr/)**
+* 2014 - 2016 - Bilgisayar Programcılığı - **[Uşak Üniversitesi](https://usak.edu.tr/)**
 * 2011 - 2014 - Emine Özcan Anadolu Lisesi - **Çivril/Denizli**
 
 ### :raised_hands: Nelerden Anlarım ?
@@ -129,13 +129,13 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 Bu kadar teknik detay yeterli bence, ya sen bilgisayardan başka bir şey bilmiyor musun diyorsanız eğer, ilgi duyduğum farklı şeyler de var elbet.
 
 * Gezmeyi, seyahat etmeyi çok seviyorum mesela. İmkanım olsa dünyadaki bir çok ülkeyi, bambaşka kültürleri yerinde görmek isterdim.
-* Fotoğraf çekmeyi de çekilmeyi de seviyorum. [Instagram](https://instagram.com/HakanTerman) hesabım genellikle kendi fotoğraflarımla dolu olsa da galerimde ve makinemde bol bol manzara fotoğrafları da yok değil.
+* Fotoğraf çekmeyi de çekilmeyi de seviyorum. [Instagram hesabım](https://instagram.com/HakanTerman)  genellikle kendi fotoğraflarımla dolu olsa da galerimde ve makinemde bol bol manzara fotoğrafları da yok değil.
 * Arabalara hayranım. Klasik düşkünü değilim, aksine yeni modeller, spor arabalar özellikle.
-* Evcil hayvanları çok seviyorum, özellikle Samoyet cinsi köpekleri.
+* Evcil hayvanları çok seviyorum, özellikle Samoyed cinsi köpekleri.
 
-**Kişilik Tipi :** [ENFJ-T](https://www.16personalities.com/tr/enfj-ki%C5%9Fili%C4%9Fi)
+**:man_juggling: Kişilik Tipi :** [ENFJ-T](https://www.16personalities.com/tr/enfj-ki%C5%9Fili%C4%9Fi)
 
-#### :clapper: Ne Dinlerim? / :headphones: Ne İzlerim ?
+#### :headphones: Ne Dinlerim? / :clapper: Ne İzlerim ?
 
 * Aslında sabit bir müzik zevkim olduğunu söyleyemiyorum. O an için ruh halim çok etkili bu durumda. Ama genel olarak bulunduğum ortamda hareketli bir şeylerin çalması yanlısıyım. Tabi gece saatlerinde slow müzikler ile derin düşüncelere daldığım zamanlar da olmuyor değil. Dedim ya, değişken.
 
