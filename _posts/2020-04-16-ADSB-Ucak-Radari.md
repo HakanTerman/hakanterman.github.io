@@ -20,8 +20,11 @@ Bir süre benim de merak konum olan, doğrusu pek Türkçe kaynak bulamadığım
 **A** utomatic, **D** ependent, **S** urveillance, **B** roadcast kelimelerinin kısaltması olarak oluşan bir terim. İyi de ne demek bunlar;
 
 **A** utomatic : Kendi başına çalışabilen, operatör veya teknik müdehale gerektirmeyen bir sistem
+
 **D** ependent : Birbiri ile bağlantılı verileri işleyebilen
+
 **S** urveillance : Anlık gözetim, radar işlevi görebilen
+
 **B** roadcast : Yayın yapabilen
 
 şeklinde kolay anlaşılabilecek bir biçimde özetleyelim.
