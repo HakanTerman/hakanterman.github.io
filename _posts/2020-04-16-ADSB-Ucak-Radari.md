@@ -37,6 +37,7 @@ ADS-B vericisine sahip olan uçaklar GPS uyduları aracılığı ile buldukları
 Eğer bu yazıyı halen okumaya devam ediyorsanız daha önce FlightRadar24 - FlightAware gibi servisler ile uçak takibi yapmışsınızdır diye tahmin ediyorum. O siteler bu uçak verilerini havalimanındaki kulelerden ya da resmi bir kurumdan almıyorlar, bu ADS-B alıcıları ile kendileri toplayıp eşzamanlı hale getirerek yayına açıyorlar. ADS-B sinyalleri öyle gizli saklı, kimsenin ulaşamayacağı veriler de değil, tüm dünya üzerinden tepenizden geçen yolcu uçaklarını açık şekilde izlemenize imkan var.
 
 Olayı görsel olarak anlatmak istersek ([AirKule](http://www.airkule.com/yazar/ADS-B-ILE-GELECEGIN-PILOTSUZ-UCAK-TEKNOLOJISI/1229)) sitesinden alıntı olarak şu görsel özetleyecektir.
+
 ![ADSB-Calisma](http://www.airkule.com/images/image/ADS-B-takip-izleme05.jpg)
 
 ### Ne için kullanılıyor ?
