@@ -26,7 +26,7 @@ Bir süre benim de merak konum olan, doğrusu pek Türkçe kaynak bulamadığım
 
 şeklinde kolay anlaşılabilecek bir biçimde özetleyelim.
 
-Genel olarak bu sistem havacılıkta 2500feet üzeri uçan cisimlerin yeryüzünden kontrol edilebilmesi için kullanılmaktadır. Yolcu uçaklarının hangi saatte kalktığını ve hangi saatte iniş yapacağını, hatta daha detaylı olarak flightradar24.com gibi siteler üzerinden ne zaman nerede olduğumunu takip edebiliyoruz ya, işte o takip olayının arkasında bu ADS-B sinyalleri ve alıcıları var.
+Genel olarak bu sistem havacılıkta 2500feet üzeri uçan cisimlerin yeryüzünden kontrol edilebilmesi için kullanılmaktadır. Yolcu uçaklarının hangi saatte kalktığını ve hangi saatte iniş yapacağını, hatta daha detaylı olarak FlightRadar24 veya FlightAware gibi siteler üzerinden ne zaman nerede olduğumunu takip edebiliyoruz ya, işte o takip olayının arkasında bu ADS-B sinyalleri ve alıcıları var.
 
 ### Nasıl Çalışıyor ?
 
@@ -36,9 +36,8 @@ ADS-B vericisine sahip olan uçaklar GPS uyduları aracılığı ile buldukları
 
 Eğer bu yazıyı halen okumaya devam ediyorsanız daha önce FlightRadar24 - FlightAware gibi servisler ile uçak takibi yapmışsınızdır diye tahmin ediyorum. O siteler bu uçak verilerini havalimanındaki kulelerden ya da resmi bir kurumdan almıyorlar, bu ADS-B alıcıları ile kendileri toplayıp eşzamanlı hale getirerek yayına açıyorlar. ADS-B sinyalleri öyle gizli saklı, kimsenin ulaşamayacağı veriler de değil, tüm dünya üzerinden tepenizden geçen yolcu uçaklarını açık şekilde izlemenize imkan var.
 
-Olayı görsel olarak anlatmak istersek airkule.com sitesinden alıntı olarak şu görsel özetleyecektir.
-(http://www.airkule.com/images/image/ADS-B-takip-izleme05.jpg)
-([Teknik Detaylar İçin Kaynak](http://www.airkule.com/yazar/ADS-B-ILE-GELECEGIN-PILOTSUZ-UCAK-TEKNOLOJISI/1229))
+Olayı görsel olarak anlatmak istersek ([AirKule](http://www.airkule.com/yazar/ADS-B-ILE-GELECEGIN-PILOTSUZ-UCAK-TEKNOLOJISI/1229)) sitesinden alıntı olarak şu görsel özetleyecektir.
+![ADSB-Calisma](http://www.airkule.com/images/image/ADS-B-takip-izleme05.jpg)
 
 ### Ne için kullanılıyor ?
 
@@ -56,14 +55,14 @@ Flightradar24.com ya da FlightAware.com siteleri üzerinden dünya üzerindeki t
 
 ### Bu Siteler Tüm Dünyayı Nasıl İzliyor ?
 
-Elbette tek bir ADS-B anteni ile tüm dünyadaki uçakları izlemeniz mümkün değil. Bir anten yatayda en uzak 250 mil / 400km mesafesindeki uçuşları görüntüleyebiliyor. Bunun için dünyanın bir çok yerine ADS-B alıcıları kurmak gerekiyor ki bu siteler de o şekilde yapıyor. Tamamen gönüllülük esası ile yaptıkları bu sistemler ile tüm dünyada Flightradar'ın sayısını açıklamadığı on binlerce gönüllü veri sağlayıcısı (https://www.flightradar24.com/share-statistics)  ve FlightAware'ın 202 ülkeden 27.139 veri sağlayıcısı (https://flightaware.com/adsb/stats/) olduğunu görebiliyoruz. Siz de kendi yaptığınız alıcınızı bu sistemlerden birine bağlayabilirsiniz.
+Elbette tek bir ADS-B anteni ile tüm dünyadaki uçakları izlemeniz mümkün değil. Bir anten yatayda en uzak 250 mil / 400km mesafesindeki uçuşları görüntüleyebiliyor. Bunun için dünyanın bir çok yerine ADS-B alıcıları kurmak gerekiyor ki bu siteler de o şekilde yapıyor. Tamamen gönüllülük esası ile yaptıkları bu sistemler ile tüm dünyada [Flightradar'ın](https://www.flightradar24.com/share-statistics) sayısını açıklamadığı on binlerce gönüllü veri sağlayıcısı  ve [FlightAware'ın](https://flightaware.com/adsb/stats/) 202 ülkeden 27.139 veri sağlayıcısı olduğunu görebiliyoruz. Siz de kendi yaptığınız alıcınızı bu sistemlerden birine bağlayabilirsiniz.
 
 ### ADS-B Alıcısına Sahip Olabilir Miyiz ?
 
 Evet, eğer havacılık merakınız varsa ya da uçuş bilgilerini takip etmekten hoşlanıyorsanız ve biraz yazılım ve elektronik bilginiz varsa bu tarz bir cihazı evde yapabilir ve uçuş bilgilerini takip edebilirsiniz.
 
-Bir Raspberry Pi3 ve ADS-B anteni ile kolay bir şekilde kendi alıcınızı yapmanız mümkün. Ancak takip sistemi için bir altyapıya ihtiyacınız var ve mevcut takip sistemlerinin bir tanesine dahil olmanız daha kolay şekilde anten oluşturmanıza olanak sağlayacak. Eğer FlightRadar24 sistemine dahil olup oraya veri gönderecek şekilde bir alıcı yapmak isterseniz onların sistemini Raspberry'nize kurabilirsiniz. (https://www.flightradar24.com/share-your-data)
-Eğer FlightAware ile çalışmak isterseniz de (https://flightaware.com/adsb/piaware/build) yardım alabilirsiniz. Flightaware Türkçe ve gayet detaylı anlatımı ile de öne çıkıyor.
+Bir Raspberry Pi3 ve ADS-B anteni ile kolay bir şekilde kendi alıcınızı yapmanız mümkün. Ancak takip sistemi için bir altyapıya ihtiyacınız var ve mevcut takip sistemlerinin bir tanesine dahil olmanız daha kolay şekilde anten oluşturmanıza olanak sağlayacak. Eğer FlightRadar24 sistemine dahil olup oraya veri gönderecek şekilde bir alıcı yapmak isterseniz onların sistemini [burada anlattıkları şekilde](https://www.flightradar24.com/share-your-data) Raspberry'nize kurabilirsiniz.
+Eğer FlightAware ile çalışmak isterseniz de [buradan](https://flightaware.com/adsb/piaware/build) yardım alabilirsiniz. Flightaware Türkçe ve gayet detaylı anlatımı ile de öne çıkıyor.
 Kendi radarım olsun, kimseyle bir şey paylaşmak istemiyorum derseniz o konuda pek bir döküman yok elimde ancak bu kadar bencilliğiniz varsa, bunu yapmaya yetecek yabancı diliniz ve programlama bilginiz de olmalı bana göre.
 
 Bunların haricinde, eğer gönüllülük hizmetlerine bağlılığınız var ise, bu firmaların cihaz gönderim sistemleri de mevcut. Piyasa değeri yaklaşık 500$ civarı olan bu radar cihazını, söküp parçalamamak, amacı dışında kullanmamak ve sürekli aktif tutmak şartı ile size gönderebiliyorlar. Bu şekilde kendilerine bilgi sağladığınız takdirde sitelerinden size premium hesap tahsisi de yapmayı unutmuyorlar elbette. flightaware sitesinde uçuş takip günlüğünü görüntülerken, FlightFeeder'ınızın katkıda bulunduğu uçak konumlarını görme imkânınız da var. Ayrıca cihaza yerel IP numarası ile SkyView arayüzüne ulaşıp internete ihtiyaç duymadan radarın algıladığı tüm uçuşları görebilmeniz gibi bir şansınız da oluşuyor. Amaç dışı kullanımlarda seri numarası ile uzaktan erişim sağlamaya çalışıyorlar gibi bir söylenti de mevcut tabii ki.
