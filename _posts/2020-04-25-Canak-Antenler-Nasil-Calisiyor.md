@@ -4,7 +4,7 @@ tags: [canakanten, canak anten, uydu anteni, uydu alici, satellite, satellite di
 header:
   teaser: /assets/images/posts/canakanten.jpg
   image: /assets/images/posts/canakanten.jpg
-  caption: "Fotoğraf Sahibi : [Hakan Terman](https://hakanterman.com)"
+  caption: "Fotoğraf Sahibi : [John Quaife](https://500px.com/JQPerspectives1)"
 category: Teknoloji
 layout: single
 permalink: /teknoloji/Canak-Antenler-Nasil-Calisiyor/
