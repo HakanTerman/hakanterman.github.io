@@ -20,7 +20,7 @@ Dünyadan yaklaşık 35.700km kadar yukarıda bulunan yaklaşık 1300+ ün üzer
 
 Bu araç, yukarıdaki uydudan aldığı sinyali önündeki **LNB (Low Noise Block)** isimli, elektronik bir devre içeren cihaz yardımı ile evdeki uydu cihazına gönderiyor.
 
-## LNB'de Ne ?
+#### LNB'de Ne ?
 
 Şu uydu çanağının ortasına takılan şeyin ismi işte. Açılımı da şöyle "Low Noise Block downconverter". Mikrodalga kafa, düşük gürültülü konverter. Çanak anten uydudan gelen yayını odak noktasına toplar, bu cihaz da toplanmış olan bu mikrodalga (2-50GHz) sinyali güçlendirip, üzerinde elektronik işlemlerin daha rahat yapılabileceği daha alt bir frekans bandına (1-2GHz) dönüştürür. Esas olarak üç ana kısmı bulunur. Besleme ağzı(feed) , yükseltici(amplifier), ve alt frekansa dönüştürücü(converter).
 
