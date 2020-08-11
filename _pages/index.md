@@ -69,7 +69,7 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 ### :mortar_board: Eğitim
 
 * 2017 - Bugün - Bilgisayar Teknolojisi ve Bilişim Sistemleri(CTIS) - **[Trakya Üniversitesi](https://trakya.edu.tr/)**
-* 2017 - Bugün - Yönetim Bilişim Sistemleri - **[Anadolu Üniversitesi](https://anadolu.edu.tr/)**
+* 2017 - 2020 - Yönetim Bilişim Sistemleri - **[Anadolu Üniversitesi](https://anadolu.edu.tr/)**
 * 2016 - 2017 - Bilişim Sistemleri Mühendisliği (Terk) - **[Yakın Doğu Üniversitesi](https://neu.edu.tr/)**
 * 2014 - 2016 - Bilgisayar Programcılığı - **[Uşak Üniversitesi](https://usak.edu.tr/)**
 * 2011 - 2014 - Emine Özcan Anadolu Lisesi - **Çivril/Denizli**
