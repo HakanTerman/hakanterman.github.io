@@ -4,8 +4,8 @@ main:
     url: /kisisel/
   - title: "Tekno-Blog"
     url: /teknoloji/
-  - title: "CallBook"
-    url: /callbook/
+  - title: "LogBook"
+    url: /logbook/
   - title: "İletişim"
     url: /iletisim/
   # - title: "Sample Posts"
