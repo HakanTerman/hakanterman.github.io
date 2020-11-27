@@ -16,7 +16,40 @@
   	}
   </script>
   <script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
-<script type="text/javascript" charset="utf8" src="{{ '/assets/js/tablo.js' | relative_url }}"></script>
+<script>
+$(document).ready(function() {
+  $.noConflict();
+  $('#myTable').DataTable({
+      language: {
+          info: "_TOTAL_ kayıttan _START_ - _END_ kayıt gösteriliyor.",
+          infoEmpty:      "Gösterilecek hiç kayıt yok.",
+          loadingRecords: "Kayıtlar yükleniyor.",
+          zeroRecords: "Tablo boş",
+          search: "Arama:",
+          infoFiltered:   "(toplam _MAX_ kayıttan filtrelenenler)",
+          buttons: {
+              copyTitle: "Panoya kopyalandı.",
+              copySuccess:"Panoya %d satır kopyalandı",
+              copy: "Kopyala",
+              print: "Yazdır",
+          },
+
+          paginate: {
+              first: "İlk",
+              previous: "Önceki",
+              next: "Sonraki",
+              last: "Son"
+          },
+      },
+      dom: 'Bfrtip',
+      buttons: [
+          'copy', 'excel', 'pdf', 'print'
+      ],
+      responsive: true
+  });
+});
+</script>
+
 {% endif %}
 
 {% if site.search == true or page.layout == "search" %}
