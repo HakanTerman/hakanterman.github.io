@@ -8,7 +8,7 @@ header:
   image: /assets/images/logbook.jpg
   caption: "Fotoğraf Sahibi : [Miguel MrDJ](https://500px.com/ec1dj)"
 ---
-{:.myTable}
+{: #myTable}
 |Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke|Çağrı&nbsp;İşareti|Operatör&nbsp;Adı|Op.Konumu|Mod|Band|Konumum|SWL/HAM|Not         |
 |:-: |:-:                    |:-:   |:-:               |:-:              |:-:      |:-:|:-: |:-:    |:-:    |:-:         |
 |    |                       |      |                  |                 |         |   |    |       |       |            |
