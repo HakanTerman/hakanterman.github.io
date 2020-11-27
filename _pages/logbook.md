@@ -9,10 +9,10 @@ header:
   caption: "Fotoğraf Sahibi : [Miguel MrDJ](https://500px.com/ec1dj)"
 ---
 
-|Sıra|Tarih/Saat&nbsp;(UTC+3)|Bayrak&nbsp;/&nbsp;Çağrı&nbsp;İşareti|Operatör&nbsp;Adı|Op.Konumu|Mod|Band|Konumum|SWL/HAM|Not         |
-|:-: |:-:                    |:-:                                  |:-:              |:-:      |:-:|:-: |:-:    |:-:    |:-:         |
-|    |                       |                                     |                 |         |   |    |       |       |            |
-|1)  |26/11/2020-13:45       |:tr: TA4ACQ                          |Kaan Çelik       |         |SSB|UHF |KM48UM |HAM    |İlk&nbsp;QSO|
+|Sıra|Tarih/Saat&nbsp;(UTC+3)|Bayrak|Çağrı&nbsp;İşareti|Operatör&nbsp;Adı|Op.Konumu|Mod|Band|Konumum|SWL/HAM|Not         |
+|:-: |:-:                    |:-:   |:-:               |:-:              |:-:      |:-:|:-: |:-:    |:-:    |:-:         |
+|    |                       |      |                  |                 |         |   |    |       |       |            |
+|1)  |26/11/2020-13:45       |:tr:  |TA4ACQ            |Kaan Çelik       |         |SSB|UHF |KM48UM |HAM    |İlk&nbsp;QSO|
 
 
 ---
