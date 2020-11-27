@@ -8,14 +8,12 @@ header:
   image: /assets/images/logbook.jpg
   caption: "Fotoğraf Sahibi : [Miguel MrDJ](https://500px.com/ec1dj)"
 ---
-<div class="datatable-begin"></div>
 
 |Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke|Çağrı&nbsp;İşareti|Operatör&nbsp;Adı|Op.Konumu|Mod|Band|Konumum|SWL/HAM|Not         |
 |:-: |:-:                    |:-:   |:-:               |:-:              |:-:      |:-:|:-: |:-:    |:-:    |:-:         |
 |    |                       |      |                  |                 |         |   |    |       |       |            |
 |1)  |26/11/2020-13:45       |:tr:  |TA4ACQ            |Kaan Çelik       |         |SSB|UHF |KM48UM |HAM    |İlk&nbsp;QSO|
 
-<div class="datatable-end"></div>
 
 ---
 **Mail** hakanterman [@] gmail [.] com
