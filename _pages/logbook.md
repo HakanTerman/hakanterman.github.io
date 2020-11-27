@@ -9,11 +9,11 @@ header:
   caption: "Fotoğraf Sahibi : [Miguel MrDJ](https://500px.com/ec1dj)"
 ---
 {: #myTable .table table-responsive}
-|Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke|Çağrı&nbsp;İşareti|Operatör&nbsp;Adı|Op.Konumu|Mod|Band|Konumum|SWL/HAM|Not         |
+|Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke  |Çağrı&nbsp;İşareti|Operatör&nbsp;Adı|Op.Konumu|Mod|Band|Konumum|SWL/HAM|Not         |
 |:-: |:-:                    |:-:   |:-:               |:-:              |:-:      |:-:|:-: |:-:    |:-:    |:-:         |
+|1   |26/11/2020-13:45       |:tr:  |TA4ACQ            |Kaan Çelik       |         |SSB|UHF |KM48UM |HAM    |İlk&nbsp;QSO|
+|2   |27/11/2020-20:50       |:tr:  |TA4ABJ            |Sercan Eygi      |KM48RF   |SSB|UHF |KM48UM |HAM    |            |
 |    |                       |      |                  |                 |         |   |    |       |       |            |
-|1)  |26/11/2020-13:45       |:tr:  |TA4ACQ            |Kaan Çelik       |         |SSB|UHF |KM48UM |HAM    |İlk&nbsp;QSO|
-
 
 ---
 **Mail** hakanterman [@] gmail [.] com
