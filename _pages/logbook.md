@@ -13,7 +13,6 @@ header:
 |:-: |:-:                    |:-:   |:-:               |:-:              |:-:      |:-:|:-: |:-:    |:-:    |:-:         |
 |1   |26/11/2020-13:45       |:tr:  |TA4ACQ            |Kaan Çelik       |         |SSB|UHF |KM48UM |HAM    |İlk&nbsp;QSO|
 |2   |27/11/2020-20:50       |:tr:  |TA4ABJ            |Sercan Eygi      |KM48RF   |SSB|UHF |KM48UM |HAM    |            |
-|    |                       |      |                  |                 |         |   |    |       |       |            |
 
 ---
 **Mail** hakanterman [@] gmail [.] com
