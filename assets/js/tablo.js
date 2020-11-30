@@ -1,6 +1,6 @@
 $('#myTable').DataTable({
     language: {
-        info: "_TOTAL_ kayıttan _START_ - _END_ kayıt gösteriliyor.",
+        info: "_TOTAL_ kayıttan _START_ - _END_ arasındakiler gösteriliyor.",
         infoEmpty:      "Gösterilecek hiç kayıt yok.",
         loadingRecords: "Kayıtlar yükleniyor.",
         zeroRecords: "Tablo boş",
