@@ -11,7 +11,7 @@ header:
 {: #myTable .table table-responsive}
 |Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke  |Çağrı&nbsp;İşareti|Operatör&nbsp;Adı|Op.Konumu          |Mod |Band |Konumum |SWL/HAM|Not               |
 |:-: |:-:                    |:-:   |:-:               |:-:              |:-:                |:-: |:-:  |:-:     |:-:    |:-:               |
-|1   |26/11/2020-13:45       |:tr:  |TA4ACQ            |Kaan Çelik       |Merkez&nbsp;Denizli|SSB |UHF  |KM48UM  |HAM    |İlk QSO&nbsp;Honaz|
+|1   |26/11/2020-13:45       |:tr:  |TA4ACQ            |Kaan Çelik       |Merkez&nbsp;Denizli|SSB |UHF  |KM48UM  |HAM    |İlk&nbsp;QSO      |
 |2   |27/11/2020-20:50       |:tr:  |TA4ABJ            |Sercan Eygi      |Bekilli Denizli    |SSB |UHF  |KM48UM  |HAM    |Honaz Röle        |
 |3   |28/11/2020-17:38       |:tr:  |TA4MSO            |Muhammet Soydal  |Muratpaşa Antalya  |ECHO|-    |KM48UM  |HAM    |Antalya&nbsp;Echo |
 |4   |03/12/2020-22:55       |:tr:  |TB3CFY            |Fehmi Yakıcılar  |Mobil Uşak         |SSB |VHF  |KM48UM  |HAM    |Uşak Röle         |
@@ -19,5 +19,5 @@ header:
 
 ---
 
-**:warning: Mail** [QRZ.Com - TA4ADP](https://www.qrz.com/db/TA4ADP), [AmatörTelsiz - TA4ADP](https://qrz.amatortelsiz.com.tr/profil/TA4ADP)
+**:warning: QRZ Bağlantıları** [QRZ.Com - TA4ADP](https://www.qrz.com/db/TA4ADP), [AmatörTelsiz - TA4ADP](https://qrz.amatortelsiz.com.tr/profil/TA4ADP)
 {: .notice}
