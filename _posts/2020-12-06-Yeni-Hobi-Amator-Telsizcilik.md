@@ -12,7 +12,7 @@ permalink: /teknoloji/Yeni-Hobi-Amator-Telsizcilik/
 
 Sinyal sistemlerine ilgim olduğunu beni tanıyan çoğu kişi biliyor. Zaten daha önceki gönderilerimi de incelediyseniz antenlere biraz ilgim olduğu aklınızda kalmış olmalı. Şimdi bambaşka bir anten yapısı ile çalışan Amatör Telsiz olayına bulaşmış bulunuyorum. Uzunca süredir incelediğim bir konuydu, aslında ilk FM radyolar ve eskiden kullanılan kısa dalga radyoların olduğu bilgisi ile çıktı bu merak. Köyde kenarda kalmış bir Dünya Radyonu geçti elime. İlk başlarda bir şey yakalayamadım tabi ama, anteni biraz uzatınca açık alanda derken yabancı sesler duymaya başladım. Birileri kilometrelerce öteden konuşuyor ve bu analog olarak bana ulaşabiliyor.
 
-Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile başlangıç kısmında ufak bir içindekiler sayfası ve linkleme yapmayı düşündük.
+Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile başlangıç kısmında ufak bir içindekiler sayfası ve linkleme yapmayı düşündük..
 
 [Öncelikle, Amatör Telsizcilik Ne Değildir ?](## Öncelikle, Amatör Telsizcilik Ne Değildir ?)
 
