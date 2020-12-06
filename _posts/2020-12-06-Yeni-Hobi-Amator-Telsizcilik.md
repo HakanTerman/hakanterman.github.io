@@ -12,6 +12,48 @@ permalink: /teknoloji/Yeni-Hobi-Amator-Telsizcilik/
 
 Sinyal sistemlerine ilgim olduğunu beni tanıyan çoğu kişi biliyor. Zaten daha önceki gönderilerimi de incelediyseniz antenlere biraz ilgim olduğu aklınızda kalmış olmalı. Şimdi bambaşka bir anten yapısı ile çalışan Amatör Telsiz olayına bulaşmış bulunuyorum. Uzunca süredir incelediğim bir konuydu, aslında ilk FM radyolar ve eskiden kullanılan kısa dalga radyoların olduğu bilgisi ile çıktı bu merak. Köyde kenarda kalmış bir Dünya Radyonu geçti elime. İlk başlarda bir şey yakalayamadım tabi ama, anteni biraz uzatınca açık alanda derken yabancı sesler duymaya başladım. Birileri kilometrelerce öteden konuşuyor ve bu analog olarak bana ulaşabiliyor.
 
+Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile başlangıç kısmında ufak bir içindekiler sayfası ve linkleme yapmayı düşündük.
+
+[Öncelikle, Amatör Telsizcilik Ne Değildir ?](## Öncelikle, Amatör Telsizcilik Ne Değildir ?)
+[Neyin Nesi Bu Amatör Telsizcilik ?](##Neyin Nesi Bu Amatör Telsizcilik ?)
+[Neden Amatör ? Profesyonel olamayacak mıyız ?](## Neden Amatör ? Profesyonel olamayacak mıyız ?)
+[Kim Bunlar, Neler Yapıyorlar ?](## Kim Bunlar, Neler Yapıyorlar ?)
+[Olay Ne, Niye Böyle Bir Şeye İhtiyaç Duyalım ?](## Olay Ne, Niye Böyle Bir Şeye İhtiyaç Duyalım ?)
+[Yarışmalar](# Yarışmalar)
+
+[Biraz Teknik](# Biraz Teknik)
+  - [Amatör El Telsizi](## Amatör El Telsizi)
+  - [PMR Telsiz](## PMR Telsiz)
+  - [Mobil Telsiz İstasyonu](## Mobil Telsiz İstasyonu)
+  - [Sabit Telsiz](## Sabit Telsiz)
+  - [CB Telsiz](# CB Telsiz)
+  - [HF Telsiz](## HF Telsiz)
+  - [DMR Telsiz](## DMR Telsiz)
+  - [APRS](## APRS)
+  - [SDR](## SDR)
+
+[Yeni Başlayanlar için telsiz önerileri](# Yeni Başlayanlar için telsiz önerileri)
+[Antenler](# Antenler)
+
+  - [Flower Pot (Çiçek Saksısı) Anten](## Flower Pot (Çiçek Saksısı) Anten)
+  - [J-Pole Anten](## J-Pole Anten)
+  - [Yagi Anten](## Yagi Anten)
+
+[Amatör Telsiz Lisansı](# Amatör Telsiz Lisansı)
+  - [Belge Sınıfları](## Belge Sınıfları)
+  - [SWL](## SWL)
+
+[Belge Alma Süreci - (2020)](# Belge Alma Süreci - (2020))
+[Sınav içeriği ve sorular](# Sınav içeriği ve sorular)
+[Amatör Alfabe](# Amatör Alfabe)
+  - [Fonetik Alfabe](## Fonetik Alfabe)
+  - [Milli Fonetik Alfabe](## Milli Fonetik Alfabe)
+
+[Bölge Haritası](# Bölge Haritası)
+[Kısa Kodlar ve Anlamları](# Kısa Kodlar ve Anlamları)
+[Röleler](# Röleler)
+
+
 ## Öncelikle, Amatör Telsizcilik Ne Değildir ?
 
 Evet, ne değildir ? Bilerek ters bir başlıkla başlamak istedim. Amatör Telsizciliğin ülkemizde tam olarak tanımlanmamasından olsa gerek, herkes kendince bir yöne çekiyor. Bazıları elinde, belinde telsiz gezdirip kendisine kamu görevlisi süsü vererek, bir de yetmezmiş gibi metal rozetler takarak poliscilik oynamak için alıyor telsizlerini ve buna kılıf uydurmak için belge sahibi oluyor. Kimisi belge alır almaz kendisini kurtarma görevlisi ilan ediyor. Bu alanla ilgilenen kişilerin kendilerini acil durum görevlisi, kurtarma görevlisi ya da benzeri şekilde farklı isimlerle tanıtması gerçekten anlamsız.
@@ -42,6 +84,10 @@ TRAC ve ANTRAK dışında bir çok dernek bu tarz faaaliyet göstermekte ancak e
 Genel kavramları ile havadan, herhangi bir dijital ortama gerek duymadan Ses, Mors veya ufak Data Paketleri iletebilmek mümkün. Mevcutta olan tüm iletişim ağlarının çalışmadığı, elektrik enerjisinin kesilmesi gibi durumlarda çok küçük enerji kaynakları ile kilometrelerce öteye bilgi iletebilmek, ve alabilmek mümkün.
 
 Şimdi gelelim işin eğlenceli kısımlarına, belirli dönemlerde düzenlenen hava etkinlikleri oluyor. Kendi imkanları ile sinyal yakalayabilen kişilere dünyanın öbür ucundan tebrik kartı niteliğinde SWL kartları gönderiliyor. Mesela Uluslararası Uzay İstasyonu diye bir şey var, gökyüzünde dünyadan 408 Kilometre yükseklikte alçak Dünya yörüngesine yerleştirilmiş bir uzay üssü, başka bir tabirle üzerinde yaşanabilen yapay bir uydu. İçinde Amerika, Rusya gibi ülkeler başta olmak üzere bir çok ülkeden astronotlar var. Bu arkadaşların bulunduğu istasyon dünyanın etrafını günde 15,5 tur dönüyorlar. Yaklaşık 90 dakikada bir tur. İstasyon üzerinde bulunan röle yardımı ile ufacık bir el telsizi ile istasyona ve dinlemede olan bir çok amatöre sesinizi duyurul QSO yapabilirsiniz. QSO ne diyecek olursanız. Okumaya devam edin, aşağıda anlatıyor olacağım. Yine bu istasyon üzerinden [belirli tarihlerde](https://twitter.com/ariss_status) SSTV denilen bir yayın yapılıyor, RF sinyali üzerinden yayınlanan sesin içinde gizlenmiş bir görüntü olarak düşünebilirsiniz. Bu resmi alabildiğiniz en yüksek çözünürlük ile alıp ilgili sayfalara ilettiğinizde size üzerinde çağrı kodu yazan elektronik bir tebrik belgesi gönderiliyor.
+
+**TA4ABJ - Sercan'ın 1 Aralık 2020 ISS SSTV yayınından El telsizi ile alıp decode ettiği görsel.**
+
+![SSTV-1Aralık-TA4ABJ](/assets/images/posts/yazi/sstv-1december.jpg)
 
 Peki hep yabancı mı, hayır tabi ki. Türkiye'ye ait Küp uydular da var alçak dünya yörüngesinde. Ben iTUPSat anlamında Mors Kodu yayını yapıyor. El cihazı ile daha doğrusu el cihazının dahili anteni ile duymak oldukça zor ama imkansız değil (ilk denememde sinyal aldım sonra yakalayamadım :p )
 
@@ -102,6 +148,8 @@ Havada dolaşan, bir yerlere çarpan sinyalleri görmek için ve bilgisayarını
 # Yeni Başlayanlar için telsiz önerileri
 
 En çok sorulan sorulardan birisi bu, yeni başladım, yeni amatörüm hangi cihazı alayım. Arkadaşlar öncelikle eğer bu konuda çok fazla ilginiz ve bilginiz yok ise en pahalı cihazı alsanız da yapabileceğiniz çok fazla bir şey yok. Ekonomik şartları da göz önünde bulundurursak ben uygun fiyatlı F/P bir ürünle başlamanızı tavsiye ederim. Konuya hakim oldukça cihaz ihtiyacınız şekillenecektir. İlk aldığınız cihazın yeri başka oluyor elbet. Ama zamanla farklı cihazlar tanıdıkça artık yetersiz gelebiliyor.
+
+Bu kısımdan tam bir marka model önerisi yapmak yerine böyle bir açıklama bırakmak istedim. İlerleyen zamanlarda kendi kullandığım cihazların tanıtımı ve kullanımını anlatan birer yazı ile de aynı zamanda cihaz marka ve model yönünde öneriler sunmuş olacağım.
 
 # Antenler
 
