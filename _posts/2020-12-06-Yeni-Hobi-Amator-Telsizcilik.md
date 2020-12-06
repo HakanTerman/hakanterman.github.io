@@ -14,7 +14,7 @@ Sinyal sistemlerine ilgim olduğunu beni tanıyan çoğu kişi biliyor. Zaten da
 
 Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile başlangıç kısmında ufak bir içindekiler sayfası ve linkleme yapmayı düşündük..
 
-* [Öncelikle, Amatör Telsizcilik Ne Değildir ?](## Öncelikle, Amatör Telsizcilik Ne Değildir ?)
+* [Öncelikle, Amatör Telsizcilik Ne Değildir ?](#Öncelikle,-Amatör-Telsizcilik-Ne-Değildir-?)
 * [Neyin Nesi Bu Amatör Telsizcilik ?](##Neyin Nesi Bu Amatör Telsizcilik ?)
 * [Neden Amatör ? Profesyonel olamayacak mıyız ?](## Neden Amatör ? Profesyonel olamayacak mıyız ?)
 * [Kim Bunlar, Neler Yapıyorlar ?](## Kim Bunlar, Neler Yapıyorlar ?)
