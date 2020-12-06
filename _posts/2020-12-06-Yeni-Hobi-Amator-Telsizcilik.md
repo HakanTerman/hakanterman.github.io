@@ -15,10 +15,15 @@ Sinyal sistemlerine ilgim olduğunu beni tanıyan çoğu kişi biliyor. Zaten da
 Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile başlangıç kısmında ufak bir içindekiler sayfası ve linkleme yapmayı düşündük.
 
 [Öncelikle, Amatör Telsizcilik Ne Değildir ?](## Öncelikle, Amatör Telsizcilik Ne Değildir ?)
+
 [Neyin Nesi Bu Amatör Telsizcilik ?](##Neyin Nesi Bu Amatör Telsizcilik ?)
+
 [Neden Amatör ? Profesyonel olamayacak mıyız ?](## Neden Amatör ? Profesyonel olamayacak mıyız ?)
+
 [Kim Bunlar, Neler Yapıyorlar ?](## Kim Bunlar, Neler Yapıyorlar ?)
+
 [Olay Ne, Niye Böyle Bir Şeye İhtiyaç Duyalım ?](## Olay Ne, Niye Böyle Bir Şeye İhtiyaç Duyalım ?)
+
 [Yarışmalar](# Yarışmalar)
 
 [Biraz Teknik](# Biraz Teknik)
@@ -33,6 +38,7 @@ Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile baş
   - [SDR](## SDR)
 
 [Yeni Başlayanlar için telsiz önerileri](# Yeni Başlayanlar için telsiz önerileri)
+
 [Antenler](# Antenler)
 
   - [Flower Pot (Çiçek Saksısı) Anten](## Flower Pot (Çiçek Saksısı) Anten)
@@ -44,13 +50,17 @@ Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile baş
   - [SWL](## SWL)
 
 [Belge Alma Süreci - (2020)](# Belge Alma Süreci - (2020))
+
 [Sınav içeriği ve sorular](# Sınav içeriği ve sorular)
+
 [Amatör Alfabe](# Amatör Alfabe)
   - [Fonetik Alfabe](## Fonetik Alfabe)
   - [Milli Fonetik Alfabe](## Milli Fonetik Alfabe)
 
 [Bölge Haritası](# Bölge Haritası)
+
 [Kısa Kodlar ve Anlamları](# Kısa Kodlar ve Anlamları)
+
 [Röleler](# Röleler)
 
 
