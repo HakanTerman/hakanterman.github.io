@@ -37,7 +37,7 @@ Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile baş
 
   * [Flower Pot (Çiçek Saksısı) Anten](#flower-pot)
   * [J-Pole Anten](#jpole-anten)
-  * [Yagi Anten](##yagi-anten)
+  * [Yagi Anten](#yagi-anten)
 
 * [Amatör Telsiz Lisansı](#amatör-telsiz-lisansı)
   * [Belge Sınıfları](#belge-sınıfları)
@@ -161,7 +161,7 @@ Plastik bir su borusu ve RG-58 Kablo ile belirlenen ölçülere sadık kalınara
 
 ![Flower-Pot](/assets/images/posts/yazi/fpot.jpg)
 
-# J-Pole Anten
+# JPole Anten
 
 Ölçüleri önceden belirlenmiş aluminyum çubuklar ve bir tane konnektör kullanarak kolayca yapabileceğiniz bir anten modeli. İlerleyen zamanda yapıp, aynı zamanda yapımını paylaşacağım anten modeli.
 
