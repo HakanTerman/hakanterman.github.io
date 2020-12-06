@@ -14,55 +14,45 @@ Sinyal sistemlerine ilgim olduğunu beni tanıyan çoğu kişi biliyor. Zaten da
 
 Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile başlangıç kısmında ufak bir içindekiler sayfası ve linkleme yapmayı düşündük..
 
-[Öncelikle, Amatör Telsizcilik Ne Değildir ?](## Öncelikle, Amatör Telsizcilik Ne Değildir ?)
+* [Öncelikle, Amatör Telsizcilik Ne Değildir ?](## Öncelikle, Amatör Telsizcilik Ne Değildir ?)
+* [Neyin Nesi Bu Amatör Telsizcilik ?](##Neyin Nesi Bu Amatör Telsizcilik ?)
+* [Neden Amatör ? Profesyonel olamayacak mıyız ?](## Neden Amatör ? Profesyonel olamayacak mıyız ?)
+* [Kim Bunlar, Neler Yapıyorlar ?](## Kim Bunlar, Neler Yapıyorlar ?)
+* [Olay Ne, Niye Böyle Bir Şeye İhtiyaç Duyalım ?](## Olay Ne, Niye Böyle Bir Şeye İhtiyaç Duyalım ?)
+* [Yarışmalar](# Yarışmalar)
 
-[Neyin Nesi Bu Amatör Telsizcilik ?](##Neyin Nesi Bu Amatör Telsizcilik ?)
+* [Biraz Teknik](# Biraz Teknik)
+  * [Amatör El Telsizi](## Amatör El Telsizi)
+  * [PMR Telsiz](## PMR Telsiz)
+  * [Mobil Telsiz İstasyonu](## Mobil Telsiz İstasyonu)
+  * [Sabit Telsiz](## Sabit Telsiz)
+  * [CB Telsiz](# CB Telsiz)
+  * [HF Telsiz](## HF Telsiz)
+  * [DMR Telsiz](## DMR Telsiz)
+  * [APRS](## APRS)
+  * [SDR](## SDR)
 
-[Neden Amatör ? Profesyonel olamayacak mıyız ?](## Neden Amatör ? Profesyonel olamayacak mıyız ?)
+* [Yeni Başlayanlar için telsiz önerileri](# Yeni Başlayanlar için telsiz önerileri)
+* [Antenler](# Antenler)
 
-[Kim Bunlar, Neler Yapıyorlar ?](## Kim Bunlar, Neler Yapıyorlar ?)
+  * [Flower Pot (Çiçek Saksısı) Anten](## Flower Pot (Çiçek Saksısı) Anten)
+  * [J-Pole Anten](## J-Pole Anten)
+  * [Yagi Anten](## Yagi Anten)
 
-[Olay Ne, Niye Böyle Bir Şeye İhtiyaç Duyalım ?](## Olay Ne, Niye Böyle Bir Şeye İhtiyaç Duyalım ?)
+* [Amatör Telsiz Lisansı](# Amatör Telsiz Lisansı)
+  * [Belge Sınıfları](## Belge Sınıfları)
+  * [SWL](## SWL)
 
-[Yarışmalar](# Yarışmalar)
+* [Belge Alma Süreci - (2020)](# Belge Alma Süreci - (2020))
+* [Sınav içeriği ve sorular](# Sınav içeriği ve sorular)
 
-[Biraz Teknik](# Biraz Teknik)
-  - [Amatör El Telsizi](## Amatör El Telsizi)
-  - [PMR Telsiz](## PMR Telsiz)
-  - [Mobil Telsiz İstasyonu](## Mobil Telsiz İstasyonu)
-  - [Sabit Telsiz](## Sabit Telsiz)
-  - [CB Telsiz](# CB Telsiz)
-  - [HF Telsiz](## HF Telsiz)
-  - [DMR Telsiz](## DMR Telsiz)
-  - [APRS](## APRS)
-  - [SDR](## SDR)
+* [Amatör Alfabe](# Amatör Alfabe)
+  * [Fonetik Alfabe](## Fonetik Alfabe)
+  * [Milli Fonetik Alfabe](## Milli Fonetik Alfabe)
 
-[Yeni Başlayanlar için telsiz önerileri](# Yeni Başlayanlar için telsiz önerileri)
-
-[Antenler](# Antenler)
-
-  - [Flower Pot (Çiçek Saksısı) Anten](## Flower Pot (Çiçek Saksısı) Anten)
-  - [J-Pole Anten](## J-Pole Anten)
-  - [Yagi Anten](## Yagi Anten)
-
-[Amatör Telsiz Lisansı](# Amatör Telsiz Lisansı)
-  - [Belge Sınıfları](## Belge Sınıfları)
-  - [SWL](## SWL)
-
-[Belge Alma Süreci - (2020)](# Belge Alma Süreci - (2020))
-
-[Sınav içeriği ve sorular](# Sınav içeriği ve sorular)
-
-[Amatör Alfabe](# Amatör Alfabe)
-  - [Fonetik Alfabe](## Fonetik Alfabe)
-  - [Milli Fonetik Alfabe](## Milli Fonetik Alfabe)
-
-[Bölge Haritası](# Bölge Haritası)
-
-[Kısa Kodlar ve Anlamları](# Kısa Kodlar ve Anlamları)
-
-[Röleler](# Röleler)
-
+* [Bölge Haritası](# Bölge Haritası)
+* [Kısa Kodlar ve Anlamları](# Kısa Kodlar ve Anlamları)
+* [Röleler](# Röleler)
 
 ## Öncelikle, Amatör Telsizcilik Ne Değildir ?
 
