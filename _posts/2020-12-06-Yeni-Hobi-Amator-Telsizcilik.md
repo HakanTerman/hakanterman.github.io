@@ -195,137 +195,136 @@ Amatör Telsizcilikte “Q” kodları kullanılmasındaki amaç, mors kodları 
 
 Zamanla ses ile yapılan görüşmelerde de “Q” kodları kısaltma olarak aynı amaçla kullanılmaya başlanmıştır.
 
-QRA İstasyonunuzun adı nedir?
-QRA İstasyonumun adı ………. dır
+**QRA** İstasyonunuzun adı nedir?
+**QRA** İstasyonumun adı ………. dır
 
-QRB İstasyonumdan ne kadar uzaktasınız?
-QRB İstasyonunuzdan ____ km uzaktayım.
+**QRB** İstasyonumdan ne kadar uzaktasınız?
+**QRB** İstasyonunuzdan ____ km uzaktayım.
 
-QRD Nereye gidip nereden geliyorsunuz?
-QRD ____ gidiyorum, ____ den geliyorum.
+**QRD** Nereye gidip nereden geliyorsunuz?
+**QRD** ____ gidiyorum, ____ den geliyorum.
 
-QRG Tam olarak frekansımı söyler misiniz?
-QRG Tam olarak frekansınız ___ dır
+**QRG** Tam olarak frekansımı söyler misiniz?
+**QRG** Tam olarak frekansınız ___ dır
 
-QRH Frekansınız değişiyor
-QRH Evet değişiyor.
-QRH Frekansım değişiyor mu?
-QRH? Frekansım değişiyor mu?
+**QRH** Frekansınız değişiyor
+**QRH** Evet değişiyor.
+**QRH** Frekansım değişiyor mu?
+**QRH?** Frekansım değişiyor mu?
 
-QRI Gönderme tonu nasıl? (RST deki T)
-QRI Gönderme tonu 1(iyi), 2(değişken), 3(kötü)
+**QRI** Gönderme tonu nasıl? (RST deki T)
+**QRI** Gönderme tonu 1(iyi), 2(değişken), 3(kötü)
 
-QRK Sinyalimin yada istasyonumun anlaşılırlığı/okunabilirliği nasıl? (RST deki R)
-QRK Anlaşılır 1(kötü), 2(zayıf), 3(orta), 4(iyi), 5(çok iyi)
+**QRK** Sinyalimin yada istasyonumun anlaşılırlığı/okunabilirliği nasıl? (RST deki R)
+**QRK** Anlaşılır 1(kötü), 2(zayıf), 3(orta), 4(iyi), 5(çok iyi)
 
-QRL Meşgul müsünüz?
-QRL Meşgulüm.
+**QRL** Meşgul müsünüz?
+**QRL** Meşgulüm.
 
-QRM Göndermeme başka sinyal karışyor mu?
-QRM 1(yok), 2(hafif), 3(orta), 4(güçlü), 5(aşırı)
+**QRM** Göndermeme başka sinyal karışyor mu?
+**QRM** 1(yok), 2(hafif), 3(orta), 4(güçlü), 5(aşırı)
 
-QRN Statik gürültüden (atmosfer parazitlerinden) etkleniyor musun?
-QRN 1(yok), 2(hafif), 3(orta), 4(güçlü), 5(aşırı)
+**QRN** Statik gürültüden (atmosfer parazitlerinden) etkleniyor musun?
+**QRN** 1(yok), 2(hafif), 3(orta), 4(güçlü), 5(aşırı)
 
-QRO Güç arttırayım mı?
-QRO Evet, güç arttırın.
+**QRO** Güç arttırayım mı?
+**QRO** Evet, güç arttırın.
 
-QRP Güç azaltayım mı?
-QRP Evet, güç azaltın
+**QRP** Güç azaltayım mı?
+**QRP** Evet, güç azaltın
 
-QRQ Gönderme hızını arttırayım mı?
-QRQ Evet, gönderme hızını arttırın
+**QR**Q** Gönderme hızını arttırayım mı?
+**QR**Q** Evet, gönderme hızını arttırın
 
-QRS Gönderme hızını azaltayım mı?
-QRS Evet, gönderme hızını azaltın
+**QRS** Gönderme hızını azaltayım mı?
+**QRS** Evet, gönderme hızını azaltın
 
-QRT Göndermeyi durdurayım mı?
-QRT Göndermeyi durdurun lütfen
+**QRT** Göndermeyi durdurayım mı?
+**QRT** Göndermeyi durdurun lütfen
 
-QRU Başka mesajınız var mı?
-QRU Başka mesajım yok
+**QRU** Başka mesajınız var mı?
+**QRU** Başka mesajım yok
 
-QRV Hazır mısınız?
-QRV Hazırım
+**QRV** Hazır mısınız?
+**QRV** Hazırım
 
-QRW X istasyonuna x frekansından çağrı yaptığınızı bildireyim mi?
-QRW Evet, x istasyonuna x frekansından çağrı yaptığımı bildirin lütfen
+**QRW** X istasyonuna x frekansından çağrı yaptığınızı bildireyim mi?
+**QRW** Evet, x istasyonuna x frekansından çağrı yaptığımı bildirin lütfen
 
-QRX Beni tekrar ne zaman çağıracaksınız?
-QRX Saat 00:00 (UTC) de frekansından çağıracağım
+**QRX** Beni tekrar ne zaman çağıracaksınız?
+**QRX** Saat 00:00 (UTC) de frekansından çağıracağım
 
-QRY Kaçıncı sıradayım?
-QRY Sıranız ____ dır
+**QRY** Kaçıncı sıradayım?
+**QRY** Sıranız ____ dır
 
-QRZ Beni kim arıyor?
-QRZ Sizi arayan ____
+**QRZ** Beni kim arıyor?
+**QRZ** Sizi arayan ____
 
-QSA Sinyalimin kuvveti nedir?
-QSA S1 – S9
+**QSA** Sinyalimin kuvveti nedir?
+**QSA** S1 – S9
 
-QSB Sinyalimin gücünde dalgalanma var mı?
-QSB Evet dalgalanma var
+**QSB** Sinyalimin gücünde dalgalanma var mı?
+**QSB** Evet dalgalanma var
 
-QSD Gönderdiğim mors kodları doğrumu, anlaşılıyor mu?
-QSD Kodlarınız yanlış, sinyaliniz bozuk.
+**QSD** Gönderdiğim mors kodları doğrumu, anlaşılıyor mu?
+**QSD** Kodlarınız yanlış, sinyaliniz bozuk.
 
-QSI Araya giremiyorum, x istasyonuna x KHz gönderisine giremediğimi iletin
+**QSI** Araya giremiyorum, x istasyonuna x KHz gönderisine giremediğimi iletin
 
-QSK Beni gönderme arasında duyabiliyor musunuz?
-QSK Evet duyabiliyorum araya girebilirsiniz
+**QSK** Beni gönderme arasında duyabiliyor musunuz?
+**QSK Evet duyabiliyorum araya girebilirsiniz
 
-QSL Mesaj alındı mı, onaylar mısınız?
-QSL Alındığını onaylıyorum
+**QSL** Mesaj alındı mı, onaylar mısınız?
+**QSL** Alındığını onaylıyorum
 
-QSN Beni ya da x işaretli istasyonu x frekansı üzerinden duyabildiniz mi?
-QSN Sizi ya da x işaretli istasyonu x frekansı üzerinden duydum
+**QSN** Beni ya da x işaretli istasyonu x frekansı üzerinden duyabildiniz mi?
+**QSN** Sizi ya da x işaretli istasyonu x frekansı üzerinden duydum
 
-QSO x istasyonu ile doğrudan ya da aracı ile haberleşebiliyor musunuz?
-QSO x istasyonu ile haberleşebiliyorum
+**QSO** x istasyonu ile doğrudan ya da aracı ile haberleşebiliyor musunuz?
+**QSO** x istasyonu ile haberleşebiliyorum
 
-QSP X istasyonuna aktarır mısınız?
-QSP X istasyonuna aktarıyorum
+**QSP** X istasyonuna aktarır mısınız?
+**QSP** X istasyonuna aktarıyorum
 
-QSR Çağırı frekansında çağırımı tekrar edeyim mi?
-QSR Çağırınızı çağrı frekansında tekrarlayın, duyamadım
+**QSR** Çağırı frekansında çağırımı tekrar edeyim mi?
+**QSR** Çağırınızı çağrı frekansında tekrarlayın, duyamadım
 
-QSS Hangi frekansını kullanacaksınız?
+**QSS** Hangi frekansını kullanacaksınız?
+**QSS** Çalışma frekansı x KHz (sadece frekansın son üç hanesi)
 
-QSS Çalışma frekansı x KHz (sadece frekansın son üç hanesi)
+**QST** Bütün istasyonlara genel çağrı
 
-QST Bütün istasyonlara genel çağrı
+**QSU** X frekansı üstünden gönderme yapayım mı ya da yanıt vereyim mi?
+**QSU** X frekansı üstünden devam edin ya da X frekansından devam edin
+**QSV** Kontrol veya ayar amacı ile devamlı V (…-)  harfi göndereyim mi?
+**QSV** Buradan, veya X frekansı üstünden devamlı V harfi gönderin
 
-QSU X frekansı üstünden gönderme yapayım mı ya da yanıt vereyim mi?
-QSU X frekansı üstünden devam edin ya da X frekansından devam edin
-QSV Kontrol veya ayar amacı ile devamlı V (…-)  harfi göndereyim mi?
-QSV Buradan, veya X frekansı üstünden devamlı V harfi gönderin
+**QSW** Bu frekans ya da x frekansı üstünden gönderme yapacak mısınız?
+**QSW** Bu frekans ya da x frekansı üstünden gönderme yapacağım
 
-QSW Bu frekans ya da x frekansı üstünden gönderme yapacak mısınız?
-QSW Bu frekans ya da x frekansı üstünden gönderme yapacağım
+**QSX** Beni x frekansı üstünden mi dinleyeceksin?
+**QSX** x frekansını dinliyorum
 
-QSX Beni x frekansı üstünden mi dinleyeceksin?
-QSX x frekansını dinliyorum
+**QSY** Gönderme frekansımı değiştireyim mi?
+**QSY** Göndermeyi x frekansına değiştirin
 
-QSY Gönderme frekansımı değiştireyim mi?
-QSY Göndermeyi x frekansına değiştirin
+**QSZ** Gönderdiğim kelime veya grubu tekrarlayayım mı?
+**QSZ** Evet tekrarlayın
 
-QSZ Gönderdiğim kelime veya grubu tekrarlayayım mı?
-QSZ Evet tekrarlayın
+**QTA** Xxx numaralı mesajı iptal edeyim mi?
+**QTA** xxx numaralı mesajı iptal edin
 
-QTA Xxx numaralı mesajı iptal edeyim mi?
-QTA xxx numaralı mesajı iptal edin
+**QTB** Kelime sayım ile mutabık mısınız?
+**QTB** Mutabık değilim. Her kelime veya grubun ilk harfi veya rakamını tekrar edeceğim
 
-QTB Kelime sayım ile mutabık mısınız?
-QTB Mutabık değilim. Her kelime veya grubun ilk harfi veya rakamını tekrar edeceğim
+**QTC** Göndereceğiniz kaç mesaj var?
+**QTC** X mesajım var
 
-QTC Göndereceğiniz kaç mesaj var?
-QTC X mesajım var
+**QTH** Mevkiniz nedir?
+**QTH** Mevkim x (isim ya da enlem-boylam)
 
-QTH Mevkiniz nedir?
-QTH Mevkim x (isim ya da enlem-boylam)
-
-QTR Saat kaç?
-QTR Saat x UTC
+**QTR** Saat kaç?
+**QTR** Saat x UTC
 
 ## Röleler
 
