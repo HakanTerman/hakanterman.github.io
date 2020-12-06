@@ -57,7 +57,7 @@ Telsizler kendi aralarında frekanslarına göre ve tiplerine göre sınıflara 
 
 ![UV-82 El Telsizi](https://productimages.hepsiburada.net/s/35/550/10463085625394.jpg)
 
-##PMR Telsiz
+## PMR Telsiz
 
 0.5W gücünce çalışabilen, genel olarak çaycı telsizi olarak bildiğimiz telsizlerin genel adı. İnşaat, tüpcü, çaycı, hastane gibi kurum içi ve aynı zamanda sivil kullanımı serbest ve belge gerektirmeyen küçük boyutlu kısa mesafede iş görebilen telsizlerdir. Genel olarak numerik tuş takımı bulundurmazlar. 446Mhz Frekansında çalışmaktadırlar.
 
@@ -75,25 +75,25 @@ Mobil Telsizlerin biraz daha güçlü olanını, genel olarak sabit elektrik tes
 
 ![Ev Tipi Telsiz](https://www.universal-radio.com/catalog/hamhf/IC7600.jpg)
 
-##CB Telsiz
+## CB Telsiz
 
 Halk bandı olarak geçen, kullanımı için lisans gerektirmeyen ama şehirler arası hatta uygun hava koşullarında uluslarası görüşmeler yapılabilen telsizlerdir. Bir dönem çok yaygındı, halen daha kullanıcısı olan kişiler bulabilmek mümkün. Genel olarak lojistik araç şöförleri ile karşılaşabilirsiniz. 27Mhz frekansında çalışmaktadır.
 
-##HF Telsiz
+## Telsiz
 
 1.6-30 MHz HF frekans bandında sayısal haberleşme imkanı sunan, uygun hava koşullarında uluslarası haberleşmenin sağlanabildiği ve yukarıda da bahsettiğimiz yarışmaların yapıldığı bantları dinleyen ve gönderim yapabilen telsizlerdir.
 
-##DMR Telsiz
+## DMR Telsiz
 
 En kısa özeti ile Dijital Telsizdir. İletilmek istenen veriyi RF sinyaller yerine internet aracılığı ile uzak mesafelere taşır. Daha küçük frekans aralıklarında çoklu veri taşıyabilmektedir. Çalışması için internete bağlı olarak çalışan bir Hotspot'a (Erişim Noktası) ihtiyaç duyar.
 
 El telsizi üzerinden RF sinyalleri ile hotspota ulaşan veri, internet aracılığı ile hedeflenen DMR Röleye ulaşır ve oradan bağlı Hotspotlara dağılır. Yine o hotspotlara bağlı el cihazlarına RF olarak dağılır. İnternet bağlantısı olduğu sürece kilometreler fark etmeksizin dünyanın iki ucunu birbirine bağlayabilir. Ancak aksi bir durumda internet koptuğu an iletişim sona erer.
 
-##APRS
+## APRS
 
 Otomatik mevki takip sistemi olarak Türkçe'leştirebiliriz. Genel olarak amacı amatör telsiz cihazı aracılığı ile bulunulan konumun paylaşılmasıdır. İlk amacı mevki bildirmek olmakla birlikte, geçen süreçte, karşılıklı mesaj aktarımı, Otomatik meteoroloji sistemlerinin APRS ye eklenmesi gibi detaylar ile  kullanımı genişletilmiştir. Ve hatta internet kullanılarak, dünyanın herhangi bir yerindeki APRS istasyonu  (tabiki dataları internette ise) ile haberleşilebilir.
 
-##SDR
+## SDR
 
 Yazılım Tabanlı Radyo olarak duymuş olabilirsiniz belki daha önce. Yukarıda saydığımız hemen hemen tüm radyo bantlarını, ayrıca daha ileri gidecek şekilde GSM bantlarını dahi dinlemeye imkan sunan, bilgisayara bağlı şekilde kullanabileceğiniz alıcı cihazlar. GSM konusunu hemen özetleyeyim, telefon dinleyemezsiniz. Sadece GSM paketlerini waterfall ekranında izleyebilirsiniz. O işler o kadar kolay değil :p
 
@@ -103,23 +103,23 @@ Havada dolaşan, bir yerlere çarpan sinyalleri görmek için ve bilgisayarını
 
 En çok sorulan sorulardan birisi bu, yeni başladım, yeni amatörüm hangi cihazı alayım. Arkadaşlar öncelikle eğer bu konuda çok fazla ilginiz ve bilginiz yok ise en pahalı cihazı alsanız da yapabileceğiniz çok fazla bir şey yok. Ekonomik şartları da göz önünde bulundurursak ben uygun fiyatlı F/P bir ürünle başlamanızı tavsiye ederim. Konuya hakim oldukça cihaz ihtiyacınız şekillenecektir. İlk aldığınız cihazın yeri başka oluyor elbet. Ama zamanla farklı cihazlar tanıdıkça artık yetersiz gelebiliyor.
 
-###Antenler
+### Antenler
 
 Çok fazla anten tipi var, amatör telsizciler deneysel antenler yaparak kazanç artırmaya, daha uzaklardaki sinyalleri toplamaya çalışmakta. Burada başlık başlık hepsini açıklamak istersem eminim sıkılırsınız, ancak yeni başlayan bir amatörün kolaylıkla kendi emeğiyle yapacağı iki tür anten var. Bunun dışında popüler anten türlerinden biri de Yagi anten.
 
-#Flower Pot (Çiçek Saksısı) Anten
+# Flower Pot (Çiçek Saksısı) Anten
 
 Plastik bir su borusu ve RG-58 Kablo ile belirlenen ölçülere sadık kalınarak yapıldığında ölçüme gerek kalmaksızın çalışabilen, başlangıç ve ilerleyen aşamalarda işinize yarayabilecek bir anten modeli. İlerleyen zamanlarda Türkçe olarak bu antenin adım adım yapım aşamalarını paylaşacağım. Şuan evimin çatısında dikili halde mevcut.
 
 ![Flower-Pot](https://lh3.googleusercontent.com/proxy/X3I_nHh-5UlMlt9dWp6PrZYFQo5Pu6v3FRBwI0A2sGkb3oKMUKhAusRzGNBfhygZHVNQWiDk4Y4Wns_q0yk7kZxFdnnbWDTPuYMbhNXRyc8kTwO4jLZpzcz7FV4PNKRKYnKXbZ1AHA)
 
-#J-Pole Anten
+# J-Pole Anten
 
 Ölçüleri önceden belirlenmiş aluminyum çubuklar ve bir tane konnektör kullanarak kolayca yapabileceğiniz bir anten modeli. İlerleyen zamanda yapıp, aynı zamanda yapımını paylaşacağım anten modeli.
 
 ![JPole](https://lh3.googleusercontent.com/proxy/VZoUbcCZk40P6u4nIk93SKM8jxHtr4d5SlyKVSULkEptY1sEVttpopVYVyxFPImeH6jtm5OkWp-ob13M5ZX29MmXygmJMPe2muk3LjiKmT819qARsy-TdE4tLpDgyEvxNmcrgfAXpg)
 
-#Yagi Anten
+# Yagi Anten
 
 Diğer iki anten gibi 360 derece dinleme yapabileceğiniz bir model değildir. Tamamen dinleme ve gönderme yapmak istediğiniz yöne doğru döndürmeniz gerekmektedir. Uydu dinlemeleri için de ideal olan aynı zamanda simpleks görüşmelerde başarı sağlayan bir anten modelidir.
 
@@ -136,7 +136,7 @@ Belge ülkemizde 3 sınıf halinde veriliyor. A, B ve C sınıfları. Uluslaras�
 En temel seviye amatör telsizcilik haklarına sahip olmak için  C sınıfı belge almanız yeterliyken, B ve A ile yapabileceklerinizin kapsamı daha da genişlemekte.
 Kullanabildiğiniz frekans ve güç aralıklarının değişmesi ve istasyon kurma gibi yetkileriniz oluşuyor. HF Frekanslarda uluslararası görüşmeler yapabiliyorsunuz. Röle kurma, sorumluluğunu alma gibi yetkiler için yine A sınıfı belgeye ihtiyacınız var.
 
-#SWL
+# SWL
 
 Dinleyici belgesi. 3-30Mhz aralığındaki kısa dalga yayınlarını dinlemek, dinlediğiniz istasyonlara SWL belge numarası göndererek QSL kart alabilmeniz için verilen belgedir. Amatör telsizci olduktan sonra çağrı işaretinizi kullanmanız da mümkün olsa da, eğer SDR ile veya Dünya Radyosu benzeri bir alet ile çalışıp kısa dalga dinleme yapıyorsanız SWL belgesine de sınavsız, E-Devlet üzerinden talep ile sahip olabilirsiniz.
 
@@ -175,11 +175,11 @@ Cevapları işaretlenmiş şekilde olan soru kaynağına ulaşmak için [bu bağ
 
 Uluslarası alanda Fonetik Alfabe adını verdiğimiz alfabeyi kullanarak harfleri kodlamaktayız. Buna ek olarak Milli Fonetik Alfabemiz de mevcut. Genel olarak Uluslarası Fonetik Alfabe kullanılmaktadır. Harfler ve seslendirmeleri bu şekildedir.
 
-#Fonetik Alfabe
+# Fonetik Alfabe
 
 ![Fonetik Alfabe](https://www.tamsat.org.tr/tr/wp-content/uploads/2010/04/uluslararasi_fonetik_alfabe.jpg)
 
-#Milli Fonetik Alfabe
+# Milli Fonetik Alfabe
 
 ![Milli Fonetik Alfabe](https://www.tamsat.org.tr/tr/wp-content/uploads/2010/04/milli.fonetik_alfabe.jpg)
 
