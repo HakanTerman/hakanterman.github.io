@@ -209,6 +209,7 @@ Zamanla ses ile yapılan görüşmelerde de “Q” kodları kısaltma olarak ay
 
 **QRH** Frekansınız değişiyor
 **QRH** Evet değişiyor.
+
 **QRH** Frekansım değişiyor mu?
 **QRH?** Frekansım değişiyor mu?
 
@@ -233,8 +234,8 @@ Zamanla ses ile yapılan görüşmelerde de “Q” kodları kısaltma olarak ay
 **QRP** Güç azaltayım mı?
 **QRP** Evet, güç azaltın
 
-**QR**Q** Gönderme hızını arttırayım mı?
-**QR**Q** Evet, gönderme hızını arttırın
+**QRQ** Gönderme hızını arttırayım mı?
+**QRQ** Evet, gönderme hızını arttırın
 
 **QRS** Gönderme hızını azaltayım mı?
 **QRS** Evet, gönderme hızını azaltın
@@ -272,7 +273,7 @@ Zamanla ses ile yapılan görüşmelerde de “Q” kodları kısaltma olarak ay
 **QSI** Araya giremiyorum, x istasyonuna x KHz gönderisine giremediğimi iletin
 
 **QSK** Beni gönderme arasında duyabiliyor musunuz?
-**QSK Evet duyabiliyorum araya girebilirsiniz
+**QSK** Evet duyabiliyorum araya girebilirsiniz
 
 **QSL** Mesaj alındı mı, onaylar mısınız?
 **QSL** Alındığını onaylıyorum
@@ -296,6 +297,7 @@ Zamanla ses ile yapılan görüşmelerde de “Q” kodları kısaltma olarak ay
 
 **QSU** X frekansı üstünden gönderme yapayım mı ya da yanıt vereyim mi?
 **QSU** X frekansı üstünden devam edin ya da X frekansından devam edin
+
 **QSV** Kontrol veya ayar amacı ile devamlı V (…-)  harfi göndereyim mi?
 **QSV** Buradan, veya X frekansı üstünden devamlı V harfi gönderin
 
