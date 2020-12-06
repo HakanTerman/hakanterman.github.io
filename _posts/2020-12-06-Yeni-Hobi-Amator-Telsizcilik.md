@@ -79,7 +79,7 @@ Mobil Telsizlerin biraz daha güçlü olanını, genel olarak sabit elektrik tes
 
 Halk bandı olarak geçen, kullanımı için lisans gerektirmeyen ama şehirler arası hatta uygun hava koşullarında uluslarası görüşmeler yapılabilen telsizlerdir. Bir dönem çok yaygındı, halen daha kullanıcısı olan kişiler bulabilmek mümkün. Genel olarak lojistik araç şöförleri ile karşılaşabilirsiniz. 27Mhz frekansında çalışmaktadır.
 
-## Telsiz
+## HF Telsiz
 
 1.6-30 MHz HF frekans bandında sayısal haberleşme imkanı sunan, uygun hava koşullarında uluslarası haberleşmenin sağlanabildiği ve yukarıda da bahsettiğimiz yarışmaların yapıldığı bantları dinleyen ve gönderim yapabilen telsizlerdir.
 
