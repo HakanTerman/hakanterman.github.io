@@ -14,12 +14,12 @@ Sinyal sistemlerine ilgim olduğunu beni tanıyan çoğu kişi biliyor. Zaten da
 
 Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile başlangıç kısmında ufak bir içindekiler sayfası ve linkleme yapmayı düşündük..
 
-* [Öncelikle, Amatör Telsizcilik Ne Değildir ?](#öncelikle,-amatör-telsizcilik-ne-d)
-* [Neyin Nesi Bu Amatör Telsizcilik ?](#neyin-nesi-bu-amatör-d)
-* [Neden Amatör ? Profesyonel olamayacak mıyız ?](#neden-amatör-d)
+* [Öncelikle, Amatör Telsizcilik Ne Değildir ?](#oncelikle-amator-telsizcilik-ne-d)
+* [Neyin Nesi Bu Amatör Telsizcilik ?](#neyin-nesi-bu-amator-d)
+* [Neden Amatör ? Profesyonel olamayacak mıyız ?](#neden-amator-d)
 * [Kim Bunlar, Neler Yapıyorlar ?](#kim-bunlar-d)
 * [Olay Ne, Niye Böyle Bir Şeye İhtiyaç Duyalım ?](##olay-ne-d)
-* [Yarışmalar](# Yarışmalar)
+* [Yarışmalar](#yarismalar)
 
 * [Biraz Teknik](#biraz-teknik)
   * [Amatör El Telsizi](#amatör-el-telsizi)
@@ -33,28 +33,28 @@ Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile baş
   * [SDR](#sdr)
 
 * [Yeni Başlayanlar için telsiz önerileri](# Yeni Başlayanlar için telsiz önerileri)
-* [Antenler](# Antenler)
+* [Antenler](#antenler)
 
-  * [Flower Pot (Çiçek Saksısı) Anten](## Flower Pot (Çiçek Saksısı) Anten)
-  * [J-Pole Anten](## J-Pole Anten)
-  * [Yagi Anten](## Yagi Anten)
+  * [Flower Pot (Çiçek Saksısı) Anten](#flower-pot-d)
+  * [J-Pole Anten](#jpole-anten)
+  * [Yagi Anten](##yagi-anten)
 
-* [Amatör Telsiz Lisansı](# Amatör Telsiz Lisansı)
-  * [Belge Sınıfları](## Belge Sınıfları)
-  * [SWL](## SWL)
+* [Amatör Telsiz Lisansı](#amator-telsiz-lisansı)
+  * [Belge Sınıfları](#belge-siniflari)
+  * [SWL](#SWL)
 
-* [Belge Alma Süreci - (2020)](# Belge Alma Süreci - (2020))
-* [Sınav içeriği ve sorular](# Sınav içeriği ve sorular)
+* [Belge Alma Süreci - (2020)](#belge-alma-d)
+* [Sınav içeriği ve sorular](#sinav-d)
 
-* [Amatör Alfabe](# Amatör Alfabe)
-  * [Fonetik Alfabe](## Fonetik Alfabe)
-  * [Milli Fonetik Alfabe](## Milli Fonetik Alfabe)
+* [Amatör Alfabe](#amator-alfabe)
+  * [Fonetik Alfabe](#fonetik-alfabe)
+  * [Milli Fonetik Alfabe](#milli-fonetik-alfabe)
 
-* [Bölge Haritası](# Bölge Haritası)
-* [Kısa Kodlar ve Anlamları](# Kısa Kodlar ve Anlamları)
-* [Röleler](# Röleler)
+* [Bölge Haritası](#bolge-haritası)
+* [Kısa Kodlar ve Anlamları](#kisa-kodlar-ve-d)
+* [Röleler](#roleler)
 
-## Öncelikle, Amatör Telsizcilik Ne Değildir ?
+# Öncelikle Amatör Telsizcilik Ne Değildir ?
 
 Evet, ne değildir ? Bilerek ters bir başlıkla başlamak istedim. Amatör Telsizciliğin ülkemizde tam olarak tanımlanmamasından olsa gerek, herkes kendince bir yöne çekiyor. Bazıları elinde, belinde telsiz gezdirip kendisine kamu görevlisi süsü vererek, bir de yetmezmiş gibi metal rozetler takarak poliscilik oynamak için alıyor telsizlerini ve buna kılıf uydurmak için belge sahibi oluyor. Kimisi belge alır almaz kendisini kurtarma görevlisi ilan ediyor. Bu alanla ilgilenen kişilerin kendilerini acil durum görevlisi, kurtarma görevlisi ya da benzeri şekilde farklı isimlerle tanıtması gerçekten anlamsız.
 
@@ -62,16 +62,16 @@ Türkiye şartlarında "hobi edinmek" gereksiz diye karşılandığı için, ve 
 
 Acil durumlar denilince, elbette Amatör Telsizcilik hobisi, elinde bulundurduğu ekipmanlarla ve hazırda bulunan dernek, cemiyetlerin faaliyetleri, üyeleri ile afet durumlarında yardımcı olabilme imkanına sahiptir. Ülkede hazırda bulunan bir alternatif iletişim sistemi oluşturmaktadır. Ancak kesinlikle Amatör Telsizcilikte gönüllülük esaslıdır, ve hobidir.
 
-## Neyin Nesi Bu Amatör Telsizcilik ?
+# Neyin Nesi Bu Amatör Telsizcilik ?
 
 Öncelikli olarak Amatör Telsizcilik bir hobi. Burayı netleştirdiysek eğer, Antrak'ın tanımı ile Amatör telsizci ;
 Kendi devletlerinin verdiği lisanslarla, yurt içi ve yurt dışı ile, kendilerine ayrılan frekans bandlarından birinden, izin verilen modülasyon tiplerinden herhangi birini kullanarak haberleşen ve bunu hobi olarak yapıp bundan hiçbir menfaat sağlamayan kişilere verilen addır. Amatör telsizcilik için, aynen sürücü belgelerinde olduğu gibi, bir belge alınması zorunluluğu bulunmaktadır. Bunun nedeni amatör telsiz istasyonu işletebilmek için belirli bir bilgi birikimi bulunmasının gerekliliğidir. Amatör telsiz operatöru olmak için temel elektronik, istasyon işletime bilgisi, kanun ve yönetmelikler gibi çeşitli konularda bilgi sahibi olmak gerekir. Amatör telsizcinin en iyi bilmesi gereken konulardan biri de bir doğal afetler ve olağanüstü durumlarda yapması gerekenlerdir. Tabi ki amatör telsizcilik sadece bu kadarla bitmemektedir.
 
-## Neden Amatör ? Profesyonel olamayacak mıyız ?
+# Neden Amatör ? Profesyonel olamayacak mıyız ?
 
 Amatör demek bu işi kazanç karşılığı yapmayan, hobi olarak yapan kimse anlamındadır. Profesyonellik öncesi olan, acemi anlamında değildir. Bu çok karıştırılmakta, ayrıca hakaret anlamında acemi telsizcisiniz, ne olacak sizden gibi yorumlar da yapılmakta maalesef.
 
-## Kim Bunlar, Neler Yapıyorlar ?
+# Kim Bunlar, Neler Yapıyorlar ?
 
 Ülkemizde 1985 yılından itibaren Amatör Telsizcilik yasal hale gelmiş, o yıllardan önce de elbet telsizciler vardı ancak resmi olarak çağrı işaretleri yoktu sanıyorum ki. Bu konuda TA1D'nin [blog yazısını](http://www.ta1d.com/eskiamatorler.htm) inceleyebilirsiniz.
 
@@ -79,13 +79,13 @@ Yasal olarak izin verildikten sonra TRAC, ANTRAK gibi bir çok dernek faaliyet g
 
 TRAC ve ANTRAK dışında bir çok dernek bu tarz faaaliyet göstermekte ancak en yaygın olanlar ve neredeyse her ilde şubesi bulunan dernekler bunlar. Bu konuda ilinizdeki şubeleri ile iletişime geçip detaylı bilgi alabilmeniz de mümkün. Çok cüzi rakamlar ile üyeleri olup söz hakkı sahibi olabilir, seçim dönemlerinde yönetimlerine de katılabilirsiniz elbet.
 
-## Olay Ne, Niye Böyle Bir Şeye İhtiyaç Duyalım ?
+# Olay Ne, Niye Böyle Bir Şeye İhtiyaç Duyalım ?
 
 Genel kavramları ile havadan, herhangi bir dijital ortama gerek duymadan Ses, Mors veya ufak Data Paketleri iletebilmek mümkün. Mevcutta olan tüm iletişim ağlarının çalışmadığı, elektrik enerjisinin kesilmesi gibi durumlarda çok küçük enerji kaynakları ile kilometrelerce öteye bilgi iletebilmek, ve alabilmek mümkün.
 
 Şimdi gelelim işin eğlenceli kısımlarına, belirli dönemlerde düzenlenen hava etkinlikleri oluyor. Kendi imkanları ile sinyal yakalayabilen kişilere dünyanın öbür ucundan tebrik kartı niteliğinde SWL kartları gönderiliyor. Mesela Uluslararası Uzay İstasyonu diye bir şey var, gökyüzünde dünyadan 408 Kilometre yükseklikte alçak Dünya yörüngesine yerleştirilmiş bir uzay üssü, başka bir tabirle üzerinde yaşanabilen yapay bir uydu. İçinde Amerika, Rusya gibi ülkeler başta olmak üzere bir çok ülkeden astronotlar var. Bu arkadaşların bulunduğu istasyon dünyanın etrafını günde 15,5 tur dönüyorlar. Yaklaşık 90 dakikada bir tur. İstasyon üzerinde bulunan röle yardımı ile ufacık bir el telsizi ile istasyona ve dinlemede olan bir çok amatöre sesinizi duyurul QSO yapabilirsiniz. QSO ne diyecek olursanız. Okumaya devam edin, aşağıda anlatıyor olacağım. Yine bu istasyon üzerinden [belirli tarihlerde](https://twitter.com/ariss_status) SSTV denilen bir yayın yapılıyor, RF sinyali üzerinden yayınlanan sesin içinde gizlenmiş bir görüntü olarak düşünebilirsiniz. Bu resmi alabildiğiniz en yüksek çözünürlük ile alıp ilgili sayfalara ilettiğinizde size üzerinde çağrı kodu yazan elektronik bir tebrik belgesi gönderiliyor.
 
-**TA4ABJ - Sercan'ın 1 Aralık 2020 ISS SSTV yayınından El telsizi ile alıp decode ettiği görsel.**
+**TA4ABJ - Sercan EYGİ'nin 2 Aralık 2020 ISS SSTV yayınından El telsizi ile alıp decode ettiği görsel.**
 
 ![SSTV-1Aralık-TA4ABJ](/assets/images/posts/yazi/sstv-1december.jpg)
 
@@ -97,49 +97,49 @@ Bu alanda sadece şans eseri rölede dinlemede olan ya da rastgele çağrı kiş
 
 # Biraz Teknik
 
-## Amatör El Telsizi
+# Amatör El Telsizi
 
 Telsizler kendi aralarında frekanslarına göre ve tiplerine göre sınıflara ayrılıyorlar. En çok gördüğümüz el telsizleri genel olarak VHF/UHF bantlarında dinleme ve yayın yapabilen cihazlar. Yine bu bantlarda işlem yapabilen sabit istasyon ve mobil istasyon (araç)telsizleri de mevcut. El cihazlarında maksimum çıkış gücü yasalara göre 5W ile sınırlı olması gerekiyor. Mobil istasyonlarda bu değer daha da artabiliyor. Bu cihazları kullanmak için Amatör Telsizcilik lisansına ihtiyacınız var. VHF/UHF bantlarında çalışma yapabilmek için minimum C sınıfı belge size yeterli olacaktır. Sınıflar hakkında detaylı bilgiyi alt satırlarda bulabilirsiniz :)
 
 ![UV-82 El Telsizi](https://productimages.hepsiburada.net/s/35/550/10463085625394.jpg)
 
-## PMR Telsiz
+# PMR Telsiz
 
 0.5W gücünce çalışabilen, genel olarak çaycı telsizi olarak bildiğimiz telsizlerin genel adı. İnşaat, tüpcü, çaycı, hastane gibi kurum içi ve aynı zamanda sivil kullanımı serbest ve belge gerektirmeyen küçük boyutlu kısa mesafede iş görebilen telsizlerdir. Genel olarak numerik tuş takımı bulundurmazlar. 446Mhz Frekansında çalışmaktadırlar.
 
 ![PMR El Telsizi](https://productimages.hepsiburada.net/s/26/375/10157931135026.jpg)
 
-## Mobil Telsiz İstasyonu
+# Mobil Telsiz İstasyonu
 
 UHF/VHF bantlarında çıkış yapılabilen, amatör telsizi ile aynı özelliklere sahip olan ama çıkış gücü kat kat yüksek olan cihazlardır. Genel olarak hareketli araçlar (araba,çekici vb.) üzerinde yer alan, ama çıkış gücünden dolayı evlerde de sabit istasyon olarak kullanılan tip telsizlerdir.
 
 ![Mobil Telsiz](https://tb2bkk.info/wp-content/uploads/2017/07/md-9600.jpg)
 
-## Sabit Telsiz
+# Sabit Telsiz
 
 Mobil Telsizlerin biraz daha güçlü olanını, genel olarak sabit elektrik tesisatına bağlı olarak çalışan versiyonunu düşünebiliriz. Fiyat bakımından oldukça pahalı olan bu cihazlarla bağlı bulundukları antene göre değişmekle birlikte amatör kurallar çerçevesinde neredeyse her frekansta çalışma yapma şansı vardır.
 
 ![Ev Tipi Telsiz](https://www.universal-radio.com/catalog/hamhf/IC7600.jpg)
 
-## CB Telsiz
+# CB Telsiz
 
 Halk bandı olarak geçen, kullanımı için lisans gerektirmeyen ama şehirler arası hatta uygun hava koşullarında uluslarası görüşmeler yapılabilen telsizlerdir. Bir dönem çok yaygındı, halen daha kullanıcısı olan kişiler bulabilmek mümkün. Genel olarak lojistik araç şöförleri ile karşılaşabilirsiniz. 27Mhz frekansında çalışmaktadır.
 
-## HF Telsiz
+# HF Telsiz
 
 1.6-30 MHz HF frekans bandında sayısal haberleşme imkanı sunan, uygun hava koşullarında uluslarası haberleşmenin sağlanabildiği ve yukarıda da bahsettiğimiz yarışmaların yapıldığı bantları dinleyen ve gönderim yapabilen telsizlerdir.
 
-## DMR Telsiz
+# DMR Telsiz
 
 En kısa özeti ile Dijital Telsizdir. İletilmek istenen veriyi RF sinyaller yerine internet aracılığı ile uzak mesafelere taşır. Daha küçük frekans aralıklarında çoklu veri taşıyabilmektedir. Çalışması için internete bağlı olarak çalışan bir Hotspot'a (Erişim Noktası) ihtiyaç duyar.
 
 El telsizi üzerinden RF sinyalleri ile hotspota ulaşan veri, internet aracılığı ile hedeflenen DMR Röleye ulaşır ve oradan bağlı Hotspotlara dağılır. Yine o hotspotlara bağlı el cihazlarına RF olarak dağılır. İnternet bağlantısı olduğu sürece kilometreler fark etmeksizin dünyanın iki ucunu birbirine bağlayabilir. Ancak aksi bir durumda internet koptuğu an iletişim sona erer.
 
-## APRS
+# APRS
 
 Otomatik mevki takip sistemi olarak Türkçe'leştirebiliriz. Genel olarak amacı amatör telsiz cihazı aracılığı ile bulunulan konumun paylaşılmasıdır. İlk amacı mevki bildirmek olmakla birlikte, geçen süreçte, karşılıklı mesaj aktarımı, Otomatik meteoroloji sistemlerinin APRS ye eklenmesi gibi detaylar ile  kullanımı genişletilmiştir. Ve hatta internet kullanılarak, dünyanın herhangi bir yerindeki APRS istasyonu  (tabiki dataları internette ise) ile haberleşilebilir.
 
-## SDR
+# SDR
 
 Yazılım Tabanlı Radyo olarak duymuş olabilirsiniz belki daha önce. Yukarıda saydığımız hemen hemen tüm radyo bantlarını, ayrıca daha ileri gidecek şekilde GSM bantlarını dahi dinlemeye imkan sunan, bilgisayara bağlı şekilde kullanabileceğiniz alıcı cihazlar. GSM konusunu hemen özetleyeyim, telefon dinleyemezsiniz. Sadece GSM paketlerini waterfall ekranında izleyebilirsiniz. O işler o kadar kolay değil :p
 
@@ -155,19 +155,19 @@ Bu kısımdan tam bir marka model önerisi yapmak yerine böyle bir açıklama b
 
 Çok fazla anten tipi var, amatör telsizciler deneysel antenler yaparak kazanç artırmaya, daha uzaklardaki sinyalleri toplamaya çalışmakta. Burada başlık başlık hepsini açıklamak istersem eminim sıkılırsınız, ancak yeni başlayan bir amatörün kolaylıkla kendi emeğiyle yapacağı iki tür anten var. Bunun dışında popüler anten türlerinden biri de Yagi anten.
 
-## Flower Pot (Çiçek Saksısı) Anten
+# Flower Pot (Çiçek Saksısı) Anten
 
 Plastik bir su borusu ve RG-58 Kablo ile belirlenen ölçülere sadık kalınarak yapıldığında ölçüme gerek kalmaksızın çalışabilen, başlangıç ve ilerleyen aşamalarda işinize yarayabilecek bir anten modeli. İlerleyen zamanlarda Türkçe olarak bu antenin adım adım yapım aşamalarını paylaşacağım. Şuan evimin çatısında dikili halde mevcut.
 
 ![Flower-Pot](/assets/images/posts/yazi/fpot.jpg)
 
-## J-Pole Anten
+# J-Pole Anten
 
 Ölçüleri önceden belirlenmiş aluminyum çubuklar ve bir tane konnektör kullanarak kolayca yapabileceğiniz bir anten modeli. İlerleyen zamanda yapıp, aynı zamanda yapımını paylaşacağım anten modeli.
 
 ![JPole](/assets/images/posts/yazi/jpole.jpg)
 
-## Yagi Anten
+# Yagi Anten
 
 Diğer iki anten gibi 360 derece dinleme yapabileceğiniz bir model değildir. Tamamen dinleme ve gönderme yapmak istediğiniz yöne doğru döndürmeniz gerekmektedir. Uydu dinlemeleri için de ideal olan aynı zamanda simpleks görüşmelerde başarı sağlayan bir anten modelidir.
 
@@ -177,14 +177,14 @@ Diğer iki anten gibi 360 derece dinleme yapabileceğiniz bir model değildir. T
 
 Ülkemizde verme ve kontrol etme yetkisi Kıyı Emniyeti Genel Müdürlüğüne ait olan, amatör telsizcilere tahsis edilen çağrı işaretlerinin bulunduğu ve resmi olarak amatör telsizci olma yeterliliği taşıdığını gösteren belgedir.
 
-## Belge Sınıfları
+# Belge Sınıfları
 
 Belge ülkemizde 3 sınıf halinde veriliyor. A, B ve C sınıfları. Uluslarası platformda da 3 sınıfta Harec, Novice, Entring şeklinde verilmektedir. A/B için tek sınav, C için tek sınav yapılmakta ve A/B Sınavından 60-75 arası alanlar B, 75-100 arası alanlar A sınıfı belge almaya hak kazanıyor. C sınıfı sınavından 60 ve yukarısı alanlar C sınıfı belge almaya hak kazanıyorlar.
 
 En temel seviye amatör telsizcilik haklarına sahip olmak için  C sınıfı belge almanız yeterliyken, B ve A ile yapabileceklerinizin kapsamı daha da genişlemekte.
 Kullanabildiğiniz frekans ve güç aralıklarının değişmesi ve istasyon kurma gibi yetkileriniz oluşuyor. HF Frekanslarda uluslararası görüşmeler yapabiliyorsunuz. Röle kurma, sorumluluğunu alma gibi yetkiler için yine A sınıfı belgeye ihtiyacınız var.
 
-## SWL
+# SWL
 
 Dinleyici belgesi. 3-30Mhz aralığındaki kısa dalga yayınlarını dinlemek, dinlediğiniz istasyonlara SWL belge numarası göndererek QSL kart alabilmeniz için verilen belgedir. Amatör telsizci olduktan sonra çağrı işaretinizi kullanmanız da mümkün olsa da, eğer SDR ile veya Dünya Radyosu benzeri bir alet ile çalışıp kısa dalga dinleme yapıyorsanız SWL belgesine de sınavsız, E-Devlet üzerinden talep ile sahip olabilirsiniz.
 
@@ -223,11 +223,11 @@ Cevapları işaretlenmiş şekilde olan soru kaynağına ulaşmak için [bu bağ
 
 Uluslarası alanda Fonetik Alfabe adını verdiğimiz alfabeyi kullanarak harfleri kodlamaktayız. Buna ek olarak Milli Fonetik Alfabemiz de mevcut. Genel olarak Uluslarası Fonetik Alfabe kullanılmaktadır. Harfler ve seslendirmeleri bu şekildedir.
 
-## Fonetik Alfabe
+# Fonetik Alfabe
 
 ![Fonetik Alfabe](https://www.tamsat.org.tr/tr/wp-content/uploads/2010/04/uluslararasi_fonetik_alfabe.jpg)
 
-## Milli Fonetik Alfabe
+# Milli Fonetik Alfabe
 
 ![Milli Fonetik Alfabe](https://www.tamsat.org.tr/tr/wp-content/uploads/2010/04/milli.fonetik_alfabe.jpg)
 
