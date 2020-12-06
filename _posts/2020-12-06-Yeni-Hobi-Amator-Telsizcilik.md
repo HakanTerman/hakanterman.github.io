@@ -111,13 +111,13 @@ En çok sorulan sorulardan birisi bu, yeni başladım, yeni amatörüm hangi cih
 
 Plastik bir su borusu ve RG-58 Kablo ile belirlenen ölçülere sadık kalınarak yapıldığında ölçüme gerek kalmaksızın çalışabilen, başlangıç ve ilerleyen aşamalarda işinize yarayabilecek bir anten modeli. İlerleyen zamanlarda Türkçe olarak bu antenin adım adım yapım aşamalarını paylaşacağım. Şuan evimin çatısında dikili halde mevcut.
 
-![Flower-Pot](https://lh3.googleusercontent.com/proxy/X3I_nHh-5UlMlt9dWp6PrZYFQo5Pu6v3FRBwI0A2sGkb3oKMUKhAusRzGNBfhygZHVNQWiDk4Y4Wns_q0yk7kZxFdnnbWDTPuYMbhNXRyc8kTwO4jLZpzcz7FV4PNKRKYnKXbZ1AHA)
+![Flower-Pot](http://www.telsizciler.org/index.php?action=dlattach;topic=31329.0;attach=58679;image)
 
 ## J-Pole Anten
 
 Ölçüleri önceden belirlenmiş aluminyum çubuklar ve bir tane konnektör kullanarak kolayca yapabileceğiniz bir anten modeli. İlerleyen zamanda yapıp, aynı zamanda yapımını paylaşacağım anten modeli.
 
-![JPole](https://lh3.googleusercontent.com/proxy/VZoUbcCZk40P6u4nIk93SKM8jxHtr4d5SlyKVSULkEptY1sEVttpopVYVyxFPImeH6jtm5OkWp-ob13M5ZX29MmXygmJMPe2muk3LjiKmT819qARsy-TdE4tLpDgyEvxNmcrgfAXpg)
+![JPole](http://www.telsizciler.org/index.php?action=dlattach;topic=22098.0;attach=17343;image)
 
 ## Yagi Anten
 

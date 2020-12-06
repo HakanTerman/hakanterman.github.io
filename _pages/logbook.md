@@ -1,6 +1,7 @@
 ---
 permalink: /logbook/
 title: "TA4ADP - LogBook"
+tags: [TA4ADP Nedir, TA4ADP Kimdir, HakanTerman Logbook, HakanTerman, Amatör Telsizcilikte TA4ADP kime aittir?, Hakan TERMAN kimdir, Hakan TERMAN telsiz]
 excerpt: "Hakan TERMAN - Amatör Radyo QSO Veritabanı"
 layout: single
 modified: 2020-12-03T23:55:07.573882-04:00
