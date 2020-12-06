@@ -14,12 +14,12 @@ Sinyal sistemlerine ilgim olduğunu beni tanıyan çoğu kişi biliyor. Zaten da
 
 Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile başlangıç kısmında ufak bir içindekiler sayfası ve linkleme yapmayı düşündük..
 
-* [Öncelikle, Amatör Telsizcilik Ne Değildir ?](#oncelikle-amator-telsizcilik-ne-d)
-* [Neyin Nesi Bu Amatör Telsizcilik ?](#neyin-nesi-bu-amator-d)
-* [Neden Amatör ? Profesyonel olamayacak mıyız ?](#neden-amator-d)
-* [Kim Bunlar, Neler Yapıyorlar ?](#kim-bunlar-d)
-* [Olay Ne, Niye Böyle Bir Şeye İhtiyaç Duyalım ?](##olay-ne-d)
-* [Yarışmalar](#yarismalar)
+* [Öncelikle, Amatör Telsizcilik Ne Değildir ?](#öncelikle-amatör-telsizcilik-ne-değildir)
+* [Neyin Nesi Bu Amatör Telsizcilik ?](#neyin-nesi-bu-amatör-telsizcilik)
+* [Neden Amatör ? Profesyonel olamayacak mıyız ?](#neden-amatör)
+* [Kim Bunlar, Neler Yapıyorlar ?](#kim-bunlar)
+* [Olay Ne, Niye Böyle Bir Şeye İhtiyaç Duyalım ?](#olay-ne)
+* [Yarışmalar](#yarışmalar)
 
 * [Biraz Teknik](#biraz-teknik)
   * [Amatör El Telsizi](#amatör-el-telsizi)
@@ -32,26 +32,26 @@ Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile baş
   * [APRS](#aprs)
   * [SDR](#sdr)
 
-* [Yeni Başlayanlar için telsiz önerileri](# Yeni Başlayanlar için telsiz önerileri)
+* [Yeni Başlayanlar için telsiz önerileri](#yeni-başlayanlar-için-telsiz-önerileri)
 * [Antenler](#antenler)
 
-  * [Flower Pot (Çiçek Saksısı) Anten](#flower-pot-d)
+  * [Flower Pot (Çiçek Saksısı) Anten](#flower-pot)
   * [J-Pole Anten](#jpole-anten)
   * [Yagi Anten](##yagi-anten)
 
-* [Amatör Telsiz Lisansı](#amator-telsiz-lisansı)
-  * [Belge Sınıfları](#belge-siniflari)
+* [Amatör Telsiz Lisansı](#amatör-telsiz-lisansı)
+  * [Belge Sınıfları](#belge-sınıfları)
   * [SWL](#SWL)
 
-* [Belge Alma Süreci - (2020)](#belge-alma-d)
-* [Sınav içeriği ve sorular](#sinav-d)
+* [Belge Alma Süreci - (2020)](#belge-alma-süreci)
+* [Sınav içeriği ve sorular](#sinav-içeriği-ve-sorular)
 
 * [Amatör Alfabe](#amator-alfabe)
   * [Fonetik Alfabe](#fonetik-alfabe)
   * [Milli Fonetik Alfabe](#milli-fonetik-alfabe)
 
-* [Bölge Haritası](#bolge-haritası)
-* [Kısa Kodlar ve Anlamları](#kisa-kodlar-ve-d)
+* [Bölge Haritası](#bölge-haritası)
+* [Kısa Kodlar ve Anlamları](#kısa-kodlar-ve-anlamları)
 * [Röleler](#roleler)
 
 # Öncelikle Amatör Telsizcilik Ne Değildir ?
