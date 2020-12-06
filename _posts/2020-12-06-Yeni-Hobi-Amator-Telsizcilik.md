@@ -331,7 +331,7 @@ Zamanla ses ile yapılan görüşmelerde de “Q” kodları kısaltma olarak ay
 Telsiz cihazlarının birbirleri ile uzak mesafelerden baglanti kurabilmesini saglayan sabit giriş ve çıkış frekanslari bulunan tekrarlayıcı olarak da bilinen cihazlardır. Uzak mesafelerdeki kişilerin birbiri ile görüşmesine aracılık etmek için kurulmuştur.
 Türkiye'nin hemen hemen her ilinde birden fazla röle bulunmakta.
 
-[Bu adresten](http://www.ta2kb.com/tarole.asp) kendi ilinzideki röleleri görüp giriş frekansları ve ton bilgilerine erişebilirsiniz.
+[Bu adresten](http://www.ta2kb.com/tarole.asp) kendi ilinizdeki röleleri görüp giriş frekansları ve ton bilgilerine erişebilirsiniz.
 
 Çook uzun bir yazı oldu biliyorum, umarım sıkılmazsınız. Ancak birkaç aydır takip ettiğim Telegram ve Whatsapp gruplarında tekrar tekrar sorulan bu soruları not aldım ve bir yazıda elimden geldiğince hepsini anlatmaya çalıştım. Umarım faydalı olmuştur. Amatör belgeniz hayırlı olsun, eğer çağrı kodunuz varsa lütfen yorumlara bırakın, tanışalım.
 
