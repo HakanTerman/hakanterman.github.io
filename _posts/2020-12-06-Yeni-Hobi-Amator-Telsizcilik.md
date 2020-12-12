@@ -35,7 +35,6 @@ Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile baş
 
 * [Yeni Başlayanlar için telsiz önerileri](#yeni-başlayanlar-için-telsiz-önerileri)
 * [Antenler](#antenler)
-
   * [Flower Pot (Çiçek Saksısı) Anten](#flower-pot)
   * [J-Pole Anten](#jpole-anten)
   * [Yagi Anten](#yagi-anten)
