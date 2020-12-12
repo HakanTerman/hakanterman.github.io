@@ -9,7 +9,7 @@ modified: 2020-12-12T21:48:07.573882-04:00
 header:
   image: /assets/images/listeler.jpg
   caption: "Fotoğraf Sahibi : [Gerald Gay](https://500px.com/geraldgay)"
-gallery:
+gallery1:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -21,7 +21,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery1 caption="This is a sample gallery to go along with this case study." %}
 
 ---
 **Mail** hakanterman [@] gmail [.] com
