@@ -8,6 +8,17 @@ modified: 2020-12-03T23:55:07.573882-04:00
 header:
   image: /assets/images/logbook.jpg
   caption: "Fotoğraf Sahibi : [Miguel MrDJ](https://500px.com/ec1dj)"
+mapping:
+  latitude: 51.101
+  longitude: 0.1
+  locations:
+    - title: foo
+      latitude: 10
+      longitude: 10
+    - title: bar
+      link: /some/awesome/path
+      latitude: -10
+      longitude: -10
 ---
 {: #myTable .table table-responsive}
 |Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke  |Çağrı&nbsp;İşareti|Operatör&nbsp;Adı|Op.Konumu          |Mod |Band |Konumum |SWL/HAM|Not               |

@@ -9,9 +9,6 @@ modified: 2020-12-12T21:48:07.573882-04:00
 header:
   image: /assets/images/listeler.jpg
   caption: "Fotoğraf Sahibi : [Gerald Gay](https://500px.com/geraldgay)"
-mapping:
-  latitude: 51.101
-  longitude: 0.1
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
