@@ -2,9 +2,9 @@
 main:
   - title: "Kişisel-Blog"
     url: /kisisel/
-  - title: "Listeler"
-    url: /listeler/
-    parent: "Kişisel-Blog"
+    children:
+      - title: "Listeler"
+        url: /listeler/
   - title: "Tekno-Blog"
     url: /teknoloji/
   - title: "LogBook"
