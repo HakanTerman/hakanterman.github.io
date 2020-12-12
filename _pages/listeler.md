@@ -31,13 +31,13 @@ gallery2:
     alt: "galeri 2 image 3"
 
 ---
-Galeri 1 Deneme
+###Galeri 1 Deneme
 
-{% include gallery1 caption="This is a sample gallery to go along with this case study." %}
+{% include gallery1 caption="Ornek Galeri 1" %}
 
-Galeri 2 Deneme
+###Galeri 2 Deneme
 
-{% include gallery2 caption="This is a sample gallery to go along with this case study." %}
+{% include gallery2 caption="This is a sample galeri 2." %}
 
 ---
 **Mail** hakanterman [@] gmail [.] com
