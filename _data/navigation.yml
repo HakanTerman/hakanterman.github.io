@@ -2,11 +2,10 @@
 main:
   - title: "Kişisel-Blog"
     url: /kisisel/
-    children:
-      - title: "Listeler"
-        url: /listeler/
   - title: "Tekno-Blog"
     url: /teknoloji/
+  - title: "Listeler"
+    url: /listeler/
   - title: "LogBook"
     url: /logbook/
   - title: "İletişim"
