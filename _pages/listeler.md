@@ -19,9 +19,25 @@ gallery1:
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
+gallery2:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "galeri 2 image 1"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "galeri 2 image 2"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "galeri 2 image 3"
+
 ---
+Galeri 1 Deneme
 
 {% include gallery1 caption="This is a sample gallery to go along with this case study." %}
+
+Galeri 2 Deneme
+
+{% include gallery2 caption="This is a sample gallery to go along with this case study." %}
 
 ---
 **Mail** hakanterman [@] gmail [.] com
