@@ -312,11 +312,3 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
-# Harita
-mapping:
-  provider: openstreetmap
-  zoom: 8
-  dimensions:
-    width: 100%
-    height: 400
