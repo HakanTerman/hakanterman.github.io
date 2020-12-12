@@ -22,10 +22,6 @@ gallery:
     image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
 gallery2:
   - url: https://flic.kr/p/8a6Ven
     image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
@@ -37,11 +33,12 @@ gallery2:
     image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
     alt: "Fog in the trees"
 ---
-###Galeri 1 Deneme
+
+### Galeri 1 Deneme
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
-###Galeri 2 Deneme
+### Galeri 2 Deneme
 
 {% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
 
