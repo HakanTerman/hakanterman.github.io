@@ -29,7 +29,18 @@ mapping:
 |4   |03/12/2020-22:55       |:tr:  |TB3CFY            |Fehmi Yakıcılar  |Mobil Uşak         |SSB |VHF  |KM48UM  |HAM    |Uşak Röle         |
 |5   |03/12/2020-23:00       |:tr:  |TA4IBH            |Halil Kuzu       |Merkez Uşak        |SSB |VHF  |KM48UM  |HAM    |Uşak Röle         |
 
+<script>
+	var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+		osmAttrib = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+		osm = L.tileLayer(osmUrl, {maxZoom: 18, attribution: osmAttrib});
 
+	var map = L.map('map').setView([51.505, -0.159], 15).addLayer(osm);
+
+	L.marker([51.504, -0.159])
+		.addTo(map)
+		.bindPopup('A pretty CSS3 popup.<br />Easily customizable.')
+		.openPopup();
+</script>
  <div id="map" class="map map-home" style="height: 300px; margin-top: 50px"></div>
 ---
 
