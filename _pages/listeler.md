@@ -41,7 +41,7 @@ gallery2:
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
-### Galeri 2 Deneme
+### Galeri 2 Denemesi
 
 {% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
 
