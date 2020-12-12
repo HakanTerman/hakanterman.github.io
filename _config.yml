@@ -305,3 +305,10 @@ defaults:
       comments: true
       share: true
       related: true
+
+
+# Koleksiyonlar
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
