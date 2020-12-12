@@ -30,7 +30,7 @@ mapping:
 |5   |03/12/2020-23:00       |:tr:  |TA4IBH            |Halil Kuzu       |Merkez Uşak        |SSB |VHF  |KM48UM  |HAM    |Uşak Röle         |
 
 
- <div id="mapid"></div>
+ <div id="map" class="map map-home" style="height: 300px; margin-top: 50px"></div>
 ---
 
 **:warning: QRZ Bağlantıları** [QRZ.Com - TA4ADP](https://www.qrz.com/db/TA4ADP), [AmatörTelsiz - TA4ADP](https://qrz.amatortelsiz.com.tr/profil/TA4ADP)
