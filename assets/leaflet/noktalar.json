@@ -1,0 +1,15 @@
+{
+"markers":
+[
+{"lat":"39.520833333333",
+"lng":"-0.45833333333334",
+"html":"Callsign: AAAAA<br />Tarih/Saat (UTC+3) : 26/11/2020-13:45",
+"label":"AAAAA"
+},
+{"lat":"47.479166666667",
+"lng":"7.7916666666667",
+"html":"Callsign: BBBBB<br />Tarih/Saat (UTC+3) : 26/11/2020-13:45",
+"label":"BBBBB"
+}
+]
+}
