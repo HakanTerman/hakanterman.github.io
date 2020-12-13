@@ -29,6 +29,9 @@ mapping:
 |4   |03/12/2020-22:55       |:tr:  |TB3CFY            |Fehmi Yakıcılar  |Mobil Uşak         |SSB |VHF  |KM48UM  |HAM    |Uşak Röle         |
 |5   |03/12/2020-23:00       |:tr:  |TA4IBH            |Halil Kuzu       |Merkez Uşak        |SSB |VHF  |KM48UM  |HAM    |Uşak Röle         |
 
+
+<script src="/assets/leaflet/L.Maidenhead.js"></script>
+<script src="/assets/leaflet/leafembed.js"></script>
 <script type="text/javascript">
   $(function () {
     $('[data-toggle="tooltip"]').tooltip()
