@@ -33,7 +33,7 @@ mapping:
 <script src="/assets/leaflet/L.Maidenhead.js"></script>
 <script src="/assets/leaflet/leafembed.js"></script>
 <script type="text/javascript" defer>
-  $(function () {
+jQuery(document).ready(function ($) {
     $(".tips").toolTip()
   });
     var q_lat = 40.313043;
