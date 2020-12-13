@@ -38,7 +38,7 @@ jQuery(document).ready(function ($) {
   });
     var q_lat = 40.313043;
     var q_lng = -32.695312;
-    var qso_loc = 'https://kaan.live/index.php/dashboard/map';
+    var qso_loc = 'https://hakanterman.com/assets/leaflet/noktalar';
     var q_zoom = 2;
   $(document).ready(function(){
                       var grid = "No";
