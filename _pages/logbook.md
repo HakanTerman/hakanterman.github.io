@@ -36,8 +36,8 @@ mapping:
 jQuery(document).ready(function ($) {
     $('#myTable').tooltip()
   });
-    var q_lat = 39.300043;
-    var q_lng = -36.00000;
+    var q_lat = 39.30000;
+    var q_lng = 36.00000;
     var qso_loc = 'https://hakanterman.com/assets/leaflet/noktalar.json';
     var q_zoom = 5;
   $(document).ready(function(){
