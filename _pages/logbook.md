@@ -45,7 +45,7 @@ jQuery(document).ready(function ($) {
                     initmap(grid);
   });
 </script>
-<div id="map" class="map map-home" style="height: 300px; width: 910px; margin-top: 50px"></div>
+<div id="map" class="map map-home" style="height: 300px; width: 888px; margin-top: 50px"></div>
 ---
 
 **:warning: QRZ Bağlantıları** [QRZ.Com - TA4ADP](https://www.qrz.com/db/TA4ADP), [AmatörTelsiz - TA4ADP](https://qrz.amatortelsiz.com.tr/profil/TA4ADP)

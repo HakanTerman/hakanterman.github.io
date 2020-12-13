@@ -10,6 +10,21 @@
 "lng":"29.4241",
 "html":"Callsign: TA4ABJ<br />Tarih/Saat (UTC+3) : 27/11/2020-20:50",
 "label":"TA4ABJ"
+},
+{"lat":"36.884289",
+"lng":"30.739402",
+"html":"Callsign: TA4MSO<br />Tarih/Saat (UTC+3) : 28/11/2020-17:38",
+"label":"TA4MSO"
+},
+{"lat":"38.6776",
+"lng":"29.4894",
+"html":"Callsign: TB3CFY<br />Tarih/Saat (UTC+3) : 03/12/2020-22:55",
+"label":"TB3CFY"
+},
+{"lat":"38.6749",
+"lng":"29.4095",
+"html":"Callsign: TA4IBH<br />Tarih/Saat (UTC+3) : 03/12/2020-23:00",
+"label":"TA4IBH"
 }
 ]
 }
