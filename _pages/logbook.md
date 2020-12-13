@@ -29,19 +29,20 @@ mapping:
 |4   |03/12/2020-22:55       |:tr:  |TB3CFY            |Fehmi Yakıcılar  |Mobil Uşak         |SSB |VHF  |KM48UM  |HAM    |Uşak Röle         |
 |5   |03/12/2020-23:00       |:tr:  |TA4IBH            |Halil Kuzu       |Merkez Uşak        |SSB |VHF  |KM48UM  |HAM    |Uşak Röle         |
 
-<script>
-	var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-		osmAttrib = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-		osm = L.tileLayer(osmUrl, {maxZoom: 18, attribution: osmAttrib});
-
-	var map = L.map('map').setView([51.505, -0.159], 15).addLayer(osm);
-
-	L.marker([51.504, -0.159])
-		.addTo(map)
-		.bindPopup('A pretty CSS3 popup.<br />Easily customizable.')
-		.openPopup();
+<script type="text/javascript">
+  $(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+  });
+            var q_lat = 40.313043;
+    var q_lng = -32.695312;
+    var qso_loc = 'https://kaan.live/index.php/dashboard/map';
+    var q_zoom = 2;
+  $(document).ready(function(){
+                      var grid = "No";
+                    initmap(grid);
+  });
 </script>
- <div id="map" class="map map-home" style="height: 300px; margin-top: 50px"></div>
+<div id="map" class="map map-home" style="height: 300px; margin-top: 50px"></div>
 ---
 
 **:warning: QRZ Bağlantıları** [QRZ.Com - TA4ADP](https://www.qrz.com/db/TA4ADP), [AmatörTelsiz - TA4ADP](https://qrz.amatortelsiz.com.tr/profil/TA4ADP)
