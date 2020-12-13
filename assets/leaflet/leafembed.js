@@ -47,7 +47,7 @@ function getXmlHttpObject() {
 function askForPlots() {
     // request the marker info with AJAX for the current bounds
     ajaxRequest.onreadystatechange = stateChanged;
-    ajaxRequest.open('GET', qso_loc, true);
+    ajaxRequest.open('GET', q_loc, true);
     ajaxRequest.send(null);
 }
 

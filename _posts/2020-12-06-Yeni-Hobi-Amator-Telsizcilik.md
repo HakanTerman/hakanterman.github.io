@@ -45,7 +45,6 @@ Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile baş
 
 * [2020 Belge Alma Süreci](#2020-belge-alma-süreci)
 * [Sınav içeriği ve sorular](#sinav-içeriği-ve-sorular)
-
 * [Amatör Alfabe](#amator-alfabe)
   * [Fonetik Alfabe](#fonetik-alfabe)
   * [Milli Fonetik Alfabe](#milli-fonetik-alfabe)

@@ -38,7 +38,7 @@ jQuery(document).ready(function ($) {
   });
     var q_lat = 39.30000;
     var q_lng = 36.00000;
-    var qso_loc = 'https://hakanterman.com/assets/leaflet/noktalar.json';
+    var q_loc = 'https://hakanterman.com/assets/leaflet/noktalar.json';
     var q_zoom = 5;
   $(document).ready(function(){
                     var grid = "No";
