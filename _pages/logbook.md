@@ -34,7 +34,7 @@ mapping:
 <script src="/assets/leaflet/leafembed.js"></script>
 <script type="text/javascript">
 jQuery(document).ready(function ($) {
-    $('[data-toggle="tooltip"]').tooltip()
+    jQuery('[data-toggle="tooltip"]').tooltip()
   });
     var q_lat = 40.313043;
     var q_lng = -32.695312;
