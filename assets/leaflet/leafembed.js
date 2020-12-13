@@ -56,7 +56,7 @@ function stateChanged() {
 	if (ajaxRequest.readyState==4) {
 		//use the info here that was returned
 		if (ajaxRequest.status==200) {
-            plotlist=eval("(" + ajaxRequest.responseText + ")");
+            plotlist=eval((" + ajaxRequest.responseText + "));
             plotlist = plotlist['markers'];
 			removeMarkers();
 			for (i=0;i<plotlist.length;i++) {
