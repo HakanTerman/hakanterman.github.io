@@ -34,11 +34,11 @@ mapping:
 <script src="/assets/leaflet/leafembed.js"></script>
 <script type="text/javascript">
   $(function () {
-    jQuery(".tips").toolTip()
+    $(".tips").toolTip()
   });
     var q_lat = 40.313043;
     var q_lng = -32.695312;
-    var qso_loc = 'https://hakanterman.com/assets/leaflet/noktalar.json';
+    var qso_loc = 'https://hakanterman.com/assets/leaflet/noktalar';
     var q_zoom = 2;
   $(document).ready(function(){
                       var grid = "No";
