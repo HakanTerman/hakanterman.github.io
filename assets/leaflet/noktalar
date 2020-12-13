@@ -1,4 +1,4 @@
-({"markers": [{"lat":"39.520833333333","lng":"-0.45833333333334", "html":"Callsign: EA5RW
+"markers": [{"lat":"39.520833333333","lng":"-0.45833333333334", "html":"Callsign: EA5RW
 Date/Time: 2020-12-08 13:33:21
 Band: 15m
 Mode: FT8","label":"EA5RW"},{"lat":"47.479166666667","lng":"7.7916666666667", "html":"Callsign: HB9BLA
@@ -22,4 +22,4 @@ Band: 15m
 Mode: FT8","label":"G3UAS"},{"lat":"-26.1875","lng":"28.291666666667", "html":"Callsign: ZS6UB
 Date/Time: 2020-12-08 14:02:02
 Band: 15m
-Mode: FT8","label":"ZS6UB"}]})
+Mode: FT8","label":"ZS6UB"}]
