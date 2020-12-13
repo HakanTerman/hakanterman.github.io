@@ -1,15 +1,15 @@
 {
 "markers":
 [
-{"lat":"39.520833333333",
-"lng":"-0.45833333333334",
-"html":"Callsign: AAAAA<br />Tarih/Saat (UTC+3) : 26/11/2020-13:45",
-"label":"AAAAA"
+{"lat":"37.7740",
+"lng":"29.0901",
+"html":"Callsign: TA4ACQ<br />Tarih/Saat (UTC+3) : 26/11/2020-13:45",
+"label":"TA4ACQ"
 },
-{"lat":"47.479166666667",
-"lng":"7.7916666666667",
-"html":"Callsign: BBBBB<br />Tarih/Saat (UTC+3) : 26/11/2020-13:45",
-"label":"BBBBB"
+{"lat":"38.2293",
+"lng":"29.4241",
+"html":"Callsign: TA4ABJ<br />Tarih/Saat (UTC+3) : 27/11/2020-20:50",
+"label":"TA4ABJ"
 }
 ]
 }
