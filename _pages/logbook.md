@@ -33,16 +33,16 @@ mapping:
   $(function () {
     $('[data-toggle="tooltip"]').tooltip()
   });
-            var q_lat = 40.313043;
+    var q_lat = 40.313043;
     var q_lng = -32.695312;
-    var qso_loc = '/assets/leaflet/noktalar.json';
+    var qso_loc = 'https://hakanterman.com//assets/leaflet/noktalar.json';
     var q_zoom = 2;
   $(document).ready(function(){
                       var grid = "No";
                     initmap(grid);
   });
 </script>
-<div id="map" class="map map-home" style="height: 300px; margin-top: 50px"></div>
+<div id="map" class="map map-home" style="height: 300px; width: 910px; margin-top: 50px"></div>
 ---
 
 **:warning: QRZ Bağlantıları** [QRZ.Com - TA4ADP](https://www.qrz.com/db/TA4ADP), [AmatörTelsiz - TA4ADP](https://qrz.amatortelsiz.com.tr/profil/TA4ADP)
