@@ -34,7 +34,7 @@ mapping:
 <script src="/assets/leaflet/leafembed.js"></script>
 <script type="text/javascript">
   $(function () {
-    $(".tips").toolTip()
+    jQuery(".tips").toolTip()
   });
     var q_lat = 40.313043;
     var q_lng = -32.695312;
