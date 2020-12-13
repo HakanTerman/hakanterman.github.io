@@ -43,7 +43,7 @@ Yazı tahmin ettiğimden daha uzun olduğu için TA5ACQ'nun da önerisi ile baş
   * [Belge Sınıfları](#belge-sınıfları)
   * [SWL](#SWL)
 
-* [Belge Alma Süreci - (2020)](#belge-alma-süreci)
+* [2020 Belge Alma Süreci](#2020-belge-alma-süreci)
 * [Sınav içeriği ve sorular](#sinav-içeriği-ve-sorular)
 
 * [Amatör Alfabe](#amator-alfabe)
@@ -188,7 +188,7 @@ Kullanabildiğiniz frekans ve güç aralıklarının değişmesi ve istasyon kur
 
 Dinleyici belgesi. 3-30Mhz aralığındaki kısa dalga yayınlarını dinlemek, dinlediğiniz istasyonlara SWL belge numarası göndererek QSL kart alabilmeniz için verilen belgedir. Amatör telsizci olduktan sonra çağrı işaretinizi kullanmanız da mümkün olsa da, eğer SDR ile veya Dünya Radyosu benzeri bir alet ile çalışıp kısa dalga dinleme yapıyorsanız SWL belgesine de sınavsız, E-Devlet üzerinden talep ile sahip olabilirsiniz.
 
-# Belge Alma Süreci - (2020)
+# 2020 Belge Alma Süreci
 
 Sınavların Milli Eğitim Bakanlığına devredilmesi sonucunda süreç bir miktar değişti. Telegram ve Whatsapp gruplarında yönlendirme ile çoğu kişiye başvuru konusunda yardımcı olduk ancak internette arayıp bu sayfaya gelen birileri olursa buradan da anlatmak isterim.
 
