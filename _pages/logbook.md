@@ -34,7 +34,7 @@ mapping:
 <script src="/assets/leaflet/leafembed.js"></script>
 <script type="text/javascript">
 jQuery(document).ready(function ($) {
-    jQuery('[data-toggle="tooltip"]').tooltip()
+    $('#myTable').tooltip()
   });
     var q_lat = 40.313043;
     var q_lng = -32.695312;
@@ -46,7 +46,6 @@ jQuery(document).ready(function ($) {
   });
 </script>
 <div id="map" class="map map-home" style="height: 300px; width: 910px; margin-top: 50px"></div>
-<a href="#" onclick="return false" data-original-title="" data-toggle="tooltip"></a>
 ---
 
 **:warning: QRZ Bağlantıları** [QRZ.Com - TA4ADP](https://www.qrz.com/db/TA4ADP), [AmatörTelsiz - TA4ADP](https://qrz.amatortelsiz.com.tr/profil/TA4ADP)
