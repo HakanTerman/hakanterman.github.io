@@ -10,10 +10,10 @@ header:
   image: /assets/images/listeler.jpg
   caption: "Fotoğraf Sahibi : [Gerald Gay](https://500px.com/geraldgay)"
 gallery:
-  - url: /assets/images/odul/iss20year.jpg
-    image_path: /assets/images/odul/iss20year.jpg
-    alt: "ISS 20.Yıl SSTV Ödülü"
-    title: "ISS 20.Yıl SSTV Ödülü"
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
