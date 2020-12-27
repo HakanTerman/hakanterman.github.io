@@ -8,6 +8,19 @@ modified: 2020-12-03T23:55:07.573882-04:00
 header:
   image: /assets/images/logbook.jpg
   caption: "Fotoğraf Sahibi : [Miguel MrDJ](https://500px.com/ec1dj)"
+  gallery:
+    - url: /assets/images/unsplash-gallery-image-1.jpg
+      image_path: /assets/images/odul/iss20year.jpg
+      alt: "ISS 20.Yıl SSTV Ödülü"
+      title: "ISS 20.Yıl SSTV Ödülü"
+    - url: /assets/images/odul/2.jpg
+      image_path: /assets/images/odul/2.jpg
+      alt: "placeholder image 2"
+      title: "Image 2 title caption"
+    - url: /assets/images/odul/3.jpg
+      image_path: /assets/images/odul/3.jpg
+      alt: "placeholder image 3"
+      title: "Image 3 title caption"
 mapping:
   latitude: 51.101
   longitude: 0.1
@@ -21,13 +34,14 @@ mapping:
       longitude: -10
 ---
 {: #myTable .table table-responsive}
-|Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke  |Çağrı&nbsp;İşareti|Operatör&nbsp;Adı|Op.Konumu          |Mod |Band |Konumum |SWL/HAM|Not           |
-|:-: |:-:                    |:-:   |:-:               |:-:              |:-:                |:-: |:-:  |:-:     |:-:    |:-:           |
-|1   |26/11/2020-13:45       |:tr:  |TA4ACQ            |Kaan Çelik       |Merkez&nbsp;Denizli|SSB |UHF  |KM48UM  |HAM    |İlk&nbsp;QSO  |
-|2   |27/11/2020-20:50       |:tr:  |TA4ABJ            |Sercan Eygi      |Bekilli Denizli    |SSB |UHF  |KM48UM  |HAM    |Honaz Röle    |
-|3   |28/11/2020-17:38       |:tr:  |TA4MSO            |Muhammet Soydal  |Muratpaşa Antalya  |ECHO|ECHO |KM48UM  |HAM    |Antalya Echo  |
-|4   |03/12/2020-22:55       |:tr:  |TB3CFY            |Fehmi Yakıcılar  |Mobil Uşak         |SSB |VHF  |KM48UM  |HAM    |Uşak Röle     |
-|5   |03/12/2020-23:00       |:tr:  |TA4IBH            |Halil Kuzu       |Merkez Uşak        |SSB |VHF  |KM48UM  |HAM    |Uşak Röle     |
+|Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke  |Çağrı&nbsp;İşareti|Operatör&nbsp;Adı|Op.Konumu          |Mod |Band |Konumum |Tür |Not           |
+|:-: |:-:                    |:-:   |:-:               |:-:              |:-:                |:-: |:-:  |:-:     |:-: |:-:           |
+|1   |26/11/2020-13:45       |:tr:  |TA4ACQ            |Kaan Çelik       |Merkez&nbsp;Denizli|SSB |UHF  |KM48UM  |HAM |İlk&nbsp;QSO  |
+|2   |27/11/2020-20:50       |:tr:  |TA4ABJ            |Sercan Eygi      |Bekilli Denizli    |SSB |UHF  |KM48UM  |HAM |Honaz Röle    |
+|3   |28/11/2020-17:38       |:tr:  |TA4MSO            |Muhammet Soydal  |Muratpaşa Antalya  |ECHO|ECHO |KM48UM  |HAM |Antalya Echo  |
+|4   |03/12/2020-22:55       |:tr:  |TB3CFY            |Fehmi Yakıcılar  |Mobil Uşak         |SSB |VHF  |KM48UM  |HAM |Uşak Röle     |
+|5   |03/12/2020-23:00       |:tr:  |TA4IBH            |Halil Kuzu       |Merkez Uşak        |SSB |VHF  |KM48UM  |HAM |Uşak Röle     |
+|6   |27/12/2020-23:00       |:tr:  |TA3AEQ            |Ali Berkay Özkan |Çanakkale          |ECHO|UHF  |KM48UM  |HAM |Uşak Röle     |
 
 
 <script src="/assets/leaflet/L.Maidenhead.js"></script>
@@ -46,6 +60,12 @@ jQuery(document).ready(function ($) {
   });
 </script>
 <div id="map" class="map map-home" style="height: 300px; width: 888px; margin-top: 50px"></div>
+<br />
+<iframe align="top" frameborder="0" height="300" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4ADP/" width="888"></iframe>
+
+### QSL Kart, Sertifika ve Ödüller
+
+{% include gallery caption="Amatör Telsizcilik maceramda aldığım ödüller." %}
 ---
 
 **:warning: QRZ Bağlantıları** [QRZ.Com - TA4ADP](https://www.qrz.com/db/TA4ADP), [AmatörTelsiz - TA4ADP](https://qrz.amatortelsiz.com.tr/profil/TA4ADP)
