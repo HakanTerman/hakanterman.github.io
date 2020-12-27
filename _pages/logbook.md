@@ -38,7 +38,7 @@ mapping:
 |:-: |:-:                    |:-:   |:-:               |:-:              |:-:                |:-: |:-:  |:-:     |:-: |:-:           |
 |1   |26/11/2020-13:45       |:tr:  |TA4ACQ            |Kaan Çelik       |Merkez&nbsp;Denizli|SSB |UHF  |KM48UM  |HAM |İlk&nbsp;QSO  |
 |2   |27/11/2020-20:50       |:tr:  |TA4ABJ            |Sercan Eygi      |Bekilli Denizli    |SSB |UHF  |KM48UM  |HAM |Honaz Röle    |
-|3   |28/11/2020-17:38       |:tr:  |TA4MSO            |Muhammet Soydal  |Muratpaşa Antalya  |ECHO|ECHO |KM48UM  |HAM |Antalya Echo  |
+|3   |28/11/2020-17:38       |:tr:  |TA4MSO            |Muhammet Soydal  |Muratpaşa Antalya  |ECHO|ECHO |KM48UM  |HAM |Antalya&nbsp;Echo  |
 |4   |03/12/2020-22:55       |:tr:  |TB3CFY            |Fehmi Yakıcılar  |Mobil Uşak         |SSB |VHF  |KM48UM  |HAM |Uşak Röle     |
 |5   |03/12/2020-23:00       |:tr:  |TA4IBH            |Halil Kuzu       |Merkez Uşak        |SSB |VHF  |KM48UM  |HAM |Uşak Röle     |
 |6   |27/12/2020-23:00       |:tr:  |TA3AEQ            |Ali Berkay Özkan |Çanakkale          |ECHO|UHF  |KM48UM  |HAM |Uşak Röle     |
@@ -59,9 +59,9 @@ jQuery(document).ready(function ($) {
                     initmap(grid);
   });
 </script>
-<div id="map" class="map map-home" style="height: 300px; width: 888px; margin-top: 50px"></div>
+<div id="map" class="map map-home" style="height: 300px; width: 847px; margin-top: 50px"></div>
 <br />
-<iframe align="top" frameborder="0" height="300" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4ADP/" width="888"></iframe>
+<iframe align="top" frameborder="0" height="300" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4ADP/" width="847"></iframe>
 
 ### QSL Kart, Sertifika ve Ödüller
 
