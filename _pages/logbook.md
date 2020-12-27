@@ -15,14 +15,6 @@ gallery:
     image_path: /assets/images/odul/iss20year.jpg
     alt: "ISS 20.Yıl SSTV Ödülü"
     title: "ISS 20.Yıl SSTV Ödülü"
-  - url: /assets/images/odul/2.jpg
-    image_path: /assets/images/odul/2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/odul/3.jpg
-    image_path: /assets/images/odul/3.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
 mapping:
   latitude: 51.101
   longitude: 0.1
@@ -63,7 +55,7 @@ jQuery(document).ready(function ($) {
 </script>
 <div id="map" class="map map-home" style="height: 300px; width: 875px; margin-top: 50px"></div>
 <br />
-<iframe align="top" frameborder="0" height="200" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4ADP/" width="875"></iframe>
+<iframe align="top" frameborder="0" height="250" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4ADP/" width="875"></iframe>
 
 ### QSL Kart, Sertifika ve Ödüller
 
