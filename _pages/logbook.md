@@ -15,6 +15,14 @@ gallery:
     image_path: /assets/images/odul/iss20year.jpg
     alt: "ISS 20.Yıl SSTV Ödülü"
     title: "ISS 20.Yıl SSTV Ödülü"
+  - url: /assets/images/odul/2.jpg
+    image_path: /assets/images/odul/2.jpg
+    alt: "ISS 20.Yıl SSTV Ödülü"
+    title: "ISS 20.Yıl SSTV Ödülü"
+  - url: /assets/images/odul/2.jpg
+    image_path: /assets/images/odul/2.jpg
+    alt: "ISS 20.Yıl SSTV Ödülü"
+    title: "ISS 20.Yıl SSTV Ödülü"
 mapping:
   latitude: 51.101
   longitude: 0.1
