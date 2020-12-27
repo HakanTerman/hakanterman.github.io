@@ -24,16 +24,16 @@ gallery:
     alt: "ISS 20.Yıl SSTV Ödülü"
     title: "ISS 20.Yıl SSTV Ödülü"
 gallery2:
-  - url: /assets/images/odul/iss-sstv-251220.jpg
-    image_path: /assets/images/odul/iss-sstv-251220.jpg
+  - url: /assets/images/sstv/iss-sstv-251220.jpg
+    image_path: /assets/images/sstv/iss-sstv-251220.jpg
     alt: "ISS 20.Yıl SSTV Yayını"
     title: "ISS 20.Yıl SSTV Yayını"
-  - url: /assets/images/odul/iss-sstv-261220.jpg
-    image_path: /assets/images/odul/iss-sstv-261220.jpg
+  - url: /assets/images/sstv/iss-sstv-261220.jpg
+    image_path: /assets/images/sstv/iss-sstv-261220.jpg
     alt: "ISS 20.Yıl SSTV Yayını"
     title: "ISS 20.Yıl SSTV Yayını"
-  - url: /assets/images/odul/iss-sstv-261220.jpg
-    image_path: /assets/images/odul/iss-sstv-261220.jpg
+  - url: /assets/images/sstv/iss-sstv-261220.jpg
+    image_path: /assets/images/sstv/iss-sstv-261220.jpg
     alt: "ISS 20.Yıl SSTV Yayını"
     title: "ISS 20.Yıl SSTV Yayını"
 mapping:
