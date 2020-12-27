@@ -23,6 +23,19 @@ gallery:
     image_path: /assets/images/odul/2.jpg
     alt: "ISS 20.Yıl SSTV Ödülü"
     title: "ISS 20.Yıl SSTV Ödülü"
+gallery2:
+  - url: /assets/images/odul/iss-sstv-251220.jpg
+    image_path: /assets/images/odul/iss-sstv-251220.jpg
+    alt: "ISS 20.Yıl SSTV Yayını"
+    title: "ISS 20.Yıl SSTV Yayını"
+  - url: /assets/images/odul/iss-sstv-261220.jpg
+    image_path: /assets/images/odul/iss-sstv-261220.jpg
+    alt: "ISS 20.Yıl SSTV Yayını"
+    title: "ISS 20.Yıl SSTV Yayını"
+  - url: /assets/images/odul/iss-sstv-261220.jpg
+    image_path: /assets/images/odul/iss-sstv-261220.jpg
+    alt: "ISS 20.Yıl SSTV Yayını"
+    title: "ISS 20.Yıl SSTV Yayını"
 mapping:
   latitude: 51.101
   longitude: 0.1
@@ -67,7 +80,12 @@ jQuery(document).ready(function ($) {
 
 ### QSL Kart, Sertifika ve Ödüller
 
-{% include gallery caption="Amatör Telsizcilik maceramda aldığım ödüller." %}
+{% include gallery caption="Amatör Telsizcilik maceramda bu güne kadar aldığım belgeler." %}
+
+### Aldığım SSTV Yayınları
+
+{% include gallery id="gallery2" caption="SSTV Sinyallerini çözerek elde ettiğim görüntüler." %}
+
 ---
 
 **:warning: QRZ Bağlantıları** [QRZ.Com - TA4ADP](https://www.qrz.com/db/TA4ADP), [AmatörTelsiz - TA4ADP](https://qrz.amatortelsiz.com.tr/profil/TA4ADP)
