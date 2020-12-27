@@ -10,19 +10,19 @@ modified: 2020-12-03T23:55:07.573882-04:00
 header:
   image: /assets/images/logbook.jpg
   caption: "Fotoğraf Sahibi : [Miguel MrDJ](https://500px.com/ec1dj)"
-  gallery:
-    - url: /assets/images/unsplash-gallery-image-1.jpg
-      image_path: /assets/images/odul/iss20year.jpg
-      alt: "ISS 20.Yıl SSTV Ödülü"
-      title: "ISS 20.Yıl SSTV Ödülü"
-    - url: /assets/images/odul/2.jpg
-      image_path: /assets/images/odul/2.jpg
-      alt: "placeholder image 2"
-      title: "Image 2 title caption"
-    - url: /assets/images/odul/3.jpg
-      image_path: /assets/images/odul/3.jpg
-      alt: "placeholder image 3"
-      title: "Image 3 title caption"
+gallery:
+  - url: /assets/images/odul/iss20year.jpg
+    image_path: /assets/images/odul/iss20year.jpg
+    alt: "ISS 20.Yıl SSTV Ödülü"
+    title: "ISS 20.Yıl SSTV Ödülü"
+  - url: /assets/images/odul/2.jpg
+    image_path: /assets/images/odul/2.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/odul/3.jpg
+    image_path: /assets/images/odul/3.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 mapping:
   latitude: 51.101
   longitude: 0.1
