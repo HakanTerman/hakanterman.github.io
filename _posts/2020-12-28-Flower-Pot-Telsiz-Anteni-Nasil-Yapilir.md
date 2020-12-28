@@ -30,22 +30,22 @@ Anten yapımında kullanacağımız proje yukarıda da belirttiğim üzere [VK2Z
 
 # Malzemeler
 
-**1 Metre 25'lik Boru** Temiz su tesisat borusu, sağlam olması ve bükülmemesi için kompozit boru kullanabilirsiniz ancak aluminyum korumalı olmaması gerekiyor.
-**RG-58 50Ohm Kablo** RG-213 ya da LMR400 de kullanabilirsiniz, ancak sargıları bükmek zor olacaktır
-**Aluminyum Folyo ya da Aluminyum Bant** Normalde aluminyum folyo kullanılıyor ancak folyoyu sarmak ve sabitlemek zor olduğu için bantlı şekilde olanı ideal.
-**Elektrik Bandı** Yaklaşık bir sargı bant harcıyoruz, kaliteli olan bantlardan kullanmanız yararınıza olur.
-**Misina (Bir karış kadar)** Kablonun ucunu yukarıya bağlamak için gerekiyor.
-**Silikon** Kabloyu sabitlemek için.
-**Boru için kapak** Ben biten parfüm şişemin kapağını kullandım, isterseniz boruyu aldığınız yerde boru kapağı alabilirsiniz.
-**Japon Yapıştırıcısı** Borunun üst ve alt kısımlarına kapak yapıştırmak için.
-**Sabitlemek için U-Bond veya Vidalı kelepçe** anteni bir yere sabitlemek için kullanabileceğiniz herhangi bir parça. Tel de kullanabilirsiniz.
+- **1 Metre 25'lik Boru** Temiz su tesisat borusu, sağlam olması ve bükülmemesi için kompozit boru kullanabilirsiniz ancak aluminyum korumalı olmaması gerekiyor.
+- **RG-58 50Ohm Kablo** RG-213 ya da LMR400 de kullanabilirsiniz, ancak sargıları bükmek zor olacaktır
+- **Aluminyum Folyo ya da Aluminyum Bant** Normalde aluminyum folyo kullanılıyor ancak folyoyu sarmak ve sabitlemek zor olduğu için bantlı şekilde olanı ideal.
+- **Elektrik Bandı** Yaklaşık bir sargı bant harcıyoruz, kaliteli olan bantlardan kullanmanız yararınıza olur.
+- **Misina (Bir karış kadar)** Kablonun ucunu yukarıya bağlamak için gerekiyor.
+- **Silikon** Kabloyu sabitlemek için.
+- **Boru için kapak** Ben biten parfüm şişemin kapağını kullandım, isterseniz boruyu aldığınız yerde boru kapağı alabilirsiniz.
+- **Japon Yapıştırıcısı** Borunun üst ve alt kısımlarına kapak yapıştırmak için.
+- **Sabitlemek için U-Bond veya Vidalı kelepçe** anteni bir yere sabitlemek için kullanabileceğiniz herhangi bir parça. Tel de kullanabilirsiniz.
 
 ## Araçlar
-**Bıçak**
-**Pense**
-**Matkap**
-**Testere** (Boruyu kesmek için)
-**Cetvel veya Milimetrik ölçüm yapılacak Metre**
+- **Bıçak** (Kabloyu soyarken lazım olabiliyor)
+- **Pense** (Kabloyu soyarken lazım olabiliyor)
+- **Matkap** (Kablo deliklerini açarken ihtiyacınız olacak)
+- **Testere** (Boruyu istediğiniz ölçüde kesmek için kullanabilirsiniz)
+- **Cetvel veya Milimetrik ölçüm yapılacak Metre** (MM cinsinden verilen değerleri tam ölçmek önemli)
 
 # Dual Band Yarım Dalga Flower Pot Anten Yapım Aşaması
 
