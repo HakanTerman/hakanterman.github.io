@@ -53,9 +53,9 @@ Antenimizin tam uzunluğu alttaki sargı bobin ile birlikte yaklaşık 96-97 CM 
 
 ![Çiçek-Saksı-Anten-Proje](/assets/images/posts/yazi/yarim-dalga-flower-pot.jpg)
 
-Görselde de görüleceği üzere üst kısımdan kapak boyutunca boşluk bırakarak başlıyoruz. Benim kullandığım kapak 1cm harcıyordu.
+Görselde de görüleceği üzere üst kısımdan kapak boyutunca boşluk bırakarak başlıyoruz. Benim kullandığım kapak 1 cm harcıyordu.
 
-1.CM olan kısmı kalem le işaretledikten sonra 34.5 cm sonrasına işaret koyup aluminyum folyonun başlangıç noktasını belirliyoruz.Bu işaretin 23.5 cm altına bir çizgi çekip aluminyum folyo bitişini bulmuş oluyoruz. Bulduğumuz bu bitiş çizgisinden 32.4 cm daha aşağıya inip bobin sargısının başlangıcını buluyoruz ve bu noktaya matkap yardımıyla bir delik açıyoruz.
+1 cm olan kısmı kalem le işaretledikten sonra 34.5 cm sonrasına işaret koyup aluminyum folyonun başlangıç noktasını belirliyoruz.Bu işaretin 23.5 cm altına bir çizgi çekip aluminyum folyo bitişini bulmuş oluyoruz. Bulduğumuz bu bitiş çizgisinden 32.4 cm daha aşağıya inip bobin sargısının başlangıcını buluyoruz ve bu noktaya matkap yardımıyla bir delik açıyoruz.
 
 ![Çiçek-Saksı-Anten-Delik](https://vk2zoi.com/assets/drilling-angle.jpg)
 
