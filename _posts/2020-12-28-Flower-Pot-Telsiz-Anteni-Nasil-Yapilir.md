@@ -40,7 +40,8 @@ Anten yapımında kullanacağımız proje yukarıda da belirttiğim üzere [VK2Z
 - **Japon Yapıştırıcısı** Borunun üst ve alt kısımlarına kapak yapıştırmak için.
 - **Sabitlemek için U-Bond veya Vidalı kelepçe** anteni bir yere sabitlemek için kullanabileceğiniz herhangi bir parça. Tel de kullanabilirsiniz.
 
-## Araçlar
+# Araçlar
+
 - **Bıçak** (Kabloyu soyarken lazım olabiliyor)
 - **Pense** (Kabloyu soyarken lazım olabiliyor)
 - **Matkap** (Kablo deliklerini açarken ihtiyacınız olacak)
