@@ -109,7 +109,7 @@ Telsizciler.org sitesinden TA3OAS - Serdal bey bu şekilde bir çözüm ile ante
 
 Genel olarak çatıda her yöne ulaşabileceği bir konuma montajını yaparsanız cihazınızın kendi anteni ile ulaşamadığınız bir çok röleye ulaşabildiğinizi, ayrıca QRM miktarının azaldığını görebilirsiniz. Ölçülere sadık kaldığınız takdirde SWR değerinin 1:1 olduğu söylenmiş. SWR metrem olmadığı için ölçme şansım olmadı, ancak korka korka yaptığım ilk denemede daha önce QRM oluşan Honaz rölesinde sesimin gayet net geldiğini söyleyen TA4ABJ ve TB4PKP antenin kazancını benim için doğrulamış oldu.
 
-![Flower-Pot-Çatı](http://www.purwoko-edi.com/wp-content/uploads/2020/05/Flower-2BPot-2B-25282-2529.jpg)
+![Flower-Pot-Çatı](/assets/images/posts/yazi/fpot-montaj.jpg)
 
 Eğer SWR ölçümü yaparsanız, ve yüksek bir değer alırsanız anten üzerindeki aluminyum kısmı bir kaç milimetre aşağı ya da yukarı oynayıp doğru değeri bulduğunuz yerde sabitleyebileceğiniz yönde yorumlar yapılmış.
 
