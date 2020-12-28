@@ -17,7 +17,7 @@ Plastik bir su borusu ve RG-58 Kablo ile belirlenen ölçülere sadık kalınara
 
 # Neden Böyle Garip Bir Adı Var ?
 
-Bu konu benim de merak ettiğim bir şeydi, çoğu amatör de bilmiyor sanırım. VK2ZOI (John Bishop) abimiz konuyu şöyle açıklamış. Anteni ilk olarak 1993 yılında Hornsby ve Bölge Amatör Radyo Kulübü (HADARC) isimli bir klübün toplantısında tanıtıyor ve bu antenin üzerine plastik çiçekler yerleştirerek onu etkili bir şekilde gizleyebileceğinizi anlatıyor. Gizleme sebebini ise hemen hemen bugün apartman dairelerinde oturup çatı anteni konusunda sorun yaşayan arkadaşlar daha iyi anlayacaktır. Maalesef insanlar antenlerden korkuyor ya da tehlikeli bir şeymiş gibi anlıyorlar, müstakil olmayan evlerde anten montajına bir türlü onay verilmiyor.
+Bu konu benim de merak ettiğim bir şeydi, çoğu amatör de bilmiyor sanırım. [VK2ZOI (John Bishop)](https://vk2zoi.com/) abimiz konuyu şöyle açıklamış. Anteni ilk olarak 1993 yılında Hornsby ve Bölge Amatör Radyo Kulübü (HADARC) isimli bir klübün toplantısında tanıtıyor ve bu antenin üzerine plastik çiçekler yerleştirerek onu etkili bir şekilde gizleyebileceğinizi anlatıyor. Gizleme sebebini ise hemen hemen bugün apartman dairelerinde oturup çatı anteni konusunda sorun yaşayan arkadaşlar daha iyi anlayacaktır. Maalesef insanlar antenlerden korkuyor ya da tehlikeli bir şeymiş gibi anlıyorlar, müstakil olmayan evlerde anten montajına bir türlü onay verilmiyor.
 VK2ZOI'nin bu konuda komşularınızın bir verici anteniniz olduğunu fark etmesini istemiyorsanız yararlı olabilir diyor. Komşunuz Bahçe Bitkileri alanında Yüksek Lisans diplomasına değilse bu bitkinin aslında bir anten olduğunu anlayacağını düşünmediğini söylüyor ve aşağıdaki fotoğrafta açıkça görebileceğiniz gibi anteni gizlediğini gösteriyor.
 
 ![Çiçek-Saksı-Anten](https://vk2zoi.com/assets/flowerpot-presentation.jpg)
@@ -117,5 +117,7 @@ VK2ZOI Bu proje ile yaklaşık 3dB Kazanç sağlayabileceğinizi söylüyor, ve 
 
 Buradaki anlatıma bağlı kalarak yapacağınız antenlerin fotoğraflarını bana bir şekilde iletebilirseniz yazının alt kısmında çağrı kodlarınızla birlikte yayınlamak isterim. Umarım faydalı bir anlatım olmuştur.
 Denemek isteyen arkadaşlara kolay gelsin !
+
+Anlatımın orjinal dilde olan haline [buradan](https://vk2zoi.com/articles/dual-band-half-wave-flower-pot/) ulaşabilirsiniz.
 
 TA4ADP - Hakan TERMAN
