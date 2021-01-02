@@ -52,7 +52,8 @@ mapping:
 - Çağrı İşareti : [TA4ADP](https://www.qrz.com/db/TA4ADP){: .btn .btn--danger}
 - DMR ID : [2862244](https://brandmeister.network/index.php?page=profile&call=TA4ADP){: .btn .btn--info}
 - DMR Repeater : [TA4ADP BM](https://brandmeister.network/?page=repeater&id=2862244){: .btn .btn--primary}
-- SWL Lisans : [TA464378](#){: .btn .btn--warning} - SWARL ID : [TA4---SWL](#){: .btn .btn--success}
+- SWL Lisans : [TA464378](#){: .btn .btn--warning}
+- SWARL ID : [TA4---SWL](#){: .btn .btn--success}
 - APRS Harita : [APRS](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FTA4ADP&timerange=3600&tail=3600){: .btn .btn--inverse}
 
 {: #myTable .table table-responsive}
