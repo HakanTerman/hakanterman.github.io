@@ -67,8 +67,8 @@ mapping:
 |6   |15/12/2020-20:20       |:tr:  |TA4PKP            |Erkin Mercan      |Merkez Denizli     |SSB |UHF  |KM48UM  |HAM |Honaz Röle       |
 |7   |22/12/2020-18:55       |:tr:  |TA4PKP            |Erkin Mercan      |Merkez Denizli     |SSB |UHF  |KM48UM  |HAM |Honaz Röle       |
 |8   |27/12/2020-23:00       |:tr:  |TA3AEQ            |Ali Berkay Özkan  |Çanakkale          |ECHO|ECHO |KM48UM  |HAM |Uşak Röle        |
-|7   |02/01/2021-02:10       |:de:  |DL6KBG            |Oliver Goldenstein|Germany            |SSB |UHF  |KM48UM  |SWL |ISS Repeater     |
-|8   |02/01/2021-02:11       |:it:  |IK7FMQ            |Gabriele Albanese |Italy              |SSB |UHF  |KM48UM  |SWL |ISS Repeater     |
+|9   |02/01/2021-02:10       |:de:  |DL6KBG            |Oliver Goldenstein|Germany            |SSB |UHF  |KM48UM  |SWL |ISS Repeater     |
+|10  |02/01/2021-02:11       |:it:  |IK7FMQ            |Gabriele Albanese |Italy              |SSB |UHF  |KM48UM  |SWL |ISS Repeater     |
 
 
 <script src="/assets/leaflet/L.Maidenhead.js"></script>
