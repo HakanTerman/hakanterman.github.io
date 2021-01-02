@@ -59,8 +59,9 @@ mapping:
 |3   |28/11/2020-17:38       |:tr:  |TA4MSO            |Muhammet Soydal  |Muratpaşa Antalya  |ECHO|ECHO |KM48UM  |HAM |Antalya&nbsp;Echo|
 |4   |03/12/2020-22:55       |:tr:  |TB3CFY            |Fehmi Yakıcılar  |Mobil Uşak         |SSB |VHF  |KM48UM  |HAM |Uşak Röle        |
 |5   |03/12/2020-23:00       |:tr:  |TA4IBH            |Halil Kuzu       |Merkez Uşak        |SSB |VHF  |KM48UM  |HAM |Uşak Röle        |
-|6   |22/12/2020-18:55       |:tr:  |TA4PKP            |Erkin Mercan     |Merkez Denizli     |SSB |UHF  |KM48UM  |HAM |Honaz Röle       |
-|7   |27/12/2020-23:00       |:tr:  |TA3AEQ            |Ali Berkay Özkan |Çanakkale          |ECHO|ECHO |KM48UM  |HAM |Uşak Röle        |
+|6   |15/12/2020-20:20       |:tr:  |TA4PKP            |Erkin Mercan     |Merkez Denizli     |SSB |UHF  |KM48UM  |HAM |Honaz Röle       |
+|7   |22/12/2020-18:55       |:tr:  |TA4PKP            |Erkin Mercan     |Merkez Denizli     |SSB |UHF  |KM48UM  |HAM |Honaz Röle       |
+|8   |27/12/2020-23:00       |:tr:  |TA3AEQ            |Ali Berkay Özkan |Çanakkale          |ECHO|ECHO |KM48UM  |HAM |Uşak Röle        |
 
 
 <script src="/assets/leaflet/L.Maidenhead.js"></script>
