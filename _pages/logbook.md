@@ -15,10 +15,10 @@ gallery:
     image_path: /assets/images/odul/iss20year.jpg
     alt: "ISS 20.Yıl SSTV Ödülü"
     title: "ISS 20.Yıl SSTV Ödülü"
-  - url: /assets/images/odul/2.jpg
-    image_path: /assets/images/odul/2.jpg
-    alt: "ISS 20.Yıl SSTV Ödülü"
-    title: "ISS 20.Yıl SSTV Ödülü"
+  - url: /assets/images/odul/qrv73.png
+    image_path: /assets/images/odul/qrv73.png
+    alt: "QRV73 Katılım Sertifikası"
+    title: "QRV73 Katılım Sertifikası"
   - url: /assets/images/odul/2.jpg
     image_path: /assets/images/odul/2.jpg
     alt: "ISS 20.Yıl SSTV Ödülü"
@@ -48,6 +48,9 @@ mapping:
       latitude: -10
       longitude: -10
 ---
+
+Çağrı İşareti : [TA4ADP](https://www.qrz.com/db/TA4ADP){: .btn .btn--danger} - DMR ID : [2862244](https://brandmeister.network/index.php?page=profile&call=TA4ADP){: .btn .btn--info} - DMR Repeater : [TA4ADP BM](https://brandmeister.network/?page=repeater&id=2862244){: .btn .btn--primary} - SWL Lisans : [TA464378](#){: .btn .btn--warning} - SWARL ID : [TA4---SWL](#){: .btn .btn--success} - [APRS](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FTA4ADP&timerange=3600&tail=3600){: .btn .btn--inverse}
+
 {: #myTable .table table-responsive}
 |Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke  |Çağrı&nbsp;İşareti|Operatör&nbsp;Adı|Op.Konumu          |Mod |Band |Konumum |Tür |Not              |
 |:-: |:-:                    |:-:   |:-:               |:-:              |:-:                |:-: |:-:  |:-:     |:-: |:-:              |
@@ -56,7 +59,8 @@ mapping:
 |3   |28/11/2020-17:38       |:tr:  |TA4MSO            |Muhammet Soydal  |Muratpaşa Antalya  |ECHO|ECHO |KM48UM  |HAM |Antalya&nbsp;Echo|
 |4   |03/12/2020-22:55       |:tr:  |TB3CFY            |Fehmi Yakıcılar  |Mobil Uşak         |SSB |VHF  |KM48UM  |HAM |Uşak Röle        |
 |5   |03/12/2020-23:00       |:tr:  |TA4IBH            |Halil Kuzu       |Merkez Uşak        |SSB |VHF  |KM48UM  |HAM |Uşak Röle        |
-|6   |27/12/2020-23:00       |:tr:  |TA3AEQ            |Ali Berkay Özkan |Çanakkale          |ECHO|ECHO |KM48UM  |HAM |Uşak Röle        |
+|6   |22/12/2020-18:55       |:tr:  |TA4PKP            |Erkin Mercan     |Merkez Denizli     |SSB |UHF  |KM48UM  |HAM |Honaz Röle       |
+|7   |27/12/2020-23:00       |:tr:  |TA3AEQ            |Ali Berkay Özkan |Çanakkale          |ECHO|ECHO |KM48UM  |HAM |Uşak Röle        |
 
 
 <script src="/assets/leaflet/L.Maidenhead.js"></script>
