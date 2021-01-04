@@ -19,7 +19,7 @@ gallery:
     image_path: /assets/images/odul/qrv73.png
     alt: "QRV73 Katılım Sertifikası"
     title: "QRV73 Katılım Sertifikası"
-  - url: /assets/images/odul/2.jpg
+  - url: /assets/images/odul/IK7FMQ.jpeg
     image_path: /assets/images/odul/IK7FMQ.jpeg
     alt: "IK7FMQ ISS SWL QSL Kart"
     title: "IK7FMQ ISS SWL QSL Kart"
