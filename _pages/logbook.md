@@ -70,7 +70,7 @@ mapping:
 |9   |02/01/2021-02:10       |:de:  |DL6KBG            |Oliver Goldenstein|Germany            |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
 |10  |02/01/2021-02:11       |:it:  |IK7FMQ            |Gabriele Albanese |Italy              |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
 |11  |03/01/2021-20:20       |:tr:  |TA4SAA            |Ahmet Ali Göz     |Denizli            |FM  |UHF  |KM48UM  |HAM |Honaz Röle       |
-|12  |03/01/2021-20:20       |:tr:  |TA7ACD            |Mehmet            |Sivas              |DMR |DMR  |KM48UM  |HAM |DMR TG - 2861766 |
+|12  |03/01/2021-20:20       |:tr:  |TA7ACD            |Mehmet            |Sivas              |DMR |DMR  |KM48UM  |HAM |DMRTG&nbsp;2861766 |
 |13  |04/01/2021-22:30       |:tr:  |TA4AVK            |Veli Kuru         |Merkez Uşak        |FM  |VHF  |KM48UM  |HAM |Uşak Röle        |
 
 <script src="/assets/leaflet/L.Maidenhead.js"></script>
