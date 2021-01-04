@@ -20,9 +20,9 @@ gallery:
     alt: "QRV73 Katılım Sertifikası"
     title: "QRV73 Katılım Sertifikası"
   - url: /assets/images/odul/2.jpg
-    image_path: /assets/images/odul/2.jpg
-    alt: "ISS 20.Yıl SSTV Ödülü"
-    title: "ISS 20.Yıl SSTV Ödülü"
+    image_path: /assets/images/odul/IK7FMQ.jpeg
+    alt: "IK7FMQ ISS SWL QSL Kart"
+    title: "IK7FMQ ISS SWL QSL Kart"
 gallery2:
   - url: /assets/images/sstv/iss-sstv-251220.jpg
     image_path: /assets/images/sstv/iss-sstv-251220.jpg
@@ -59,17 +59,19 @@ mapping:
 {: #myTable .table table-responsive}
 |Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke  |Çağrı&nbsp;İşareti|Operatör&nbsp;Adı |Op.Konumu          |Mod |Band |Konumum |Tür |Not              |
 |:-: |:-:                    |:-:   |:-:               |:-:               |:-:                |:-: |:-:  |:-:     |:-: |:-:              |
-|1   |26/11/2020-13:45       |:tr:  |TA4ACQ            |Kaan Çelik        |Merkez&nbsp;Denizli|SSB |UHF  |KM48UM  |HAM |İlk&nbsp;QSO     |
-|2   |27/11/2020-20:50       |:tr:  |TA4ABJ            |Sercan Eygi       |Bekilli Denizli    |SSB |UHF  |KM48UM  |HAM |Honaz Röle       |
+|1   |26/11/2020-13:45       |:tr:  |TA4ACQ            |Kaan Çelik        |Merkez&nbsp;Denizli|FM  |UHF  |KM48UM  |HAM |İlk&nbsp;QSO     |
+|2   |27/11/2020-20:50       |:tr:  |TA4ABJ            |Sercan Eygi       |Bekilli Denizli    |FM  |UHF  |KM48UM  |HAM |Honaz Röle       |
 |3   |28/11/2020-17:38       |:tr:  |TA4MSO            |Muhammet Soydal   |Muratpaşa Antalya  |ECHO|ECHO |KM48UM  |HAM |Antalya&nbsp;Echo|
-|4   |03/12/2020-22:55       |:tr:  |TB3CFY            |Fehmi Yakıcılar   |Mobil Uşak         |SSB |VHF  |KM48UM  |HAM |Uşak Röle        |
-|5   |03/12/2020-23:00       |:tr:  |TA4IBH            |Halil Kuzu        |Merkez Uşak        |SSB |VHF  |KM48UM  |HAM |Uşak Röle        |
-|6   |15/12/2020-20:20       |:tr:  |TA4PKP            |Erkin Mercan      |Merkez Denizli     |SSB |UHF  |KM48UM  |HAM |Honaz Röle       |
-|7   |22/12/2020-18:55       |:tr:  |TA4PKP            |Erkin Mercan      |Merkez Denizli     |SSB |UHF  |KM48UM  |HAM |Honaz Röle       |
+|4   |03/12/2020-22:55       |:tr:  |TB3CFY            |Fehmi Yakıcılar   |Mobil Uşak         |FM  |VHF  |KM48UM  |HAM |Uşak Röle        |
+|5   |03/12/2020-23:00       |:tr:  |TA4IBH            |Halil Kuzu        |Merkez Uşak        |FM  |VHF  |KM48UM  |HAM |Uşak Röle        |
+|6   |15/12/2020-20:20       |:tr:  |TA4PKP            |Erkin Mercan      |Merkez Denizli     |FM  |UHF  |KM48UM  |HAM |Honaz Röle       |
+|7   |22/12/2020-18:55       |:tr:  |TA4PKP            |Erkin Mercan      |Merkez Denizli     |FM  |UHF  |KM48UM  |HAM |Honaz Röle       |
 |8   |27/12/2020-23:00       |:tr:  |TA3AEQ            |Ali Berkay Özkan  |Çanakkale          |ECHO|ECHO |KM48UM  |HAM |Uşak Röle        |
-|9   |02/01/2021-02:10       |:de:  |DL6KBG            |Oliver Goldenstein|Germany            |SSB |UHF  |KM48UM  |SWL |ISS Repeater     |
-|10  |02/01/2021-02:11       |:it:  |IK7FMQ            |Gabriele Albanese |Italy              |SSB |UHF  |KM48UM  |SWL |ISS Repeater     |
-
+|9   |02/01/2021-02:10       |:de:  |DL6KBG            |Oliver Goldenstein|Germany            |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
+|10  |02/01/2021-02:11       |:it:  |IK7FMQ            |Gabriele Albanese |Italy              |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
+|11  |03/01/2021-20:20       |:tr:  |TA4SAA            |Ahmet Ali Göz     |Denizli            |FM  |UHF  |KM48UM  |HAM |Honaz Röle       |
+|12  |03/01/2021-20:20       |:tr:  |TA7ACD            |Mehmet            |Sivas              |DMR |DMR  |KM48UM  |HAM |DMR TG - 2861766 |
+|13  |04/01/2021-22:30       |:tr:  |TA4AVK            |Veli Kuru         |Merkez Uşak        |FM  |VHF  |KM48UM  |HAM |Uşak Röle        |
 
 <script src="/assets/leaflet/L.Maidenhead.js"></script>
 <script src="/assets/leaflet/leafembed.js"></script>
