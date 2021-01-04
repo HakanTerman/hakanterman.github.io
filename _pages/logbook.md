@@ -78,6 +78,8 @@ mapping:
 <script type="text/javascript">
 jQuery(document).ready(function ($) {
     $('#myTable').tooltip()
+    .order( [ 1, 'desc' ] )
+    .draw();
   });
     var q_lat = 39.30000;
     var q_lng = 36.00000;
