@@ -77,7 +77,9 @@ mapping:
 <script src="/assets/leaflet/leafembed.js"></script>
 <script type="text/javascript">
 jQuery(document).ready(function ($) {
-    $('#myTable').tooltip()
+    $('#myTable').tooltip(  {
+      "order": [[ 0, "desc" ]]
+    } );
   });
     var q_lat = 39.30000;
     var q_lng = 36.00000;
