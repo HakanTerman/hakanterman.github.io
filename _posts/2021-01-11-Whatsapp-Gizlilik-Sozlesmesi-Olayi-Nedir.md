@@ -1,6 +1,6 @@
 ---
 title: WhatsApp Gizlilik Sözleşmesi Olayı Nedir ?
-tags: [whatsapp, whatsapp sözleşmesi, whatsapp kabul et, whatsapp link]
+tags: [whatsapp, whatsapp sözleşmesi, whatsapp kabul et, whatsapp link, telegram güvenli mi, telegram, bip, signal]
 header:
   teaser: /assets/images/posts/whatsapp.jpg
   image: /assets/images/posts/whatsapp.jpg
@@ -12,6 +12,8 @@ permalink: /teknoloji/Whatsapp-Gizlilik-Sozlesmesi-Olayi-Nedir/
 
 Yaklaşık 3 gündür hemen hemen her yerde kafamızı ağrıtan dönüp dönüp duran bir takım şeyler var. Yeni sözleşmeye göre bilgilerimizi çalacaklar, mesajlarımızı okuyacaklar, galerimizdeki resimleri herkese açık şekilde paylaşacaklar, adımıza banka hesabı açacaklar, bizi kopyalayacaklar... Daha onca saçmalık.
 
+## WhatsApp İçin Uyarı İçeren Ses Kaydı
+
 O kadar çok bilgi kirliliği var ki, bir de bu karmaşaya WhatsApp gruplarında dolaşan 2.30 dk'lık bir ses kaydı eklendi. Konuşan çok bilmiş(!) arkadaş, sözde tüm sözleşmeyi okuduğundan bahsediyor ve Whatsapp verilerimizi görüyodu ama kullanamıyordu gibi saçma bir cümle kuruyor, sadece mesajlar değil resimlerimizi ve ses kayıtlarımızı kullanarak yapay zeka ile bizi taklit etmekten bahsediyor, hatta o kadar çok bilim kurgu filmi izlemiş olmalı ki sesli imzanın bir ses kaydı ile taklit edilmesinden bahsediyor. Taklit edilmeye dair bir de oran veriyor, hanü küsüratlı olsun da inandırıcı olsun dercesine %97 diyor.. Artık günlerdir o kadar şey söyleniyor ki, konu hakkında bilgisi olan da olmayan da konuşmaya başkadı. Haber bültenlerine alakasız insanlar çıkıyor, topluca korku pompalıyoruz. Neye yarıyor ? Başka uygulamaların piyasadaki hisselerine tavan yaptırıp birilerini zengin ediyor, yeni Mark Zuckerberg'lerimizi yaratıyoruz.
 
 Koskoca şirketlar elindeki milyon dolarlık sistemleri, yapay zekayı sizin üniversitedeki sınıf grubunuzda "arkadaşlar ders 10da başlıyor", "bugün x hoca gelmeyecek" ya da apartman gruplarınızdaki "aidatları ödeyelim" ya da dedikodu grubunuzdaki "filancanın oğlu filancanın kızıyla evlenmiş" bilgilerinizi çalmak için kullanmazlar. Malum o ses kaydında devlet yasaklayacak gibi söylemlerle o kadar büyük bir kitle oluşturdular ki en son kurumlar açıklama yapma gereği duydular, şirketin haberi olmadan yürütmeyi durdurduk filan. İyi de, WhatsApp zaten benim uygulamamı kullanın diye yalvarmıyor ki. Hatta sözleşmede de belirtiyor, kabul etmeyenler 8 Şubat sonrası silebilir diye. Gayet net değil mi ? Ne yani, hem kabul etmeyip hem kullanmak için diretecek miyiz? Bunca olayın ardından bir de akşam bir haber sitesinin açıklama yaptığının ve WhatsApp'ın geri adım attığı yönünde bir haber paylaşıldı. Ooo sosyal medyada sanki savaş kazanmış gibi "biz adamı böyle yaparız" "bizden kaçış yok" onca anlamsız sözler.
@@ -22,12 +24,19 @@ Eğer o kadar dikkat ediyorsa bu arkadaş, bu kaydettiği ses kaydını neden Wh
 
 Yaklaşık 2011 Yılından bu yana kesintisiz olarak WhatsApp kullanıyorum, kullanıyoruz. Aslında birileri kullandığı için birileri kullanıyor. Alanının neredeyse ilk ve popüler internet üzerinden mesajlaşma yazılımı olan WhatsApp bugün SMS denilen olayı bitiren, bir nevi çağ kapatan uygulama. Öyle ki 10000'li mesaj paketleri ve uzun uzun 180 karakterin değerlendirildiği mesajlar artık tek gülücüğün bile ayrı mesaj olarak gönderildiği bir hal aldı. Aslında alanının ilk uygulaması olduğu için popüler oldu, haliyle birileri kullandığı için diğerleri de indirmek durumunda kaldı. Bugün WhatsApp'ı hem kullanım kolaylığı, hem de çok fazla kişi kullandığı için kullandığımız bir gerçek.
 
+## Ne Tür Bilgileri İstiyorlar ? Ne Yapacaklar ?
+
 2014 Yılında 19 Milyar Dolar gibi bir miktarı ödeyerek (o dönem için yaklaşık olarak Facebook'un 1 yıllık geliri) WhatsApp'ı şirketleri arasına kattı Zuckerberg. 2011'den bu yana iOS'ta ödediğim 1$ dışında WhatsApp'a tek bir kuruş ödemedim. Sonrasında o ücret de kaldırıldı zaten. Bu adam bir şekilde bu uygulamadan para kazanmak isteyecek elbette babasının hayrına milyon dolarlık sunucuları çalıştırmayacak. Ne yapsın ? Türkiye'deki web siteleri gibi girer girmez 30 tane pop-up reklam açtırıp sayfayı bulana kadar savaş mı verdirsin ? Elbette veri işleyecek. Bunu yapan her uygulama gibi anonim olarak yapmanın garantisini vererek tabii ki de. Elde etmek istedikleri veriler anonim olarak kalmakla birlikte şu şekilde
 
 Mesela Uşak Sivaslı ilçesinde 20-25 yaş arasındaki kullanıcılar hangi kelimeleri sık kullanıyor, ya da hangi saatlerde çevrimiçi kalıyor gibisinden istatistikler topluyorlar.
 
-Yoksa, Mark Zuckerberg oturup, ya bizim Hakan bugün ne yazmıi kimle ne konuşmuş, dur bakayım Hakan bugün ne işler karıştırıyor diye tüm mesajlarımı okuyamaz. Bu konuda tüm mesajların iki aşamalı şifreleme ile şifrelendiğinin ve üçüncü bir kişi tarafından okunamayacağının garantisini veriyorlar. Hatta öyle ki, telefonunuzdan whatsapp'ı silin. Uygulama silinmiş haldeyken size birisi mesaj atsın ve mobil verisini kapatsın. Siz uygulamayı geri yükleyin açtığınızda mesaj bekleniyor olarak yazacaktır, ta ki size mesajı gönderen kişinin telefonu tekrardan sizin iki aşamalı kodunuzu doğrulayıp mesajı onaylayana kadar.
+## Uçtan Uca Şifreleme
 
+Mark Zuckerberg oturup, ya bizim Hakan bugün ne yazmıi kimle ne konuşmuş, dur bakayım Hakan bugün ne işler karıştırıyor diye tüm mesajlarımı okuyamaz. Bu konuda tüm mesajlar uçtan uca şifrelendiğinin ve üçüncü bir kişi tarafından okunamayacağının garantisini veriyorlar. Hatta öyle ki, telefonunuzdan whatsapp'ı silin. Uygulama silinmiş haldeyken size birisi mesaj atsın ve mobil verisini kapatsın. Siz uygulamayı geri yükleyin açtığınızda mesaj bekleniyor olarak yazacaktır, ta ki size mesajı gönderen kişinin telefonu tekrardan sizin uçtan uca doğrulama gördükten sonra kodunuzu doğrulayıp mesajı onaylayana kadar.
+
+Bunu da [bu şekilde](https://faq.whatsapp.com/general/security-and-privacy/end-to-end-encryption) açıklıyorlar :
+
+>WhatsApp Messenger kullanarak başka bir kişiyle sohbet ettiğinizde, WhatsApp’ın uçtan uca şifreleme özelliği kullanılır. Uçtan uca şifreleme özelliği, gönderilen içeriklerin yalnızca siz ve iletişim kurduğunuz kişi tarafından okunabilmesini veya dinlenebilmesini sağlar. Böylece WhatsApp dahil olmak üzere aradaki hiçbir taraf gönderilen içerikleri okuyamaz veya dinleyemez. Bunun nedeni, uçtan uca şifreleme özelliğinin mesajlarınızı bir kilitle güvence altına alması ve kilidi açıp mesajları okuyabilmek için gereken özel anahtarın yalnızca mesajlarınızın alıcısında ve sizde bulunmasıdır. Üstelik tüm bunlar otomatik olarak gerçekleşir: Mesajlarınızı güvence altına almak için herhangi bir ayarı etkinleştirmenize gerek yoktur.
 
 ![WhatsApp Mesaj Bekleniyor](https://www.appleuzmani.net/wp-content/uploads/2018/04/WhatsApp-Mesaj-Bekleniyor-1200x847.jpg)
 
@@ -59,15 +68,13 @@ Gizlilik politikası tek taraflı değil, aslında siz de firmaya bu verileri g�
 
 İncelemek isterseniz eğer bunun da [şöyle](https://www.dw.com/tr/facebooka-cambridge-analytica-davas%C4%B1/a-46810401) ve [şöyle](https://www.cnnturk.com/dunya/endonezyada-dusen-yolcu-ucagindan-ilk-sinyal-alindi) ufak örnekleri var.
 
-* GetContact uygulaması
+### GetContact uygulaması
 
 Bu uygulamayı bir çoğunuz ismi ile hatırlamıyordur, ancak yine sosyal medya akımı ile bir çoğunuzun yüklediği ve başkalarının rehberinde hangi isimle kayıtlıyım diye baktığınız bir uygulama vardı, hatırlar mısınız ? O bir kaç günlük sosyal medya akımı Türkiye'de hemen hemen GSM kullanıcılarının telefon numarası ve isim verilerini firmaya tertemiz şekilde sağladı. Üstelik bunu öyle bir sosyal medya akımı şeklinde yaptılar ki, insanlara rehberinizi bana satın dese parayla bile alamayacağı şekilde istediklerine ulaşmış oldu. Eee ne olmuş yani mi diyorsunuz ? O numaralar şuanda uygulama mağazasında numaradan isim bulma, arayan numaranın sahibi kim, bilinmeyen numaralar uygulaması gibi bir çok uygulamanın veri tabanını oluşturuyor.
 
-* Çekilişler
+### Çekilişler
 
 Instagram çekilişlerine katılmak için onlarca sayfayı takip ediyor, bir çok kişi sayfa içi satın alınmış gerçek takipçi oluyorsunuz mesela. Ya da popüler bir markanın Porsche, ya da bir diğerinin BMW çekilişi için Ad, Soyad, Adres, hatta Kimlik Numarası gibi verileri gönüllü olarak veriyorsunuz.
-
----
 
 Daha önce Facebook defalarca gizlilik sözleşmesi güncellemesi yaptı, önünüze bir pop-up olarak çıktı ve bugünden sonra geçerli denildi, ya da bildirim olarak gönderildi. Bir çoğunuz farkına bile varmadı. WhatsApp eğer bu sözleşme güncellemesini uygulamayı x versiyona güncellediğinizde otomatik olarak kabul etmiş sayılırsınız gibi bir başlık ile yapmış olsaydı bu olay gündeme bile gelmeyecekti. Daha önce bir çok uygulamada veya sitede bu tarz güncellemeler yapıldı mesela. xx tarihinden itibaren kullanmaya devam ettiğinizde kabul etmiş sayılırsınız denilerek rahat bir şekilde geçmişlerdi. Aslında WhatsApp dürüstçe bak arkadaş ben senin verilerini ticari olarak kullanmak istiyorum dediği için bu kadar gündem oldu.
 
@@ -82,6 +89,7 @@ Hiç bir geçerliliği olmayan, onca yazım ve imla hatası olan yazıları kopy
 Facebook sayfamda bulabildiğim ve daha onlarca örneği olan aşağıda yer alan bu metinlerin hiç bir geçerliliği YOKTUR!
 Bir tanesinde baya baya resmi kurumun ve kurum yetkilinin adı verilerek güven sağlanmaya çalışılmıi, bu bile başlı başına yasal olarak başınızı ağrıtabilecek bir durum. Dosya numarası olmadan bir Noter kurumunu ve bir görevlinin ismini kullanıyorsunuz.
 
+İlk Örnek :
 
 >Hiç bir şekilde izin vermiyorum
 Kadıköy 1. Noteri Selim Ateş yazmış, yani Noter onaylı...
@@ -97,8 +105,9 @@ Bu yazıyı paylaşmayın. Kopyala ve yapıştırla kandi sayfanızda yayınlay�
 Parmağınızı bu gönderinin herhangi bir yerinde tutun ve "kopyala" yazısına tıklayın. Sonra sayfanıza gidin, yeni bir gönderi oluşturarak parmağınızı boş alanda herhangi bir yere koyun, "Yapıştır" ortaya çıkacak ve yapıştır ' a tıklayarak yayınlayın.
 Bu sisteme geçecek.
 Facebook ' a sitesine koyduğum hiçbir şeyi paylaşma izni vermiyorum. Resimler, güncel veya geçmiş gönderiler, telefon numaraları veya e-postalar.. Benden yazılı izin almadan bu profeldeki içeriği kesinlikle istediğiniz şekilde kullanamazsınız.
->
----
+
+Bir diğer örnek :
+
 >Yarın yeni Facebook kuralı başlıyor, fotoğraflarınızın kullanabileceği şekilde.
 Son teslim tarihinin bugün olduğunu unutmayın!!! Hakkınızda açılan davalarda kullanılabilir.
 Paylaştığın her şey bugünden itibaren herkese açık-silinen mesajlar bile. Basit bir kopya ve post için hiçbir şeye mal olmaz, üzgün olmaktansa güvende olur.
@@ -109,8 +118,9 @@ NOT: ''Facebook'' artık kamu birimi. Tüm üyeler böyle bir not atmalı. İste
 Açıklamayı en az bir kez yayınlamazsanız, fotoğraflarınızın ve profil durum güncellemelerinizde yer alan bilgilerin yanı sıra sessizce kullanıma izin vereceksiniz. "Paylaş değil, kopyala+yapıştır!"
 Sonuç olarak: Facebook'un web sitesine koyduğum hiçbir şeyi paylaşmasına izin vermiyorum. FOTOĞRAFLAR, GÜNCEL VEYA GEÇMİŞ, GÖNDERİLER, TELEFON NUMARASI VE E-POSTALAR... Kesinlikle yazılı iznim veya sözlü içeriğim olmadan hiçbir şey kullanılamaz.
 Hiçbir şekilde izin vermiyorum! Aksi gerçekleştiği taktirde Facebook siteminin kendisi, Facebook'a bağlı  alt üst ve  yan kuruluşlar, aynı zamanda izin vermediğimi beyan ettiğim tüm işlemleri gerçekleştiren ikinci  ve üçüncü şahıslara karşı suç durusunda bulunacağımı, maddi manevi tazminat davaları açagımı, yapacagım her türlü masrafın ve avukat vekalet ücretinin karşı tarafa ait olacağını İHTAR EDERİM!..
->
----
+
+Bir diğeri :
+
 > DEĞERLİ ARKADAŞLARIM, DOSTLARIM VE AKRABALARIMIN BİLGİSİNE;
 SOSYAL MEDYADA TERÖRÜ DESTEKLEYENLER HAKKINDA SORUŞTURMA AÇILACAĞININ SÖYLENMESİ ÜZERİNE BUNU FIRSAT BİLEN...! BAZI ART NİYETLİ İNSANLAR, GÖRÜŞLERİNİ SEVMEDİKLERİ İNSANLARI ZOR DURUMA DÜŞÜRMEK İÇİN HAREKETE GEÇİRİP,  FACEBOOK'TA PROFİL RESİMLERİNİZİ ALARAK SİZİN ADINIZA SAHTE HESAPLAR AÇARAK, BİZİM ADIMIZA TERÖRE DESTEK VEREBİLİR YA DA HOŞ OLMAYAN PAYLAŞIMLAR YAPABİLİRLER.
 •BU PAYLAŞIMLARI BİZLER GÖREMİYORUZ,
@@ -124,21 +134,34 @@ KİMSEYE KÜFÜR,  HAKARET, AŞAĞILAYICI, ASLI ASTARI OLMAYAN İTHAMLARDA  BULU
 Lütfen paylaşmayın, kopyalayıp yapıştırın ki kendi arkadaşlarınız da görebilsin....!
 BÖYLE BIR OLAY OLURSA LUTFEN BİRBİRİMİZİ UYARALIM...
 07.01.2021
->
----
+
+Bir diğeri :
+
 >HERKES KOPYALAYIP YAPIŞTIRSIN
 RESMILEŞTI DİKKAT!!!
 T.C. Başbakanlık Personel ve Prensipler Genel Müdürlüğünün 16.02.2016 tarih ve 69471265-010-06/1955 sayılı Milli Güvenliği tehdit eden örgüt ve yapılarla irtibatlı kamu çalışanları hakkındaki Genelge (2016/4) Resmi Gazetede yayınlanmıştır. Ayrıca MİT Müsteşarlığı Sosyal Ağ Bildirgesi doğrultusunda Facebook'un güvenlik açığından ötürü hesabım üzerinde bulunan tüm verilerimin (IP, fotoğraflarım, paylaşımlarım vs.) çarpıtma yolu ve yasa dışı bir şekilde sahte kişilerce kullanılmasından ve doğabilecek tüm zararlardan ilgili Türk Ceza Kanunu maddeleri gereğince Facebook sorumludur. Bu hesabımdan başka bir hesabım olmadığını bildirir ve gereğinin buna göre yapılmasını tarafınıza arz ederim.
 10 01 2021
->
----
+
+Bir diğeri :
+
+>HERKES KOPYALAYIP YAPIŞTIRSIN
+RESMILEŞTI DİKKAT!!!
+T.C. Başbakanlık Personel ve Prensipler Genel Müdürlüğünün 16.02.2016 tarih ve 69471265-010-06/1955 sayılı Milli Güvenliği tehdit eden örgüt ve yapılarla irtibatlı kamu çalışanları hakkındaki Genelge (2016/4) Resmi Gazetede yayınlanmıştır. Ayrıca MİT Müsteşarlığı Sosyal Ağ Bildirgesi doğrultusunda Facebook'un güvenlik açığından ötürü hesabım üzerinde bulunan tüm verilerimin (IP, fotoğraflarım, paylaşımlarım vs.) çarpıtma yolu ve yasa dışı bir şekilde sahte kişilerce kullanılmasından ve doğabilecek tüm zararlardan ilgili Türk Ceza Kanunu maddeleri gereğince Facebook sorumludur. Bu hesabımdan başka bir hesabım olmadığını bildirir ve gereğinin buna göre yapılmasını tarafınıza arz ederim.
+10 01 2021
+
+Bir diğeri :
+
 >⚠️TÜM KAMU OYUNA DUYURUMDUR... ⚠️
 Yarın tüm fotoğraflarınızın izinsiz kullanabileceği yeni facebook kuralı yürürlüğe girecek... Bugünün son teslim tarihi olduğunu unutmayın!!! Paylaşımlarınız mahkemede, size karşı kullanılabilir. Paylaştığınız her şey bugünden itibaren herkese açık hale geliyor, mesajların veya fotoğrafların silinmesine izin verilmiyor. Basit bir kopyala ve yapıştırmanın maliyeti yok, üzgün olmaktansa güvende olmak daha iyidir. Facebook ' a veya facebook ile ilişkili herhangi tüm şirket, marka ve uygulamalara hiçbir fotoğraf, bilgi, mesaj veya gönderimlerimi kullanma izni vermiyorum. Bu açıklama aracılığıyla, Facebook ' a bu profilin içeriğini bana karşı kullanma, kopyalama, dağıtma izni vermediğimi beyan ederim. Bu profilin içeriği özel ve gizlidir. Mahremiyet ihlali suçtur. Facebook artık halka açık bir şirkettir. Tüm üyeler böyle bir not göndermeli. Isterseniz bu sürümü kopyalayıp yapıştırabilirsiniz. Bir açıklama yayınlamazsanız, fotoğraflarınızın yanı sıra profil durumu güncellemelerinde yer alan bilgilerin de kullanılmasına izin vermiş olacaksınız. Bu yazıyı paylaşmayın. Kopyala ve yapıştırla kandi sayfanızda yayınlayın.
 Parmağınızı bu gönderinin herhangi bir yerinde tutun ve "kopyala" yazısına tıklayın. sonra sayfanıza gidin, yeni bir gönderi oluşturarak parmağınızı boş alanda herhangi bir yere koyun. "Yapıştır" ortaya çıkacak ve yapıştır ' a tıklayarak yayınlayın.
 Bu sisteme geçecek.
 Facebook ' a sitesine koyduğum hiçbir şeyi paylaşma izni vermiyorum. Resimler, güncel veya geçmiş gönderiler, telefon numaraları veya e-postalar.. Benden yazılı izin almadan bu profeldeki içeriği kesinlikle istediğiniz şekilde kullanamazsınız..
->
----
+
+Bir diğeri :
+
 >Facebook'un web sitesine koyduğum hiçbir şeyin paylaşılmasına izin vermiyorum. FOTOĞRAFLAR, GÜNCEL VEYA GEÇMİŞ, GÖNDERİLER, TELEFON NUMARASI VE E-POSTALAR... Kesinlikle yazılı iznim veya sözlü içeriğim olmadan hiçbir şey kullanılamaz.
 Hiçbir şekilde izin vermiyorum!
->
+
+Bu metinleri bilerek buraya kopyaladım, gerçekten merak edip Google'da arayıp gelen birileri olursa en azından ne olduklarını bilsinler istedim..
+
+Oldukça kısa tutayım derken yazı aşırı uzadı farkındayım. Umarım detaylıca anlatabilmiş, aklımdan geçenleri ifade edebilmişimdir. Yazıdaki içerik tamamen kendi düşüncelerimden ve görüşlerimden oluşmakta olup, aksini iddia edebilirsiniz, özgürsünüz. Kimse ile tartışmak niyetinde değilim.
