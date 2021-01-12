@@ -79,10 +79,11 @@ En çok da sosyal medyanın televizyon gündemine taşınıp insanların korkutu
 
 Hiç bir geçerliliği olmayan, onca yazım ve imla hatası olan yazıları kopyalayıp paylaşmayın, spam bir gönderinin dağılmasına yardım etmeyin LÜTFEN. Dün Facebook Anasayfamda sadece bu tarz 25den fazla gönderiyi "Asılsız Haber" olarak bildirdim. Ancak halen paylaşanlar var.
 
-Facebook sayfamda bulabildiğim ve daha onlarca örneği olan bu metinlerin hiç bir geçerliliği YOKTUR!
+Facebook sayfamda bulabildiğim ve daha onlarca örneği olan aşağıda yer alan bu metinlerin hiç bir geçerliliği YOKTUR!
 Bir tanesinde baya baya resmi kurumun ve kurum yetkilinin adı verilerek güven sağlanmaya çalışılmıi, bu bile başlı başına yasal olarak başınızı ağrıtabilecek bir durum. Dosya numarası olmadan bir Noter kurumunu ve bir görevlinin ismini kullanıyorsunuz.
 
->> Hiç bir şekilde izin vermiyorum
+
+>Hiç bir şekilde izin vermiyorum
 Kadıköy 1. Noteri Selim Ateş yazmış, yani Noter onaylı...
 Buyurun.
 Yarın tüm fotoğraflarınızın izinsiz kullanabileceği yeni facebook kuralı yürürlüğe girecek...
@@ -96,8 +97,9 @@ Bu yazıyı paylaşmayın. Kopyala ve yapıştırla kandi sayfanızda yayınlay�
 Parmağınızı bu gönderinin herhangi bir yerinde tutun ve "kopyala" yazısına tıklayın. Sonra sayfanıza gidin, yeni bir gönderi oluşturarak parmağınızı boş alanda herhangi bir yere koyun, "Yapıştır" ortaya çıkacak ve yapıştır ' a tıklayarak yayınlayın.
 Bu sisteme geçecek.
 Facebook ' a sitesine koyduğum hiçbir şeyi paylaşma izni vermiyorum. Resimler, güncel veya geçmiş gönderiler, telefon numaraları veya e-postalar.. Benden yazılı izin almadan bu profeldeki içeriği kesinlikle istediğiniz şekilde kullanamazsınız.
+>
 ---
->>Yarın yeni Facebook kuralı başlıyor, fotoğraflarınızın kullanabileceği şekilde.
+>Yarın yeni Facebook kuralı başlıyor, fotoğraflarınızın kullanabileceği şekilde.
 Son teslim tarihinin bugün olduğunu unutmayın!!! Hakkınızda açılan davalarda kullanılabilir.
 Paylaştığın her şey bugünden itibaren herkese açık-silinen mesajlar bile. Basit bir kopya ve post için hiçbir şeye mal olmaz, üzgün olmaktansa güvende olur.
 Facebook'a veya Facebook ile ilgili herhangi bir kuruluşun, geçmişten ve gelecekten fotoğraflarımı, bilgilerimi, mesajlarımı veya gönderilerimi kullanmasına izin vermiyorum.
@@ -107,8 +109,9 @@ NOT: ''Facebook'' artık kamu birimi. Tüm üyeler böyle bir not atmalı. İste
 Açıklamayı en az bir kez yayınlamazsanız, fotoğraflarınızın ve profil durum güncellemelerinizde yer alan bilgilerin yanı sıra sessizce kullanıma izin vereceksiniz. "Paylaş değil, kopyala+yapıştır!"
 Sonuç olarak: Facebook'un web sitesine koyduğum hiçbir şeyi paylaşmasına izin vermiyorum. FOTOĞRAFLAR, GÜNCEL VEYA GEÇMİŞ, GÖNDERİLER, TELEFON NUMARASI VE E-POSTALAR... Kesinlikle yazılı iznim veya sözlü içeriğim olmadan hiçbir şey kullanılamaz.
 Hiçbir şekilde izin vermiyorum! Aksi gerçekleştiği taktirde Facebook siteminin kendisi, Facebook'a bağlı  alt üst ve  yan kuruluşlar, aynı zamanda izin vermediğimi beyan ettiğim tüm işlemleri gerçekleştiren ikinci  ve üçüncü şahıslara karşı suç durusunda bulunacağımı, maddi manevi tazminat davaları açagımı, yapacagım her türlü masrafın ve avukat vekalet ücretinin karşı tarafa ait olacağını İHTAR EDERİM!..
+>
 ---
->> DEĞERLİ ARKADAŞLARIM, DOSTLARIM VE AKRABALARIMIN BİLGİSİNE;
+> DEĞERLİ ARKADAŞLARIM, DOSTLARIM VE AKRABALARIMIN BİLGİSİNE;
 SOSYAL MEDYADA TERÖRÜ DESTEKLEYENLER HAKKINDA SORUŞTURMA AÇILACAĞININ SÖYLENMESİ ÜZERİNE BUNU FIRSAT BİLEN...! BAZI ART NİYETLİ İNSANLAR, GÖRÜŞLERİNİ SEVMEDİKLERİ İNSANLARI ZOR DURUMA DÜŞÜRMEK İÇİN HAREKETE GEÇİRİP,  FACEBOOK'TA PROFİL RESİMLERİNİZİ ALARAK SİZİN ADINIZA SAHTE HESAPLAR AÇARAK, BİZİM ADIMIZA TERÖRE DESTEK VEREBİLİR YA DA HOŞ OLMAYAN PAYLAŞIMLAR YAPABİLİRLER.
 •BU PAYLAŞIMLARI BİZLER GÖREMİYORUZ,
 ARKADAŞLARIMIZ GÖRECEK ŞEKİLDE AYARLIYORLAR,
@@ -121,17 +124,21 @@ KİMSEYE KÜFÜR,  HAKARET, AŞAĞILAYICI, ASLI ASTARI OLMAYAN İTHAMLARDA  BULU
 Lütfen paylaşmayın, kopyalayıp yapıştırın ki kendi arkadaşlarınız da görebilsin....!
 BÖYLE BIR OLAY OLURSA LUTFEN BİRBİRİMİZİ UYARALIM...
 07.01.2021
+>
 ---
->>HERKES KOPYALAYIP YAPIŞTIRSIN
+>HERKES KOPYALAYIP YAPIŞTIRSIN
 RESMILEŞTI DİKKAT!!!
 T.C. Başbakanlık Personel ve Prensipler Genel Müdürlüğünün 16.02.2016 tarih ve 69471265-010-06/1955 sayılı Milli Güvenliği tehdit eden örgüt ve yapılarla irtibatlı kamu çalışanları hakkındaki Genelge (2016/4) Resmi Gazetede yayınlanmıştır. Ayrıca MİT Müsteşarlığı Sosyal Ağ Bildirgesi doğrultusunda Facebook'un güvenlik açığından ötürü hesabım üzerinde bulunan tüm verilerimin (IP, fotoğraflarım, paylaşımlarım vs.) çarpıtma yolu ve yasa dışı bir şekilde sahte kişilerce kullanılmasından ve doğabilecek tüm zararlardan ilgili Türk Ceza Kanunu maddeleri gereğince Facebook sorumludur. Bu hesabımdan başka bir hesabım olmadığını bildirir ve gereğinin buna göre yapılmasını tarafınıza arz ederim.
 10 01 2021
+>
 ---
->>⚠️TÜM KAMU OYUNA DUYURUMDUR... ⚠️
+>⚠️TÜM KAMU OYUNA DUYURUMDUR... ⚠️
 Yarın tüm fotoğraflarınızın izinsiz kullanabileceği yeni facebook kuralı yürürlüğe girecek... Bugünün son teslim tarihi olduğunu unutmayın!!! Paylaşımlarınız mahkemede, size karşı kullanılabilir. Paylaştığınız her şey bugünden itibaren herkese açık hale geliyor, mesajların veya fotoğrafların silinmesine izin verilmiyor. Basit bir kopyala ve yapıştırmanın maliyeti yok, üzgün olmaktansa güvende olmak daha iyidir. Facebook ' a veya facebook ile ilişkili herhangi tüm şirket, marka ve uygulamalara hiçbir fotoğraf, bilgi, mesaj veya gönderimlerimi kullanma izni vermiyorum. Bu açıklama aracılığıyla, Facebook ' a bu profilin içeriğini bana karşı kullanma, kopyalama, dağıtma izni vermediğimi beyan ederim. Bu profilin içeriği özel ve gizlidir. Mahremiyet ihlali suçtur. Facebook artık halka açık bir şirkettir. Tüm üyeler böyle bir not göndermeli. Isterseniz bu sürümü kopyalayıp yapıştırabilirsiniz. Bir açıklama yayınlamazsanız, fotoğraflarınızın yanı sıra profil durumu güncellemelerinde yer alan bilgilerin de kullanılmasına izin vermiş olacaksınız. Bu yazıyı paylaşmayın. Kopyala ve yapıştırla kandi sayfanızda yayınlayın.
 Parmağınızı bu gönderinin herhangi bir yerinde tutun ve "kopyala" yazısına tıklayın. sonra sayfanıza gidin, yeni bir gönderi oluşturarak parmağınızı boş alanda herhangi bir yere koyun. "Yapıştır" ortaya çıkacak ve yapıştır ' a tıklayarak yayınlayın.
 Bu sisteme geçecek.
 Facebook ' a sitesine koyduğum hiçbir şeyi paylaşma izni vermiyorum. Resimler, güncel veya geçmiş gönderiler, telefon numaraları veya e-postalar.. Benden yazılı izin almadan bu profeldeki içeriği kesinlikle istediğiniz şekilde kullanamazsınız..
+>
 ---
->>Facebook'un web sitesine koyduğum hiçbir şeyin paylaşılmasına izin vermiyorum. FOTOĞRAFLAR, GÜNCEL VEYA GEÇMİŞ, GÖNDERİLER, TELEFON NUMARASI VE E-POSTALAR... Kesinlikle yazılı iznim veya sözlü içeriğim olmadan hiçbir şey kullanılamaz.
+>Facebook'un web sitesine koyduğum hiçbir şeyin paylaşılmasına izin vermiyorum. FOTOĞRAFLAR, GÜNCEL VEYA GEÇMİŞ, GÖNDERİLER, TELEFON NUMARASI VE E-POSTALAR... Kesinlikle yazılı iznim veya sözlü içeriğim olmadan hiçbir şey kullanılamaz.
 Hiçbir şekilde izin vermiyorum!
+>
