@@ -49,19 +49,24 @@ gallery3:
     alt: "Fog in the trees"
     title: "Image 3"
 ---
+Merhabaa, bu sayfa daha önce dikkatinizi çekti ise bir süredir planlanmış, temelleri atılmış ancak bir türlü çalışır hale gelmemiş durumda bekliyordu. Bugün biraz düzenlemek istedim. Aşağıda sırası ile son dönemlerde okuduğum kitaplar, izlediğim filmler ve izlediğim diziler yer alacak. 3'erli sıralar halinde aşağıya doğru uzayan görseller ve aralarında yorumlarımı görebileceksiniz. Hem izlemek istediğiniz şeyler hakkında fikir almak isterseniz belki arama motorlarından buralara yolunuz düşer, tanışırız, hem de ben izlediklerimin ve okuduklarımın bir kaydını tutmuş olurum diye düşündüm.
 
-### Galeri 1 Deneme
+## Okuduğum Kitaplar
 
 {% include gallery caption="Kitaplar" %}
 
-### Galeri 2 Denemesi
+## İzlediğim Filmler
 
 {% include gallery id="gallery2" caption="Filmler" %}
 
-### Galeri 3 Denemesi
+## İzlediğim Diziler
 
 {% include gallery id="gallery3" caption="Diziler" %}
 
+### Chernobyl
+### You
+### The Outpost
+### The Rain
 ---
 **Mail** hakanterman [@] gmail [.] com
 {: .notice}
