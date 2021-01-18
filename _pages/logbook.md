@@ -51,10 +51,10 @@ mapping:
 
 - Çağrı İşareti : [TA4ADP](https://www.qrz.com/db/TA4ADP){: .btn .btn--danger}
 - DMR ID : [2862244](https://brandmeister.network/index.php?page=profile&call=TA4ADP){: .btn .btn--info}
-- DMR Repeater : [TA4ADP BM](https://brandmeister.network/?page=repeater&id=2862244){: .btn .btn--primary}
+- DMR Repeater : [TA4ADP BM](https://brandmeister.network/?page=repeater&id=286224401){: .btn .btn--primary}
 - SWL Lisans : [TA464378](#){: .btn .btn--warning}
 - SWARL ID : [TA4---SWL](#){: .btn .btn--success}
-- APRS Harita : [APRS](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FTA4ADP&timerange=3600&tail=3600){: .btn .btn--inverse}
+- APRS Harita : [APRS](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FTA4ADP-1&timerange=3600&tail=3600){: .btn .btn--inverse}
 
 {: #myTable .table table-responsive}
 |Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke  |Çağrı&nbsp;İşareti|Operatör&nbsp;Adı |Op.Konumu          |Mod |Band |Konumum |Tür |Not              |
@@ -66,12 +66,13 @@ mapping:
 |5   |03/12/2020-23:00       |:tr:  |TA4IBH            |Halil Kuzu        |Merkez Uşak        |FM  |VHF  |KM48UM  |HAM |Uşak Röle        |
 |6   |15/12/2020-20:20       |:tr:  |TA4PKP            |Erkin Mercan      |Merkez Denizli     |FM  |UHF  |KM48UM  |HAM |Honaz Röle       |
 |7   |22/12/2020-18:55       |:tr:  |TA4PKP            |Erkin Mercan      |Merkez Denizli     |FM  |UHF  |KM48UM  |HAM |Honaz Röle       |
-|8   |27/12/2020-23:00       |:tr:  |TA3AEQ            |Ali Berkay Özkan  |Çanakkale          |ECHO|ECHO |KM48UM  |HAM |Uşak Röle        |
-|9   |02/01/2021-02:10       |:de:  |DL6KBG            |Oliver Goldenstein|Germany            |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
-|10  |02/01/2021-02:11       |:it:  |IK7FMQ            |Gabriele Albanese |Italy              |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
-|11  |03/01/2021-20:20       |:tr:  |TA4SAA            |Ahmet Ali Göz     |Denizli            |FM  |UHF  |KM48UM  |HAM |Honaz Röle       |
-|12  |03/01/2021-20:20       |:tr:  |TA7ACD            |Mehmet            |Sivas              |DMR |DMR  |KM48UM  |HAM |TG&nbsp;2861766 |
-|13  |04/01/2021-22:30       |:tr:  |TA4AVK            |Veli Kuru         |Merkez Uşak        |FM  |VHF  |KM48UM  |HAM |Uşak Röle        |
+|8   |27/12/2020-21:30       |:tr:  |YM2KDZ            |DARD - Duzce      |Düzce              |ECHO|ECHO |KM48UM  |HAM |Rutin Çevrim     |
+|9   |27/12/2020-23:00       |:tr:  |TA3AEQ            |Ali Berkay Özkan  |Çanakkale          |ECHO|ECHO |KM48UM  |HAM |Echolink         |
+|10  |02/01/2021-02:10       |:de:  |DL6KBG            |Oliver Goldenstein|Germany            |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
+|11  |02/01/2021-02:11       |:it:  |IK7FMQ            |Gabriele Albanese |Italy              |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
+|12  |03/01/2021-20:20       |:tr:  |TA4SAA            |Ahmet Ali Göz     |Denizli            |FM  |UHF  |KM48UM  |HAM |Honaz Röle       |
+|13  |03/01/2021-20:20       |:tr:  |TA7ACD            |Mehmet            |Sivas              |DMR |DMR  |KM48UM  |HAM |TG&nbsp;2861766 |
+|14  |04/01/2021-22:30       |:tr:  |TA4AVK            |Veli Kuru         |Merkez Uşak        |FM  |VHF  |KM48UM  |HAM |Uşak Röle        |
 
 <script src="/assets/leaflet/L.Maidenhead.js"></script>
 <script src="/assets/leaflet/leafembed.js"></script>
