@@ -126,6 +126,10 @@ VK2ZOI Bu projedeki anteni ölçemediğini ancak diğerinden (onun kazancı 3dBd
 Buradaki anlatıma bağlı kalarak yapacağınız antenlerin fotoğraflarını bana bir şekilde iletebilirseniz yazının alt kısmında çağrı kodlarınızla birlikte yayınlamak isterim. Umarım faydalı bir anlatım olmuştur.
 Denemek isteyen arkadaşlara kolay gelsin !
 
-Anlatımın orjinal dilde olan haline [buradan](https://vk2zoi.com/articles/dual-band-high-gain-flower-pot/) ulaşabilirsiniz.
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/4NES20sx_vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Yukarıdaki video'da VK1PE (Peter Ellis) abimiz antenin yapımını uzunca, kendi dilinde anlatmış. Yazıya ek olarak görsel olarak fikir oluştursun derseniz izlemenizi tavsiye ederim.
+
+Yazılı anlatımın orjinal dilde olan haline de [buradan](https://vk2zoi.com/articles/dual-band-high-gain-flower-pot/) ulaşabilirsiniz.
 
 TA4ADP - Hakan TERMAN
