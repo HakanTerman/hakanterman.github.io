@@ -13,14 +13,14 @@ permalink: /teknoloji/Deneysel-Flower-Pot-Telsiz-Anteni-Yapimi/
 
 # Flower Pot (Çiçek Saksısı) Anten
 
-[Flower Pot Anten Yapımı](https://hakanterman.com/teknoloji/Flower-Pot-Telsiz-Anteni-Nasil-Yapilir/) yazımızda yapımını anlattığımız antenin bir gelişmiş versiyonu, deneysel olanının yapımını da talep üzerine anlatmak istedim. Bu anteni yapmak isteyen arkadaşlarımız var ise, diğeri ile çok fazla bir değişiklik yok. Aynı yöntemleri uygulayıp
+[Flower Pot Anten Yapımı](https://hakanterman.com/teknoloji/Flower-Pot-Telsiz-Anteni-Nasil-Yapilir/) yazımızda yapımını anlattığımız antenin bir gelişmiş versiyonu, deneysel olanının yapımını da talep üzerine anlatmak istedim. Bu anteni yapmak isteyen arkadaşlarımız var ise, diğeri ile çok fazla bir değişiklik yok. Aynı yöntemleri uygulayıp biraz daha fazla malzeme harcayıp daha kazançlı anten yapabilirler.
 
 Anten yapımında kullanacağımız proje diğer yazımızda da belirttiğim üzere [VK2ZOI - John Bishop](https://vk2zoi.com/) isimli Avusturalyalı bir abimize ait. Ben sadece bu projeyi Türkçe'ye çevirip olabildiğince detaylı şekilde anlatmak istiyorum.
 
 # Malzemeler
 
-- **2.5 Metre 25'lik Boru(Minimum)** Temiz su tesisat borusu, sağlam olması ve bükülmemesi için kompozit boru kullanabilirsiniz ancak aluminyum korumalı olmaması gerekiyor.
-- **RG-58 50Ohm Kablo** RG-213 ya da LMR400 de kullanabilirsiniz, ancak sargıları bükmek zor olacaktır
+- **2.5 Metre(Minimum) 25'lik Boru** Temiz su tesisat borusu, sağlam olması ve bükülmemesi için kompozit boru kullanabilirsiniz ancak aluminyum korumalı olmaması gerekiyor.
+- **RG-58 50 Ohm Kablo** RG-213 ya da LMR400 de kullanabilirsiniz, ancak sargıları bükmek zor olacaktır
 - **Aluminyum Folyo ya da Aluminyum Bant** Normalde aluminyum folyo kullanılıyor ancak folyoyu sarmak ve sabitlemek zor olduğu için bantlı şekilde olanı ideal.
 - **Elektrik Bandı** Yaklaşık bir sargı bant harcıyoruz, kaliteli olan bantlardan kullanmanız yararınıza olur.
 - **Misina (Bir karış kadar)** Kablonun ucunu yukarıya bağlamak için gerekiyor.
@@ -39,7 +39,7 @@ Anten yapımında kullanacağımız proje diğer yazımızda da belirttiğim üz
 
 # Dual Band Yarım Dalga Flower Pot Anten Yapım Aşaması
 
-Antenimizin tam uzunluğu alttaki sargı bobin ile birlikte yaklaşık 192 CM olacak, ancak anteni sabitlemek için boruyu tam 195'den değil biraz daha uzum kesmenizi tavsite ediyorum. 192 CM uzunluğundaki anten için en az 50-60 cm daha boşluk bırakırsanız rahatca sabitleyebilirsiniz, ama yine de esneme yapmasının önüne geçemiyoruz, 1 Metre civarı da bırakabilirsiniz sabitlemeniz biraz daha rahat olacaktır. Bu projedeki antenden kullanıyorum, 2.5 Metre uzunluğunda boru kullandım. Yine de rüzgarda antenin dans etmesinin önüne geçmek için çevresinden iplerle gerdirmek zorunda kaldım.
+Antenimizin tam uzunluğu alttaki sargı bobin ile birlikte yaklaşık 192 CM olacak, ancak anteni sabitlemek için boruyu tam 192'den değil biraz daha uzun (2.5 metreden) kesmenizi tavsiye ediyorum. 192 CM uzunluğundaki anten için en az 50-60 cm daha boşluk bırakırsanız rahatca sabitleyebilirsiniz, ama yine de esneme yapmasının önüne geçemiyoruz, 1 Metre civarı da bırakabilirsiniz sabitlemeniz biraz daha rahat olacaktır.Antenin kendi yüksekliği 3 metreleri bulacaktır. Bu projedeki antenden kullanıyorum, 2.5 Metre uzunluğunda boru kullandım. Yine de rüzgarda antenin dans etmesinin önüne geçmek için çevresinden iplerle çatıya gerdirmek zorunda kaldım, böyle de bir sorun oluyor başlamadan önce bilginiz olsun. :)
 
 Anteni eğer ben gibi çatının yüksek konumunda kullanıyorsanız üstteki sargının üzerinden bağlayıp 4 tarafına gergin bir şekilde sabitlerseniz ani rüzgarda yatıp kalkmasının ve borunun kırılmasının önüne geçebilirsiniz. Tel veya benzeri iletkenler kullanmamaya çalışın, SWR durumunu değiştirecektir.
 
@@ -47,7 +47,7 @@ Anteni eğer ben gibi çatının yüksek konumunda kullanıyorsanız üstteki sa
 
 Görselde de görüleceği üzere üst kısımdan kapak boyutunca boşluk bırakarak başlıyoruz. Benim kullandığım kapak 1 cm harcıyordu.
 
-/assets/images/posts/yazi/deneysel-boru.jpg
+![Çiçek-Saksı-Anten-Boru](/assets/images/posts/yazi/deneysel-boru.jpg)
 
 1 cm olan kısmı kalem le işaretledikten sonra 34.5 cm sonrasına işaret koyup aluminyum folyonun başlangıç noktasını belirliyoruz.Bu işaretin 23.5 cm altına bir çizgi çekip aluminyum folyo bitişini bulmuş oluyoruz. Bulduğumuz bu bitiş çizgisinden 32.4 cm daha aşağıya inip bobin sargısının başlangıcını buluyoruz ve bu noktaya matkap yardımıyla bir delik açıyoruz.
 
@@ -59,7 +59,7 @@ Görselde de görüleceği üzere üst kısımdan kapak boyutunca boşluk bırak
 
 4.Deliğin olduğu kısımdan 45.7 cm sonrasına işaret koyup ikinci aluminyum folyonun başlangıç noktasını belirliyoruz.Bu işaretin 23.5 cm altına bir çizgi çekip ikinci aluminyum folyo bitişini bulmuş oluyoruz.
 
-/assets/images/posts/yazi/deneysel-kablo.jpg
+![Çiçek-Saksı-Anten-Boru](/assets/images/posts/yazi/deneysel-kablo.jpg)
 
 Şimdi dış kısım hemen hemen hazır. Şimdi kablomuzu hazırlamaya başlayalım. Kullanacağımız koaksiyel kablomuzun ucundan itibaren 92 cm olan kısmın plastik kılıfını soyuyoruz.
 
