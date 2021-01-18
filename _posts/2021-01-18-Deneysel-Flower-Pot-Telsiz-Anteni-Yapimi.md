@@ -55,6 +55,10 @@ Görselde de görüleceği üzere üst kısımdan kapak boyutunca boşluk bırak
 
 25'lik boruda 7 sargı yaklaşık olarak 3.5cm'e denk geleceği için açtığımız deliğin 3.5cm altından bir delik daha açmamız gerekiyor. (Yanlış yapmamak için 7 tur kablo sarıp deneyebilirsiniz ancak bende bu şekilde oldu)
 
+Delikleri açarken kabloyu sargı yönünde rahatça yönlendirebilmek için delikleri biraz yontup, matkap ile yön verebilirsiniz.
+
+![Çiçek-Saksı-Anten-Yontma](https://vk2zoi.com/assets/coil-holes-2.jpg)
+
 İkinci delikten sonra 90.5cm sonrasına ikinci sargımız için bir delik daha açıyoruz. ve Burada 9 tur sargı kullanacağımız için 4.5cm altına ikinci deliği de açıyoruz.
 
 4.Deliğin olduğu kısımdan 45.7 cm sonrasına işaret koyup ikinci aluminyum folyonun başlangıç noktasını belirliyoruz.Bu işaretin 23.5 cm altına bir çizgi çekip ikinci aluminyum folyo bitişini bulmuş oluyoruz.
@@ -69,13 +73,15 @@ Soyduğumuz kablonun içindeki aluminyum sargıyı kesip çıkarıyoruz. Bize sa
 
 ![Çiçek-Saksı-Anten-KabloTemizleme](https://vk2zoi.com/assets/cleanup-coax.jpg)
 
-Bu şekilde hazırlamak için önce bıçakla 92 den bir daire çizin sonrasında hafif bükerek plastik parçayı koparın. Sargılı olan kısmı ise bıçakla çizerek koparmaya çalışın, kaliteli kablolarda baya zor olacaktır, ayrıca elinizi çizmesi de mümkün. Dikkatli olun.
+Bu şekilde hazırlamak için önce bıçakla 92cm den bir daire çizin sonrasında hafif bükerek plastik parçayı koparın. Sargılı olan kısmı ise bıçakla çizerek koparmaya çalışın, kaliteli kablolarda baya zor olacaktır, ayrıca elinizi çizmesi de mümkün. Dikkatli olun.
 
 ![Çiçek-Saksı-Anten-Kablo](https://vk2zoi.com/assets/feed-coax.jpg)
 
 Buradan sonra kabloda 67cm uzunluğunda (25mm boruda 7 tur sargıya karşılık gelecek uzunluk) boşluk bırakıp (orjinal hali ile bırakıyoruz) sonrasında 45.7cm ikinci kısmı da üst taraf gibi soyuyoruz. Burası oldukça zor oluyor, çünkü aluminyum ve plastik kısmı kesseniz dahi kablonun içine zarar vermeden ayırmanız ve kablodan çıkarmanız gerekiyor. Biraz vaktinizi alır ancak plastik kısmı çekerek yırtabilirsiniz. Aluminyum olan kısmı ise üst ve alttan kopardıktan sonra sıkıştırınca biraz genişlediğini göreceksiniz, kablonun üstünden sıyırabilirsiniz. Ellerinizi kesmemeye özen gösterin.
 
 Kablomuzu da hazırladıktan sonra açtığımız deliklerden üstteki delikten boruya sürmeye başlayalım. Ucu dışarıya çıkınca misina ile ucunu sıkıca bağlayın, hatta çıkacak gibi olursa bir damla japon ile misinaya yapıştırabilirsiniz.
+
+![Çiçek-Saksı-Anten-Sargı](https://vk2zoi.com/assets/coil.jpg)
 
 Kablomuzun ucunu saat yönünde 7 tur olacak şekilde boruya sarıyoruz ve bir elimizle dağılmasın diye sıkıştırıp alttaki delikten boruya itiyoruz.Sargı kısmı yaptıktan sonra ikinci delikten kablonun kalanını komple boruya sürün.
 
@@ -87,15 +93,9 @@ Buradan sonra 3. delikten kabloyu borudan geri çıkarmanız gerekiyor. Bu kıs�
 
 Kablomuzun diğer ucunu saat yönünde 9 tur olacak şekilde boruya sarıyoruz ve bir elimizle dağılmasın diye sıkıştırıp alttaki delikten boruya itiyoruz. Bu şekilde sargı kısmı da tamamlanmış oldu.
 
-![Çiçek-Saksı-Anten-Folyo](https://vk2zoi.com/assets/sleeve.jpg)
-
 Buradan sonra folyo için işaretlediğimiz kısımlara aluminyum bant ile ya da folyo ile sargımızı yapıyoruz.
 
-![Çiçek-Saksı-Anten-Sargı](https://vk2zoi.com/assets/coil.jpg)
-
-Delikleri açarken kabloyu sargı yönünde rahatça yönlendirebilmek için delikleri biraz yontup, matkap ile yön verebilirsiniz.
-
-![Çiçek-Saksı-Anten-Yontma](https://vk2zoi.com/assets/coil-holes-2.jpg)
+![Çiçek-Saksı-Anten-Folyo](https://vk2zoi.com/assets/sleeve.jpg)
 
 Açıkta kalan tüm folyo kısımların üzeriyle birlikte iki sargı kısmın da üzerini elektrik bandımızla sarıyoruz. İçeriye kesinlikle su almaması için deliklerin üzerini de sardığınızdan emin olun. Kabloya zarar vermeden silikonla destekleyebilirsiniz.
 
