@@ -61,7 +61,7 @@ Görselde de görüleceği üzere üst kısımdan kapak boyutunca boşluk bırak
 
 ![Çiçek-Saksı-Anten-Boru](/assets/images/posts/yazi/deneysel-kablo.jpg)
 
-Şimdi dış kısım hemen hemen hazır. Şimdi kablomuzu hazırlamaya başlayalım. Kullanacağımız koaksiyel kablomuzun ucundan itibaren 92 cm olan kısmın plastik kılıfını soyuyoruz.
+Bu aşamada dış kısım hemen hemen hazır. Şimdi kablomuzu hazırlamaya başlayalım. Kullanacağımız koaksiyel kablomuzun ucundan itibaren 92 cm olan kısmın plastik kılıfını soyuyoruz.
 
 ![Çiçek-Saksı-Anten-KabloSoyma](https://vk2zoi.com/assets/cut-coax.jpg)
 
