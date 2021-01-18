@@ -13,7 +13,9 @@ permalink: /teknoloji/Deneysel-Flower-Pot-Telsiz-Anteni-Yapimi/
 
 # Flower Pot (Çiçek Saksısı) Anten
 
-[Flower Pot Anten Yapımı](https://hakanterman.com/teknoloji/Flower-Pot-Telsiz-Anteni-Nasil-Yapilir/) yazımızda yapımını anlattığımız antenin bir gelişmiş versiyonu, deneysel olanının yapımını da talep üzerine anlatmak istedim. Bu anteni yapmak isteyen arkadaşlarımız var ise, diğeri ile çok fazla bir değişiklik yok. Aynı yöntemleri uygulayıp biraz daha fazla malzeme harcayıp daha kazançlı anten yapabilirler.
+Antenin tarihi, nereden geldiği, nasıl üretildiği gibi konularda bilgi almak isterseniz bir kaç önceki yazımızda bu detayları vererek başladığımız ve [Flower Pot Anten Yapımı](https://hakanterman.com/teknoloji/Flower-Pot-Telsiz-Anteni-Nasil-Yapilir/) başlığı ile bu antenin tek katlı olanının yapımını anlattığımız yazımızı okumaya davet ediyorum.
+
+O yazıda anlattığımız antenin bir gelişmiş versiyonu, deneysel olanının yapımını da Amatör Telsiz Mutfak grubumuzdaki arkadaşlarımızın talepleri üzerine anlatmak istedim. Bu anteni yapmak isteyen arkadaşlarımız var ise, yapım kısmında diğeri ile çok fazla bir değişiklik yok. Aynı yöntemleri uygulayıp biraz daha fazla malzeme harcayıp daha kazançlı anten yapabilirler.
 
 Anten yapımında kullanacağımız proje diğer yazımızda da belirttiğim üzere [VK2ZOI - John Bishop](https://vk2zoi.com/) isimli Avusturalyalı bir abimize ait. Ben sadece bu projeyi Türkçe'ye çevirip olabildiğince detaylı şekilde anlatmak istiyorum.
 
