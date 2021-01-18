@@ -81,7 +81,7 @@ Buradan sonra kabloda 67cm uzunluğunda (25mm boruda 7 tur sargıya karşılık 
 
 Kablomuzu da hazırladıktan sonra açtığımız deliklerden üstteki delikten boruya sürmeye başlayalım. Ucu dışarıya çıkınca misina ile ucunu sıkıca bağlayın, hatta çıkacak gibi olursa bir damla japon ile misinaya yapıştırabilirsiniz.
 
-![Çiçek-Saksı-Anten-Sargı](https://vk2zoi.com/assets/coil.jpg)
+![Çiçek-Saksı-Anten-Sargı](https://rrcorgau.files.wordpress.com/2020/07/wp-1594461117741.jpg)
 
 Kablomuzun ucunu saat yönünde 7 tur olacak şekilde boruya sarıyoruz ve bir elimizle dağılmasın diye sıkıştırıp alttaki delikten boruya itiyoruz.Sargı kısmı yaptıktan sonra ikinci delikten kablonun kalanını komple boruya sürün.
 
@@ -90,6 +90,8 @@ Kablomuzun ucunu saat yönünde 7 tur olacak şekilde boruya sarıyoruz ve bir e
 ![Çiçek-Saksı-Anten-Misina](https://vk2zoi.com/assets/fishing-line.jpg)
 
 Buradan sonra 3. delikten kabloyu borudan geri çıkarmanız gerekiyor. Bu kısımda deliği biraz geniş tutup kablonun ucu göründükten sonra çengelli bir tel parçası ya da çatal iğne ile dışarıya çıkarabilirsiniz. Uç kısım biraz hasar görebilir, sıkmayın canınızı. Bu uç eve inecek olan uç olduğu için zaten konnektör bağlarken kesmeniz gerekecek. Kabloyu bu delikten çekmeye başlayın, yavaş yavaş çekin ve plastik kısmın sıyrılmamasına dikkat edin.
+
+![Çiçek-Saksı-Anten-Sargı](https://vk2zoi.com/assets/coil.jpg)
 
 Kablomuzun diğer ucunu saat yönünde 9 tur olacak şekilde boruya sarıyoruz ve bir elimizle dağılmasın diye sıkıştırıp alttaki delikten boruya itiyoruz. Bu şekilde sargı kısmı da tamamlanmış oldu.
 
@@ -117,7 +119,9 @@ Telsizciler.org sitesinden TA3OAS - Serdal bey bu şekilde bir çözüm ile ante
 
 Genel olarak çatıda her yöne ulaşabileceği bir konuma montajını yaparsanız cihazınızın kendi anteni ile ulaşamadığınız bir çok röleye ulaşabildiğinizi, ayrıca QRM miktarının azaldığını görebilirsiniz. Ölçülere sadık kaldığınız takdirde SWR değerinin 1:1 olduğu söylenmiş. SWR metrem olmadığı için ölçme şansım olmadı, ancak korka korka yaptığım ilk denemede daha önce QRM oluşan Honaz rölesinde sesimin gayet net geldiğini söyleyen TA4ABJ ve TB4PKP antenin kazancını benim için doğrulamış oldu.
 
-![Flower-Pot-Çatı](/assets/images/posts/yazi/fpot-montaj.jpg)
+![Flower-Pot-Çatı](https://rrcorgau.files.wordpress.com/2020/09/wp-1599722208442.jpg)
+
+* Örnek Çatı Montajı / Görsel [VK5LA(Andrew Willis - Andy)](https://rrc.org.au/2020/11/24/the-vk2zoi-high-gain-dual-band-flowerpot-antenna/) abimizin çalışmasına ait.
 
 Eğer SWR ölçümü yaparsanız, ve yüksek bir değer alırsanız anten üzerindeki aluminyum kısmı bir kaç milimetre aşağı ya da yukarı oynayıp doğru değeri bulduğunuz yerde sabitleyebileceğiniz yönde yorumlar yapılmış.
 
@@ -126,7 +130,7 @@ VK2ZOI Bu projedeki anteni ölçemediğini ancak diğerinden (onun kazancı 3dBd
 Buradaki anlatıma bağlı kalarak yapacağınız antenlerin fotoğraflarını bana bir şekilde iletebilirseniz yazının alt kısmında çağrı kodlarınızla birlikte yayınlamak isterim. Umarım faydalı bir anlatım olmuştur.
 Denemek isteyen arkadaşlara kolay gelsin !
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/4NES20sx_vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="315" src="https://www.youtube.com/embed/4NES20sx_vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Yukarıdaki video'da VK1PE (Peter Ellis) abimiz antenin yapımını uzunca, kendi dilinde anlatmış. Yazıya ek olarak görsel olarak fikir oluştursun derseniz izlemenizi tavsiye ederim.
 
