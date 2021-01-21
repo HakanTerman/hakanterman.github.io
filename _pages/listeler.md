@@ -55,6 +55,11 @@ Merhabaa, bu sayfa daha önce dikkatinizi çekti ise bir süredir planlanmış, 
 
 {% include gallery caption="Kitaplar" %}
 
+{: #myTable .table table-responsive}
+|Sıra|Kitap Adı|Yazarı|Yayınevi|Türü|
+|:-: |:-:      |:-:   |:-:     |:-: |
+|1   |Kitap    |Yazar |Yayınevi|Tür |
+
 ## İzlediğim Filmler
 
 {% include gallery id="gallery2" caption="Filmler" %}
