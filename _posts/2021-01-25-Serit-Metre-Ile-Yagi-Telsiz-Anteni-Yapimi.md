@@ -17,7 +17,7 @@ permalink: /teknoloji/Serit-Metre-Ile-Yagi-Telsiz-Anteni-Yapimi/
 
 ![Yagi-Anten](/assets/images/posts/yazi/yagi.jpg)
 
-# Flower Pot veya J-Pole Varken Ne Gerek var ?
+# Flower Pot veya J-Pole Varken Neden Yagi ?
 
 [Flower Pot](https://hakanterman.com/teknoloji/Flower-Pot-Telsiz-Anteni-Nasil-Yapilir/) 360 derece ve J-Pole antenler 360 dereceye yakın bir açıda çalışırken Yagi antenler sinyali bir doğrultuda toplayıp, daha uzak mevkilere veya daha küçük noktalara sinyal ulaştırabilmenize imkan sağlar. Özellikle ISS, PO-101, SO-50, AO-27, A0-91, AO-92 gibi CubeSat (Küp Uydular) üzerinden görüşmeler yapmanıza da olanak sağlayacaktır. (Bu konu bambaşka bir yazının konusu, uydu dinlemelerine uzun uzun değineceğim bir başka yazı çok yakında)
 
