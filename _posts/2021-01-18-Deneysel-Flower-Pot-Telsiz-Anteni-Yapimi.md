@@ -1,5 +1,5 @@
 ---
-title: Deneysel (İki Katlı) Flowet Pot Telsiz Anteni Yapımı
+title: Deneysel (İki Katlı) Flower Pot Telsiz Anteni Yapımı
 tags: [amatortelsiz, amatör telsiz, telsizcilik, telsiz anteni, telsiz anteni yapmak, telsiz anteni yapımı, el yapımı anten, anten yapmak, flower pot, su borusu anten, ozmak anten yapımı, diamond anten yapımı, uhf anten, vhf anten]
 header:
   teaser: /assets/images/posts/flowerpot2.jpg
