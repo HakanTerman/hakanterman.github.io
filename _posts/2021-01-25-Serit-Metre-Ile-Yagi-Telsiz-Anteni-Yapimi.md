@@ -4,7 +4,7 @@ tags: [amatortelsiz, amatör telsiz, telsizcilik, telsiz anteni, telsiz anteni y
 header:
   teaser: /assets/images/posts/yagi.jpg
   image: /assets/images/posts/yagi.jpg
-  caption: "Fotoğraf Sahibi : [Wikipedia](https://tr.wikipedia.org/wiki/Dosya:UHF_TV_Antenna_001.JPG)"
+  caption: "Fotoğraf Sahibi : [Wikipedia](https://tr.wikipedia.org/wiki/Yagi_anten)"
 category: Teknoloji
 layout: single
 toc: true
