@@ -62,7 +62,7 @@ Antenin yapımı sırasında kullanacağımız şema Filipinler'den [DW1ZWS - Ep
 
 Elimizde 110 Cmlik su borusu olduğunu var sayarak ilerlersek ;
 
-![Yagi-Sema](/assets/images/posts/yazi/yagi-sema.jpg)
+[![Yagi-Sema](/assets/images/posts/yazi/yagi-sema.jpg)](/assets/images/posts/yazi/yagi-sema.jpg)
 
 Antenin uç kısmı olarak belirlediğimiz yönden 5 cm içeriye bir çizgi çiziyoruz. Burası bizim **3.VHF** elemanımız (Şemada en sağda) olacak.
 
