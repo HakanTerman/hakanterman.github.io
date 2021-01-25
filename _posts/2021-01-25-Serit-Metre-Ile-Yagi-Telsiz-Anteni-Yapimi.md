@@ -133,7 +133,7 @@ Silikon ve yapıştırıcıların tamamen kuruduğundan emin olduktan sonra canl
 
 Kablomuzun diğer ucuna telsizinize veya elinizdeki çeviriciye uygun bir konnektör bağlayıp telsizinize bağlayabilirsiniz. Elinizde mevcut ise bir multimetre ile uçları kontrol ederek kısadevre var mı diye bakmanızda fayda var.
 
-![Yagi-Son](/assets/images/posts/yazi/yagi-son.jpg)
+![Yagi-Son](/assets/images/posts/yazi/yagi-son.jpeg)
 
 Bu aşamadan sonra antenimiz kullanıma hazır. Eğer SWR metreniz yok ve ölçüm yapmadıysanız cihazınıza bağladıktan sonra önce dinleme (RX) için kullanmaya çalışın. Çıkış (TX) yapacağınız zaman cihazınızın gücünü LOW ayara alıp öyle deneyin. Sorun çıkmazsa sonra kademeli şekilde MID ve HIGH yapıp deneme yapabilirsiniz. Uzak mevkilerde açamadığınız veya QRM'li açtığınız rölelere artık daha net girdiğinizi fark edeceksiniz. Cihazın kendi anteni ile veya Flower Pot ile girdiğiniz rölelere ise Yagi Anteninizi doğrultarak sanki vericinin yanındaymış gibi QSO yapabilirsiniz. Ayrıca bu anteni asıl yapma amacımız olan FM Repeater içeren uyduları takip edip, uluslarası QSO'lar yapabilirsiniz
 
