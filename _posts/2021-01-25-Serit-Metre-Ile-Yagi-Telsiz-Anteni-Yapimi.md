@@ -125,7 +125,7 @@ Eğer kullandığınız kablo RG-58 gibi ince bir kablo ise, kabloyu **3.VHF** e
 
 ![Yagi-Canli-Eleman](/assets/images/posts/yazi/canli-eleman.jpg)
 
-Bu kısımdan sonra uçlarımızı boruya önce japon yapıştırıcısı ile tutturuyoruz. (Dikkat : Japon yapıştırıcısı asla iki elemanın birbirine temas edeceği şekilde olmamalı, çünkü akım geçirdiği söylenmiş. İki elemanı da boruya yapıştırın ve yapıştırıcılar birbirine temas etmesin. İyice donmasını bekleyin.) Sabitlendikten sonra kesit açtığımız bölgeyi de güçsüz kalan tüm bölgeleri silikon ile doldurun. Burada az önce sağlam çıkarın dadiğim parçayı da biraz kesip küçülterek yerine yerleştirmeye çalışabilirsiniz.
+Bu kısımdan sonra uçlarımızı boruya önce japon yapıştırıcısı ile tutturuyoruz. (Dikkat : Japon yapıştırıcısı asla iki elemanın birbirine temas edeceği şekilde olmamalı, çünkü akım geçirdiği söylenmiş. İki elemanı da boruya yapıştırın ve yapıştırıcılar birbirine temas etmesin. İyice donmasını bekleyin.) Sabitlendikten sonra kesit açtığımız bölgeyi de güçsüz kalan tüm bölgeleri silikon ile doldurun. Burada az önce sağlam çıkarın diye belirttiğim parçayı da biraz kesip küçülterek yerine yerleştirmeye çalışabilirsiniz.
 
 ![Yagi-Kablosuz](/assets/images/posts/yazi/yagi-kablosuz.jpg)
 
