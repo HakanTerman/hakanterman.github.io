@@ -58,7 +58,7 @@ Antenin yapımı sırasında kullanacağımız şema Filipinler'den [DW1ZWS - Ep
 
 Öncelikle antenimizin iki uç elemanının arası minimum 91.5 cm olacak. Tutma kısmı ve uç kısımda bırakacağınız boşlukla birlikte anten için kullanacağınız destek elemanı 1 metrenin üzerinde olmalı. Ben Flower Pot antenimden kalan 1.5 metrelik borunun 40cm kısmını kestim ve kalan 110 cmlik kısmı kullandım. Tam ayarında oldu, hatta bi 10 cm daha pay verebilirmişim.
 
-###Boru İşlemleri
+### Boru İşlemleri
 
 Elimizde 110 Cmlik su borusu olduğunu var sayarak ilerlersek ;
 
@@ -82,7 +82,7 @@ En son bulduğumuz **2.UHF** elemanımızdan 10.60 cm daha sağ tarafa giderek *
 
 Bu aşamadan sonra boru üzerinde 3 siyah 5 kırmızı toplam 8 tane işaretli nokta olması gerekiyor. Bu işaretleri koyduğumuz ölçülere birebir sadık kalmamız antenimizin verimi ve SWR durumu açısından çok önemli. Maalesef ki elimizde SWR metre olmadığı için daha önce denenmiş ölçülere bağlı kalıyor, deneysel değişiklikler yapamıyoruz.
 
-###Metre İşlemleri
+### Metre İşlemleri
 
 Elimizdeki şerit metremizin vidalarını söküyoruz ve içindeki makara kısmı dağıtmadan çıkarıyoruz, otomatik sargılı kısmın iptal olduğundan emin olun lütfen. Eğer isterseniz sökmeden de yapabilirsiniz ancak keserken elinizden kaçırırsanız makara hızla dolanıp elinizi kesebilir ve ucu içine kaçacağı için yine sökmenizi gerektirebilir.
 
@@ -101,7 +101,7 @@ Bu aşamadan sonra yukarıdaki şemada belirtilen uzunluklarda elemanlarımızı
 
 ![Yagi-Canli-Eleman](/assets/images/posts/yazi/kilavuz-eleman.jpg)
 
-###Boru'ya geri dönüyoruz.
+### Boru'ya Geri Dönüyoruz
 
 Bu aşamadaki işlemler için açık hava veya havalandırma olan bir mekan kullanmanızda fayda var. Biraz duman olacak.
 Mutfak tüpü ya da tercih ettiğiniz ısı kaynağınız ile kullanılmaz hale getireceğimiz meyve bıçağımızı kızdırıyoruz. Ateş üzerinde kırmızı hale gelen bıçağımızı alıp, plastik boru üzerinde işaretlediğimiz çizgiler tam ortada kalacak şekilde boruya batırıyoruz ve karşıdan aynı hizada çıkarıyoruz.
@@ -142,8 +142,11 @@ Bu aşamadan sonra antenimiz kullanıma hazır. Eğer SWR metreniz yok ve ölç�
 ![Yagi-VHF](https://dw1zws.com/site/wp-content/uploads/2018/11/vhf.png)
 
 VHF Kazanç: 7.25dBi @ 145Mhz
+
 Sinyal Açıklığı: 114° derece
+
 Ön/Arka Sinyal Oranı: 14.1dB
+
 VSWR: 1.0:1
 
 ---
@@ -151,8 +154,11 @@ VSWR: 1.0:1
 ![Yagi-UHF](https://i1.wp.com/dw1zws.com/site/wp-content/uploads/2018/11/uhf.png?w=458&ssl=1)
 
 UHF Kazanç: 10dBi @ 440Mhz
+
 Sinyal Açıklığı: 60° derece
+
 Ön/Arka Sinyal Oranı: 14.4dB
+
 VSWR: 1.2:1
 
 Bu antenin yapımının anlatıldığı yazının orjinal dilde ve şerit metresiz olan haline de [buradan](https://dw1zws.com/build-the-3-x-5-elements-2m-70cm-dualband-yagi/) ulaşabilirsiniz.
