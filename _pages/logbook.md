@@ -23,19 +23,31 @@ gallery:
     image_path: /assets/images/odul/IK7FMQ.jpeg
     alt: "IK7FMQ ISS SWL QSL Kart"
     title: "IK7FMQ ISS SWL QSL Kart"
+  - url: /assets/images/odul/endonezya-sstv1.jpg
+    image_path: /assets/images/odul/endonezya-sstv1.jpg
+    alt: "ISS MAI-75 Endonezya SSTV Ödülü"
+    title: "ISS MAI-75 Endonezya SSTV Ödülü"
 gallery2:
   - url: /assets/images/sstv/iss-sstv-251220.jpg
     image_path: /assets/images/sstv/iss-sstv-251220.jpg
     alt: "ISS 20.Yıl SSTV Yayını"
     title: "ISS 20.Yıl SSTV Yayını"
-  - url: /assets/images/sstv/iss-sstv-261220.jpg
-    image_path: /assets/images/sstv/iss-sstv-261220.jpg
-    alt: "ISS 20.Yıl SSTV Yayını"
-    title: "ISS 20.Yıl SSTV Yayını"
-  - url: /assets/images/sstv/iss-sstv-261220.jpg
-    image_path: /assets/images/sstv/iss-sstv-261220.jpg
-    alt: "ISS 20.Yıl SSTV Yayını"
-    title: "ISS 20.Yıl SSTV Yayını"
+  - url: /assets/images/sstv/iss-sstv1-280121.jpg
+    image_path: /assets/images/sstv/iss-sstv1-280121.jpg
+    alt: "ISS MAI-75 SSTV Yayını - 1"
+    title: "ISS MAI-75 Yayını - 1"
+  - url: /assets/images/sstv/iss-sstv2-280121.jpg
+    image_path: /assets/images/sstv/iss-sstv1-280121.jpg
+    alt: "ISS MAI-75 SSTV Yayını - 2"
+    title: "ISS MAI-75 SSTV Yayını - 2"
+  - url: /assets/images/sstv/iss-sstv3-280121.jpg
+    image_path: /assets/images/sstv/iss-sstv3-280121.jpg
+    alt: "ISS MAI-75 SSTV Yayını - 3"
+    title: "ISS MAI-75 SSTV Yayını - 3"
+  - url: /assets/images/sstv/iss-sstv1-290121.jpg
+    image_path: /assets/images/sstv/iss-sstv1-290121.jpg
+    alt: "ISS MAI-75 SSTV Yayını - 4"
+    title: "ISS MAI-75 SSTV Yayını - 4"
 mapping:
   latitude: 51.101
   longitude: 0.1
