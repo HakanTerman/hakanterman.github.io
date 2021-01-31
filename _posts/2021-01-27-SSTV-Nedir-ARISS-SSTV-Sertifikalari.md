@@ -58,11 +58,11 @@ RX-SSTV uygulamasının en son sürümünü (RX-SSTV - 2.1.6) [buradan](/assets/
 
 Uygulamanın kurulumu klasik zaten, sonrasında uygulamayı açıp üst menüden Setup > RX-SSTV seçeneğine tıklıyoruz ve ayar penceremiz açılıyor. Ayarları aşağıdaki görseldeki gibi düzenliyoruz, işaretli kutuları birebir işaretliyoruz. Kutucukta yazan yazıyı kendi bilgilerinize göre düzenleyebilirsiniz, görselde TA4ADP benim çağrı işaretim KM48UM ise benim grid lokasyon bilgim. Bilmeyenler için bu konuda da çok kısa bir anlatım yakında gelecek.
 
-![RX-SSTV1](/assets/images/posts/yazi/rxsstv1.jpg)
+![RX-SSTV1](/assets/images/posts/yazi/rxsstv1.png)
 
 Ayarları tamamladıktan sonra uygulamamız kullanıma hazır şekilde beklemeye geçecek, sağ tarafta yeşil şekilde "Receiving" yazdığını görebilirsiniz. Bu durum, program bilgisayarınızın mikrofonundan bir SSTV sinyalinin alınmasını bekliyor anlamına geliyor. Bu aşamadan sonra telefonunuza kaydetmiş olduğunuz SSTV sesini bilgisayarınıza dinleterek (2-3 dakika bol kulak çınlaması içeren bir sese sabretmeniz gerekiyor) görseli çözmeye başlayabilirsiniz. Program sesi algıladığı anda çözmeye başlayacak ve görsel oluşturacaktır. Bitiminde otomatik olarak görseli kaydediyor. Eğer birden fazla görsel aldıysanız çözmeyi durdurmanıza gerek yok, otomatik olarak ikinciye geçiş yapıyor. Görsellerinizi History sekmesinde bulabilir, alt kısımdaki ok tuşları ile ileri geri gidebilirsiniz. Yine alt kısımda klasör simgesine tıklayarak ulaşabileceğiniz kayıt klasöründe dosya hallerini bulabilirsiniz. Varsayılan kayıt klasörü : (C:/RX-SSTV/History) İsterseniz görselin üzerine sağ tıklayıp "Save As" seçeneği ile farklı bir konuma da kaydetme imkanınız var.
 
-![RX-SSTV2](/assets/images/posts/yazi/rxsstv2.jpg)
+![RX-SSTV2](/assets/images/posts/yazi/rxsstv2.png)
 
 Eğer elinizde telsizinizin kulaklık çıkışına uyumlu bir aux kablonuz var ise kabloyu doğrudan bilgisayarınızın mikrofon girişine takarak hem çok fazla gürültü yapmadan hem de daha temiz bir şekilde ses aktarımı da yapabilirsiniz. Tabi sesi alırken bilgisayarınızın da yanınızda olması gerekiyor. Bu biraz uğraştırıcı.
 
