@@ -85,7 +85,7 @@ Yukarıdan aşağıya 4 seçenekli olan şıkların açıklamaları da şu şeki
 
 Ben bana uygun olan 3.seçeneği işaretledim.
 
-![Form-Polonya](/assets/images/posts/yazi/sstv-form.jpg)
+![Form-Polonya](/assets/images/posts/yazi/sstv-form.png)
 
 Formu doldurduktan sonra Upload butonuna tıklayıp gönderim gerçekleştiriyoruz. Gönderdiğimiz sertifikamız önce bir onaya tabi tutuluyor, onaylandıktan sonra [buradaki](https://www.spaceflightsoftware.com/ARISS_SSTV/) galeride yer almaya başlıyor. İsterseniz çağrı işaretinizi girerek sorgulayabilirsiniz.
 
