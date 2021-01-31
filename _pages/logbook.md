@@ -37,7 +37,7 @@ gallery2:
     alt: "ISS MAI-75 SSTV Yayını - 1"
     title: "ISS MAI-75 Yayını - 1"
   - url: /assets/images/sstv/iss-sstv2-280121.jpg
-    image_path: /assets/images/sstv/iss-sstv1-280121.jpg
+    image_path: /assets/images/sstv/iss-sstv2-280121.jpg
     alt: "ISS MAI-75 SSTV Yayını - 2"
     title: "ISS MAI-75 SSTV Yayını - 2"
   - url: /assets/images/sstv/iss-sstv3-280121.jpg
@@ -65,7 +65,7 @@ mapping:
 - DMR ID : [2862244](https://brandmeister.network/index.php?page=profile&call=TA4ADP){: .btn .btn--info}
 - DMR Repeater : [TA4ADP BM](https://brandmeister.network/?page=repeater&id=286224401){: .btn .btn--primary}
 - SWL Lisans : [TA464378](#){: .btn .btn--warning}
-- SWARL ID : [TA4---SWL](#){: .btn .btn--success}
+- SWARL ID : [TA4013SWL](http://list.swarl.org/){: .btn .btn--success}
 - APRS Harita : [APRS](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FTA4ADP-1&timerange=3600&tail=3600){: .btn .btn--inverse}
 
 {: #myTable .table table-responsive}

@@ -15,7 +15,7 @@ permalink: /teknoloji/SSTV-Nedir-ARISS-SSTV-Sertifikalari/
 
 SSTV, uzun haliyle "Slow Scan Television" yani Türkçe'ye "Yavaş Taramalı Televizyon" olarak çevirebileceğimiz bir veri aktarım metodudur. Verici tarafından RF sinyali olarak gönderilen kodlanmış sesleri bir çözücü (decoder) program kullanarak görsel hale getirmemize imkan sunar. El telsizlerimizle bile alabileceğimiz VHF/UHF sinyalleri üzerinden başka bir bağlantıya ihtiyacımız olmadan resim gönderip, resim alabilme imkanı sunar. İlk duyduğumda bana da oldukça ilginç gelmişti, hadi canım ses ile resim mi gönderilir diyebilirsiniz. Evet gönderiliyor.
 
-![Yagi-Anten](/assets/images/posts/yazi/yagi.jpg)
+![SSTV](/assets/images/sstv/iss-sstv1-290121.jpg)
 
 # Ariss SSTV Etkinlikleri
 
@@ -37,7 +37,8 @@ ISS Detector'u Android telefonunuza indirdiğinizde ayarlarına girip, amatör u
 
 Amatör radyoları açtıktan sonra uydular kısmından ISS'i işaretlemeniz ve %10 üzeri görüşlere ayarlamanız yeterli. Aşağıda gördüğünüz gibi tüm geçişler listelenecektir. Gözle görülebilen geçişlerin karşısında göz işareti mevcut, ayrıca Mag değeri de parlaklığı temsil ediyor.
 
-![ISS-Detector](/assets/images/posts/yazi/issdetector.jpg)
+![ISS-Detector](https://cdn.webtekno.com/custom/images/123145/tr-android-iss-detector-satellite-tracker-5.jpg)
+* Görsel : WebTekno
 
 Buradan gördüğümüz uygun bir geçiş saatinde elimizde telsizimiz ile dışarıya çıkıyoruz frekansımızı 145.800 Tonsuz olarak ayarlıyoruz ve yine uygulamanın gösterdiği yöne göre telsizimizi doğrultup ses almayı bekliyoruz. ISS gökyüzünde geçişini tamamladığı süre boyunca telsizden tiz ve sanki yankı yapıyormuşcasına bir ses gelmesi gerekiyor.
 
@@ -124,6 +125,7 @@ Endonezya Amatör Telsizcilerinin bir araya gelerek kurdukları, uydu takibi ve 
 Şili'ye ait bir Amatör Derneğin SSTV etkinliklerinde verdiği sertifikalar mevcut. Neredeyse hiç görmediğim sertifikaları yine TA5AHO - Hamit Bey'in koleksiyonunda görüp öyle ulaştım bu derneğe. Maalesef ki son etkinlikte bir çok dernek gibi burası da sertifika göndermedi, ve buradan da sertifikam yok. Ancak burada da sistem Endonezya'nınki gibi aynı. Derneğin duyuru yayınladığı güncel etkinlikleri [buradan](http://www.ce4ylc.cl/category/concursos/) takip edebilirsiniz. İlgilendiğiniz yarışmanın duyurulduğu yazıya tıklayıp detaylı bilgilere ulaşabilir, duruma göre orada belirtilen formatta olmak şartıyla "ce4ylc@gmail.com" adresine mail atarak başvuru yapabilirsiniz.
 
 ![TA5AHO-Şili](https://s3.amazonaws.com/files.qrz.com/o/ta5aho/RED.jpg)
+* Görsel : TA5AHO - A.Hamit ÖTE
 
 ## R4UAB - Rusya Amatör Radyo Topluluğu
 
@@ -132,6 +134,9 @@ Burası da Rusya'daki bir topluluğa ait Amatör Telsizcilik portalı. Amatör t
 yayınlanacağı belirtilmiş.
 
 ![TA5AHO-Rusya](https://s3.amazonaws.com/files.qrz.com/o/ta5aho/ISS_RU.jpg)
+* Görsel : TA5AHO - A.Hamit ÖTE
+
+---
 
 Şu ana kadar bulabildiğim tüm SSTV değerlendirme sistemleri bunlar. Bunların dışında, eğer bu işi gerçekten zevk için yapıyor ve serfilemek istiyorsanız QRZ.com sayfanızda da sergileyebilirsiniz. Oldukça ilgi çekici oluyor. Ayrıca bildiğiniz SSTV gönderimi yapılabilecek dernekler var ise lütfen bana yorum ile ya da iletişim seçeneklerimin herhangi biri ile iletin. Biz de yazıya ekleyelim, TA'yı o sayfalarda da temsil etme şansımız olsun.
 
