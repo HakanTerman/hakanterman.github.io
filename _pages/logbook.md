@@ -27,6 +27,10 @@ gallery:
     image_path: /assets/images/odul/endonezya-sstv1.jpg
     alt: "ISS MAI-75 Endonezya SSTV Ödülü"
     title: "ISS MAI-75 Endonezya SSTV Ödülü"
+  - url: /assets/images/odul/inspace-uye.jpeg
+    image_path: /assets/images/odul/inspace-uye.jpeg
+    alt: "InSpaceClub - Endonezya Üyelik Belgesi"
+    title: "InSpaceClub - Endonezya Üyelik Belgesi"
 gallery2:
   - url: /assets/images/sstv/iss-sstv-251220.jpg
     image_path: /assets/images/sstv/iss-sstv-251220.jpg
