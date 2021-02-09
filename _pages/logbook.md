@@ -80,23 +80,15 @@ mapping:
 - SWARL ID : [TA4013SWL](http://list.swarl.org/){: .btn .btn--success}
 - APRS Harita : [APRS](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FTA4ADP-1&timerange=3600&tail=3600){: .btn .btn--inverse}
 
+<iframe align="top" frameborder="0" height="350" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4ADP/" width="875"></iframe>
+
+* SWL Dinleme Kayıtları
+
 {: #myTable .table table-responsive}
 |Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke  |Çağrı&nbsp;İşareti|Operatör&nbsp;Adı |Op.Konumu          |Mod |Band |Konumum |Tür |Not              |
 |:-: |:-:                    |:-:   |:-:               |:-:               |:-:                |:-: |:-:  |:-:     |:-: |:-:              |
-|1   |26/11/2020-13:45       |:tr:  |TA4ACQ            |Kaan Çelik        |Merkez&nbsp;Denizli|FM  |UHF  |KM48UM  |HAM |İlk&nbsp;QSO     |
-|2   |27/11/2020-20:50       |:tr:  |TA4ABJ            |Sercan Eygi       |Bekilli Denizli    |FM  |UHF  |KM48UM  |HAM |Honaz Röle       |
-|3   |28/11/2020-17:38       |:tr:  |TA4MSO            |Muhammet Soydal   |Muratpaşa Antalya  |ECHO|ECHO |KM48UM  |HAM |Antalya&nbsp;Echo|
-|4   |03/12/2020-22:55       |:tr:  |TB3CFY            |Fehmi Yakıcılar   |Mobil Uşak         |FM  |VHF  |KM48UM  |HAM |Uşak Röle        |
-|5   |03/12/2020-23:00       |:tr:  |TA4IBH            |Halil Kuzu        |Merkez Uşak        |FM  |VHF  |KM48UM  |HAM |Uşak Röle        |
-|6   |15/12/2020-20:20       |:tr:  |TA4PKP            |Erkin Mercan      |Merkez Denizli     |FM  |UHF  |KM48UM  |HAM |Honaz Röle       |
-|7   |22/12/2020-18:55       |:tr:  |TA4PKP            |Erkin Mercan      |Merkez Denizli     |FM  |UHF  |KM48UM  |HAM |Honaz Röle       |
-|8   |27/12/2020-21:30       |:tr:  |YM2KDZ            |DARD - Duzce      |Düzce              |ECHO|ECHO |KM48UM  |HAM |Rutin Çevrim     |
-|9   |27/12/2020-23:00       |:tr:  |TA3AEQ            |Ali Berkay Özkan  |Çanakkale          |ECHO|ECHO |KM48UM  |HAM |Echolink         |
-|10  |02/01/2021-02:10       |:de:  |DL6KBG            |Oliver Goldenstein|Germany            |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
-|11  |02/01/2021-02:11       |:it:  |IK7FMQ            |Gabriele Albanese |Italy              |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
-|12  |03/01/2021-20:20       |:tr:  |TA4SAA            |Ahmet Ali Göz     |Denizli            |FM  |UHF  |KM48UM  |HAM |Honaz Röle       |
-|13  |03/01/2021-20:20       |:tr:  |TA7ACD            |Mehmet            |Sivas              |DMR |DMR  |KM48UM  |HAM |TG&nbsp;2861766 |
-|14  |04/01/2021-22:30       |:tr:  |TA4AVK            |Veli Kuru         |Merkez Uşak        |FM  |VHF  |KM48UM  |HAM |Uşak Röle        |
+|1  |02/01/2021-02:10        |:de:  |DL6KBG            |Oliver Goldenstein|Germany            |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
+|2  |02/01/2021-02:11        |:it:  |IK7FMQ            |Gabriele Albanese |Italy              |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
 
 <script src="/assets/leaflet/L.Maidenhead.js"></script>
 <script src="/assets/leaflet/leafembed.js"></script>
@@ -117,7 +109,6 @@ jQuery(document).ready(function ($) {
 </script>
 <div id="map" class="map map-home" style="height: 300px; width: 875px; margin-top: 50px"></div>
 <br />
-<iframe align="top" frameborder="0" height="250" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4ADP/" width="875"></iframe>
 
 ### QSL Kart, Sertifika ve Ödüller
 
