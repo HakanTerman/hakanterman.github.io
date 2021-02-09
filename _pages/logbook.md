@@ -31,6 +31,10 @@ gallery:
     image_path: /assets/images/odul/inspace-uye.jpeg
     alt: "InSpaceClub - Endonezya Üyelik Belgesi"
     title: "InSpaceClub - Endonezya Üyelik Belgesi"
+  - url: /assets/images/odul/itupsat1-ta4adp.jpg
+    image_path: /assets/images/odul/itupsat1-ta4adp.jpg
+    alt: "ITUpSat1 - 10. Yıl Dinleme Sertifikası"
+    title: "ITUpSat1 - 10. Yıl Dinleme Sertifikası"
 gallery2:
   - url: /assets/images/sstv/iss-sstv-251220.jpg
     image_path: /assets/images/sstv/iss-sstv-251220.jpg
