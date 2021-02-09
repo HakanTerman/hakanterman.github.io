@@ -35,6 +35,10 @@ gallery:
     image_path: /assets/images/odul/itupsat1-ta4adp.jpg
     alt: "ITUpSat1 - 10. Yıl Dinleme Sertifikası"
     title: "ITUpSat1 - 10. Yıl Dinleme Sertifikası"
+  - url: /assets/images/odul/7462-TA4ADP.jpg
+    image_path: /assets/images/odul/7462-TA4ADP.jpg
+    alt: "European Ros Club Sertifikası"
+    title: "European Ros Club Sertifikası"
 gallery2:
   - url: /assets/images/sstv/iss-sstv-251220.jpg
     image_path: /assets/images/sstv/iss-sstv-251220.jpg
