@@ -73,17 +73,10 @@ mapping:
       longitude: -10
 ---
 
-- Çağrı İşareti : [TA4ADP](https://www.qrz.com/db/TA4ADP){: .btn .btn--danger}
-- DMR ID : [2862244](https://brandmeister.network/index.php?page=profile&call=TA4ADP){: .btn .btn--info}
-- DMR Repeater : [TA4ADP BM](https://brandmeister.network/?page=repeater&id=286224401){: .btn .btn--primary}
-- SWL Lisans : [TA464378](#){: .btn .btn--warning}
-- SWARL ID : [TA4013SWL](http://list.swarl.org/){: .btn .btn--success}
-- APRS Harita : [APRS](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FTA4ADP-1&timerange=3600&tail=3600){: .btn .btn--inverse}
-
 {: #myTable .table table-responsive}
 |Çağrı İşareti|DMR ID|DMR Repeater  |SWL Lisans|SWARL ID|APRS Harita |
 |:-:          |:-:   |:-:           |:-:       |:-:     |:-:         |
-|[TA4ADP](https://www.qrz.com/db/TA4ADP){: .btn .btn--danger}|:-:   |:-:           |:-:       |:-:     |:-:         |
+|[TA4ADP](https://www.qrz.com/db/TA4ADP){: .btn .btn--danger}|[2862244](https://brandmeister.network/index.php?page=profile&call=TA4ADP){: .btn .btn--info}   |[TA4ADP BM](https://brandmeister.network/?page=repeater&id=286224401){: .btn .btn--primary}           |[TA464378](#){: .btn .btn--warning}       |[TA4013SWL](http://list.swarl.org/){: .btn .btn--success}     |[APRS](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FTA4ADP-1&timerange=3600&tail=3600){: .btn .btn--inverse}         |
 
 <iframe align="top" frameborder="0" height="350" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4ADP/" width="875"></iframe>
 
