@@ -73,7 +73,7 @@ mapping:
       longitude: -10
 ---
 
-{: #myTable .table table-responsive}
+{: #myTable1 .table table-responsive}
 |Çağrı İşareti|DMR ID|DMR Repeater  |SWL Lisans|SWARL ID|APRS Harita |
 |:-:          |:-:   |:-:           |:-:       |:-:     |:-:         |
 |[TA4ADP](https://www.qrz.com/db/TA4ADP){: .btn .btn--danger}|[2862244](https://brandmeister.network/index.php?page=profile&call=TA4ADP){: .btn .btn--info}   |[TA4ADP BM](https://brandmeister.network/?page=repeater&id=286224401){: .btn .btn--primary}           |[TA464378](#){: .btn .btn--warning}       |[TA4013SWL](http://list.swarl.org/){: .btn .btn--success}     |[APRS](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FTA4ADP-1&timerange=3600&tail=3600){: .btn .btn--inverse}         |
