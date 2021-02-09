@@ -107,7 +107,7 @@ jQuery(document).ready(function ($) {
                     initmap(grid);
   });
 </script>
-<div id="map" class="map map-home" style="height: 300px; width: 875px; margin-top: 50px"></div>
+<div id="map" class="map map-home" style="height: 300px; width: 854px; margin-top: 50px"></div>
 <br />
 
 ### QSL Kart, Sertifika ve Ödüller
