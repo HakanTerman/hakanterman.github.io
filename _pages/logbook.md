@@ -80,6 +80,11 @@ mapping:
 - SWARL ID : [TA4013SWL](http://list.swarl.org/){: .btn .btn--success}
 - APRS Harita : [APRS](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FTA4ADP-1&timerange=3600&tail=3600){: .btn .btn--inverse}
 
+{: #myTable .table table-responsive}
+|Çağrı İşareti|DMR ID|DMR Repeater  |SWL Lisans|SWARL ID|APRS Harita |
+|:-:          |:-:   |:-:           |:-:       |:-:     |:-:         |
+|[TA4ADP](https://www.qrz.com/db/TA4ADP){: .btn .btn--danger}|:-:   |:-:           |:-:       |:-:     |:-:         |
+
 <iframe align="top" frameborder="0" height="350" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4ADP/" width="875"></iframe>
 
 * SWL Dinleme Kayıtları
