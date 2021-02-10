@@ -19,10 +19,6 @@ gallery:
     image_path: /assets/images/odul/qrv73.png
     alt: "QRV73 Katılım Sertifikası"
     title: "QRV73 Katılım Sertifikası"
-  - url: /assets/images/odul/IK7FMQ.jpeg
-    image_path: /assets/images/odul/IK7FMQ.jpeg
-    alt: "IK7FMQ ISS SWL QSL Kart"
-    title: "IK7FMQ ISS SWL QSL Kart"
   - url: /assets/images/odul/endonezya-sstv1.jpg
     image_path: /assets/images/odul/endonezya-sstv1.jpg
     alt: "ISS MAI-75 Endonezya SSTV Ödülü"
@@ -68,6 +64,15 @@ gallery2:
     image_path: /assets/images/sstv/iss-sstv1-290121.jpg
     alt: "ISS MAI-75 SSTV Yayını - 4"
     title: "ISS MAI-75 SSTV Yayını - 4"
+gallery3:
+  - url: /assets/images/qsl/IK7FMQ.jpeg
+    image_path: /assets/images/qsl/IK7FMQ.jpeg
+    alt: "IK7FMQ ISS SWL QSL Kart"
+    title: "IK7FMQ ISS SWL QSL Kart"
+  - url: /assets/images/qsl/TB4HRN.jpeg
+    image_path: /assets/images/qsl/TB4HRN.jpeg
+    alt: "TB4HRN ISS SWL QSL Kart"
+    title: "TB4HRN ISS SWL QSL Kart"
 mapping:
   latitude: 51.101
   longitude: 0.1
@@ -93,10 +98,13 @@ mapping:
 * SWL Dinleme Kayıtları
 
 {: #myTable .table table-responsive}
-|Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke  |Çağrı&nbsp;İşareti|Operatör&nbsp;Adı |Op.Konumu          |Mod |Band |Konumum |Tür |Not              |
-|:-: |:-:                    |:-:   |:-:               |:-:               |:-:                |:-: |:-:  |:-:     |:-: |:-:              |
-|1  |02/01/2021-02:10        |:de:  |DL6KBG            |Oliver Goldenstein|Germany            |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
-|2  |02/01/2021-02:11        |:it:  |IK7FMQ            |Gabriele Albanese |Italy              |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
+|Sıra|Tarih/Saat&nbsp;(UTC+3)|Ülke     |Çağrı&nbsp;İşareti|Operatör&nbsp;Adı |Op.Konumu  |Mod |Band |Konumum |Tür |Not              |
+|:-: |:-:                    |:-:      |:-:               |:-:               |:-:        |:-: |:-:  |:-:     |:-: |:-:              |
+|1  |02/01/2021-02:10        |:de:     |DL6KBG            |Oliver Goldenstein|Germany    |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
+|2  |02/01/2021-02:11        |:it:     |IK7FMQ            |Gabriele Albanese |Italy      |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
+|3  |13/01/2021-21:25        |:tr:     |TB4HRN            |Harun Mert İğdeci |Antalya,TR |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
+|4  |13/01/2021-21:25        |:ukraine:|UX0DA             |Slava (Yaroslav)  |Ukraine    |FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
+|5  |13/01/2021-21:26        |:tr:     |TA1NDA            |Alper Durmuş      |Tekirdağ,TR|FM  |UHF  |KM48UM  |SWL |ISS Repeater     |
 
 <script src="/assets/leaflet/L.Maidenhead.js"></script>
 <script src="/assets/leaflet/leafembed.js"></script>
@@ -118,9 +126,13 @@ jQuery(document).ready(function ($) {
 <div id="map" class="map map-home" style="height: 300px; width: 854px; margin-top: 50px"></div>
 <br />
 
-### QSL Kart, Sertifika ve Ödüller
+### Sertifika ve Ödüller
 
 {% include gallery caption="Amatör Telsizcilik maceramda bu güne kadar aldığım belgeler." %}
+
+### QSL Kartlar
+
+{% include gallery id="gallery3" caption="İletişime geçtiğim, dinlediğim radyo amatörlerinden aldığım QSL kartlar" %}
 
 ### Aldığım SSTV Yayınları
 
