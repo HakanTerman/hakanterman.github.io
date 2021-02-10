@@ -39,6 +39,14 @@ gallery:
     image_path: /assets/images/odul/7462-TA4ADP.jpg
     alt: "European Ros Club Sertifikası"
     title: "European Ros Club Sertifikası"
+  - url: /assets/images/odul/116PAT115.png
+    image_path: /assets/images/odul/116PAT115.png
+    alt: "PAT Grup Üyelik Sertifikası"
+    title: "PAT Grup Üyelik Sertifikası"
+  - url: /assets/images/odul/EPC-TA4ADP.jpg
+    image_path: /assets/images/odul/EPC-TA4ADP.jpg
+    alt: "European Phase Shift Keying Club Sertifikası"
+    title: "European Phase Shift Keying Club Sertifikası"
 gallery2:
   - url: /assets/images/sstv/iss-sstv-251220.jpg
     image_path: /assets/images/sstv/iss-sstv-251220.jpg
