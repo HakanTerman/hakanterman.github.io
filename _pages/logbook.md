@@ -15,6 +15,14 @@ gallery:
     image_path: /assets/images/odul/iss20year.jpg
     alt: "ISS 20.Yıl SSTV Ödülü"
     title: "ISS 20.Yıl SSTV Ödülü"
+  - url: /assets/images/odul/116EK013.jpg
+    image_path: /assets/images/odul/116EK013.jpg
+    alt: "Echo Kilo DX Topluluğu Sertifikası"
+    title: "Echo Kilo DX Topluluğu Sertifikası"
+  - url: /assets/images/odul/Dolphins-TA4ADP.jpg
+    image_path: /assets/images/odul/Dolphins-TA4ADP.jpg
+    alt: "Dolphins Radio Club Sertifikası"
+    title: "Dolphins Radio Club Sertifikası"
   - url: /assets/images/odul/qrv73.png
     image_path: /assets/images/odul/qrv73.png
     alt: "QRV73 Katılım Sertifikası"
@@ -43,6 +51,14 @@ gallery:
     image_path: /assets/images/odul/EPC-TA4ADP.jpg
     alt: "European Phase Shift Keying Club Sertifikası"
     title: "European Phase Shift Keying Club Sertifikası"
+  - url: /assets/images/odul/TA4ADP-BCS.jpg
+    image_path: /assets/images/odul/TA4ADP-BCS.jpg
+    alt: "Belgium SSTV Club Sertifikası"
+    title: "Belgium SSTV Club Sertifikası"
+  - url: /assets/images/odul/FeldHell-TA4ADP.jpg
+    image_path: /assets/images/odul/FeldHell-TA4ADP.jpg
+    alt: "Feld Hell Radio Club Sertifikası"
+    title: "Feld Hell Radio Club Sertifikası"
 gallery2:
   - url: /assets/images/sstv/iss-sstv-251220.jpg
     image_path: /assets/images/sstv/iss-sstv-251220.jpg
