@@ -59,6 +59,10 @@ gallery:
     image_path: /assets/images/odul/FeldHell-TA4ADP.jpg
     alt: "Feld Hell Radio Club Sertifikası"
     title: "Feld Hell Radio Club Sertifikası"
+  - url: /assets/images/odul/TA4ADP-LU4DLL.jpg
+    image_path: /assets/images/odul/TA4ADP-LU4DLL.jpg
+    alt: "LU4DLL SSTV Sertifikası"
+    title: "LU4DLL SSTV Sertifikası"
 gallery2:
   - url: /assets/images/sstv/iss-sstv-251220.jpg
     image_path: /assets/images/sstv/iss-sstv-251220.jpg
