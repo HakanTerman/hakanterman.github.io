@@ -93,6 +93,10 @@ gallery3:
     image_path: /assets/images/qsl/TB4HRN.jpeg
     alt: "TB4HRN ISS SWL QSL Kart"
     title: "TB4HRN ISS SWL QSL Kart"
+  - url: /assets/images/qsl/4LOVE.jpeg
+    image_path: /assets/images/qsl/4LOVE.jpeg
+    alt: "4LOVE SO-50 SWL QSL Kart"
+    title: "4LOVE SO-50 SWL QSL Kart"
 mapping:
   latitude: 51.101
   longitude: 0.1
