@@ -4,7 +4,7 @@ title: ""
 tags: [hakanterman, hakan terman kimdir, hakan terman, terman hakan]
 excerpt: "Hakan TERMAN'a ait Kişisel Web Sitesi / Blog - Detaylı bilgiler, Özgeçmiş, CV ve aynı zamanda takip etmek isteyebileceğiniz bir blog içerir."
 layout: single
-modified: 2020-04-12T04:10:00.573882-04:00
+modified: 2021-04-07T23:55:00.573882-04:00
 header:
   image: /assets/images/CVHakan.jpg
   caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
@@ -101,6 +101,10 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 
 ### :scroll: Sertifikalar
 
+* 01/2021 - Geleceğe Hazırlık Sertifika Programı - **Turkcell**
+* 11/2020 - Amatör Telsiz Operatörü (TA4ADP) - **Kıyı Emniyeti Genel Müdürlüğü**
+* 09/2020 - IHA - 1 - Sportif / Amatör - **Sivil Havacılık Genel Müdürlüğü**
+* 04/2017 - IHA - 0 - Sportif / Amatör - **Sivil Havacılık Genel Müdürlüğü**
 * 12/2016 - TEB KOBİ TV Online Eğitim Katılım Belgesi - **TEB**
 * 08/2016 - Web Programlama 301 - **Turkcell Geleceği Yazanlar**
 * 08/2016 - Web Programlama 201 - **Turkcell Geleceği Yazanlar**
