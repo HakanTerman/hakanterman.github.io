@@ -36,18 +36,22 @@ gallery2:
     alt: "Fog in the trees"
     title: "Image 3"
 gallery3:
-  - url: https://flic.kr/p/8a6Ven
-    image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
-    alt: "Black and grays with a hint of green"
-    title: "Image 1"
-  - url: https://flic.kr/p/8a738X
-    image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
-    alt: "Made for open text placement"
-    title: "Image 2"
-  - url: https://flic.kr/p/8a6VXP
-    image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
-    alt: "Fog in the trees"
-    title: "Image 3"
+  - url: /assets/images/liste/chernobyl.jpeg
+    image_path: /assets/images/liste/chernobyl.jpeg
+    alt: "Chernobyl Dizisi - HBO"
+    title: "Chernobyl Dizisi"
+  - url: /assets/images/liste/you.jpeg
+    image_path: /assets/images/liste/you.jpeg
+    alt: "You Dizisi - Netflix"
+    title: "You Dizisi"
+  - url: /assets/images/liste/outpost.jpeg
+    image_path: /assets/images/liste/outpost.jpeg
+    alt: "The Outpost Dizisi - Syfy"
+    title: "The Outpost Dizisi"
+  - url: /assets/images/liste/therain.jpeg
+    image_path: /assets/images/liste/therain.jpeg
+    alt: "The Rain Dizisi - Netflix"
+    title: "The Rain Dizisi"
 ---
 Merhabaa, bu sayfa daha önce dikkatinizi çekti ise bir süredir planlanmış, temelleri atılmış ancak bir türlü çalışır hale gelmemiş durumda bekliyordu. Bugün biraz düzenlemek istedim. Aşağıda sırası ile son dönemlerde okuduğum kitaplar, izlediğim filmler ve izlediğim diziler yer alacak. 3'erli sıralar halinde aşağıya doğru uzayan görseller ve aralarında yorumlarımı görebileceksiniz. Hem izlemek istediğiniz şeyler hakkında fikir almak isterseniz belki arama motorlarından buralara yolunuz düşer, tanışırız, hem de ben izlediklerimin ve okuduklarımın bir kaydını tutmuş olurum diye düşündüm.
 
