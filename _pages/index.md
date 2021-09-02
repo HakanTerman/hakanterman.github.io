@@ -4,7 +4,7 @@ title: ""
 tags: [hakanterman, hakan terman kimdir, hakan terman, terman hakan]
 excerpt: "Hakan TERMAN'a ait Kişisel Web Sitesi / Blog - Detaylı bilgiler, Özgeçmiş, CV ve aynı zamanda takip etmek isteyebileceğiniz bir blog içerir."
 layout: single
-modified: 2021-04-07T23:55:00.573882-04:00
+modified: 2021-09-02T19:10:00.573882-04:00
 header:
   image: /assets/images/CVHakan.jpg
   caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
@@ -69,7 +69,7 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 
 ### :mortar_board: Eğitim
 
-* 2017 - Bugün - Bilgisayar Teknolojisi ve Bilişim Sistemleri(CTIS) - **[Trakya Üniversitesi](https://trakya.edu.tr/)**
+* 2017 - 2021 - Bilgisayar Teknolojisi ve Bilişim Sistemleri(CTIS) - **[Trakya Üniversitesi](https://trakya.edu.tr/)**
 * 2017 - 2020 - Yönetim Bilişim Sistemleri - **[Anadolu Üniversitesi](https://anadolu.edu.tr/)**
 * 2016 - 2017 - Bilişim Sistemleri Mühendisliği (Terk) - **[Yakın Doğu Üniversitesi](https://neu.edu.tr/)**
 * 2014 - 2016 - Bilgisayar Programcılığı - **[Uşak Üniversitesi](https://usak.edu.tr/)**
@@ -88,6 +88,7 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 * MySQL
 * PHP
 * Python
+* Aruba Network
 
 ### :bulb: Projeler
 
