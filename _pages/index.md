@@ -4,7 +4,7 @@ title: ""
 tags: [hakanterman, hakan terman kimdir, hakan terman, terman hakan]
 excerpt: "Hakan TERMAN'a ait Kişisel Web Sitesi / Blog - Detaylı bilgiler, Özgeçmiş, CV ve aynı zamanda takip etmek isteyebileceğiniz bir blog içerir."
 layout: single
-modified: 2021-09-02T19:10:00.573882-04:00
+modified: 2021-10-13T19:10:00.573882-04:00
 header:
   image: /assets/images/CVHakan.jpg
   caption: "Fotoğraf Sahibi : [Jozef Polc](https://500px.com/halfpoint)"
@@ -57,7 +57,7 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 
 ### :man_office_worker: Deneyim
 
-* 04/2021 - Bugün - Bilgi İşlem **[Rixos Premium Bodrum](https://www.rixos.com/tr/hotel-resort/rixos-premium-bodrum)**
+* 04/2021 - 10/2021 - Bilgi İşlem **[Rixos Premium Bodrum](https://www.rixos.com/tr/hotel-resort/rixos-premium-bodrum)**
 * 06/2019 - 08/2019 - Bilgi İşlem Stajı **[T.C Sivaslı Belediyesi](http://sivasli.bel.tr/)**
 * 07/2015 - 08/2015 - Bilgi İşlem Stajı **[T.C Sağlık Bakanlığı - Sivaslı Devlet Hastanesi](https://sivaslidh.saglik.gov.tr/)**
 * 02/2011 - Bugün - Web İçerik Yönetimi  **Freelance**
