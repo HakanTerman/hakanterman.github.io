@@ -63,6 +63,14 @@ gallery:
     image_path: /assets/images/odul/TA4ADP-LU4DLL.jpg
     alt: "LU4DLL SSTV Sertifikası"
     title: "LU4DLL SSTV Sertifikası"
+  - url: /assets/images/odul/sattrac-sstv.jpg
+    image_path: /assets/images/odul/sattrac-sstv.jpg
+    alt: "Sattrac SSTV Sertifikası"
+    title: "Sattrac SSTV Sertifikası"
+  - url: /assets/images/odul/astrac-sstv.jpg
+    image_path: /assets/images/odul/astrac-sstv.jpg
+    alt: "Astrac SSTV Sertifikası"
+    title: "Astrac SSTV Sertifikası"
   - url: /assets/images/odul/Ariss-180115.jpg
     image_path: /assets/images/odul/Ariss-180115.jpg
     alt: "Ariss Haziran 2021 SSTV Ödülü"
@@ -75,14 +83,6 @@ gallery:
     image_path: /assets/images/odul/inspace-platinum.jpg
     alt: "InSpaceClub - Ariss SSTV Platinum Ödülü"
     title: "InSpaceClub - Ariss SSTV Platinum Ödülü"
-  - url: /assets/images/odul/sattrac-sstv.jpg
-    image_path: /assets/images/odul/sattrac-sstv.jpg
-    alt: "Sattrac SSTV Sertifikası"
-    title: "Sattrac SSTV Sertifikası"
-  - url: /assets/images/odul/astrac-sstv.jpg
-    image_path: /assets/images/odul/astrac-sstv.jpg
-    alt: "Astrac SSTV Sertifikası"
-    title: "Astrac SSTV Sertifikası"
   - url: /assets/images/odul/inspace-ariss.jpg
     image_path: /assets/images/odul/inspace-ariss.jpg
     alt: "InSpaceClub - Ariss SSTV Sertifikası"
