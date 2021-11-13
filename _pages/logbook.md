@@ -6,7 +6,7 @@ excerpt: "Hakan TERMAN - Amatör Radyo QSO Veritabanı"
 layout: collection
 collection: portfolio
 entries_layout: grid
-modified: 2020-12-03T23:55:07.573882-04:00
+modified: 2021-11-13T03:25:07.573882-04:00
 header:
   image: /assets/images/logbook.jpg
   caption: "Fotoğraf Sahibi : [Miguel MrDJ](https://500px.com/ec1dj)"
@@ -63,6 +63,30 @@ gallery:
     image_path: /assets/images/odul/TA4ADP-LU4DLL.jpg
     alt: "LU4DLL SSTV Sertifikası"
     title: "LU4DLL SSTV Sertifikası"
+  - url: /assets/images/odul/Ariss-180115.jpg
+    image_path: /assets/images/odul/Ariss-180115.jpg
+    alt: "Ariss Haziran 2021 SSTV Ödülü"
+    title: "Ariss Haziran 2021 SSTV Ödülü"
+  - url: /assets/images/odul/Ariss-182231.jpg
+    image_path: /assets/images/odul/Ariss-182231.jpg
+    alt: "Ariss Haziran 2021 SSTV Ödülü"
+    title: "Ariss Haziran 2021 SSTV Ödülü"
+  - url: /assets/images/odul/inspace-platinum.jpg
+    image_path: /assets/images/odul/inspace-platinum.jpg
+    alt: "InSpaceClub - Ariss SSTV Platinum Ödülü"
+    title: "InSpaceClub - Ariss SSTV Platinum Ödülü"
+  - url: /assets/images/odul/sattrac-sstv.jpg
+    image_path: /assets/images/odul/sattrac-sstv.jpg
+    alt: "Sattrac SSTV Sertifikası"
+    title: "Sattrac SSTV Sertifikası"
+  - url: /assets/images/odul/astrac-sstv.jpg
+    image_path: /assets/images/odul/astrac-sstv.jpg
+    alt: "Astrac SSTV Sertifikası"
+    title: "Astrac SSTV Sertifikası"
+  - url: /assets/images/odul/inspace-ariss.jpg
+    image_path: /assets/images/odul/inspace-ariss.jpg
+    alt: "InSpaceClub - Ariss SSTV Sertifikası"
+    title: "InSpaceClub - Ariss SSTV Sertifikası"
 gallery2:
   - url: /assets/images/sstv/iss-sstv-251220.jpg
     image_path: /assets/images/sstv/iss-sstv-251220.jpg
@@ -84,6 +108,46 @@ gallery2:
     image_path: /assets/images/sstv/iss-sstv1-290121.jpg
     alt: "ISS MAI-75 SSTV Yayını - 4"
     title: "ISS MAI-75 SSTV Yayını - 4"
+  - url: /assets/images/sstv/2021-06-21_18.26.28_TA4ADP_KM48UM.jpg
+    image_path: /assets/images/sstv/2021-06-21_18.26.28_TA4ADP_KM48UM.jpg
+    alt: "ISS Haziran-2021 SSTV Yayını"
+    title: "ISS Haziran-2021 SSTV Yayını"
+  - url: /assets/images/sstv/2021-06-21_18.28.51_TA4ADP_KM48UM.jpg
+    image_path: /assets/images/sstv/2021-06-21_18.28.51_TA4ADP_KM48UM.jpg
+    alt: "ISS Haziran-2021 SSTV Yayını"
+    title: "ISS Haziran-2021 SSTV Yayını"
+  - url: /assets/images/sstv/2021-06-22_19.40.12_TA4ADP_KM37RC.jpg
+    image_path: /assets/images/sstv/2021-06-22_19.40.12_TA4ADP_KM37RC.jpg
+    alt: "ISS Haziran-2021 SSTV Yayını"
+    title: "ISS Haziran-2021 SSTV Yayını"
+  - url: /assets/images/sstv/2021-06-22_19.44.56_TA4ADP_KM37RC.jpg
+    image_path: /assets/images/sstv/2021-06-22_19.44.56_TA4ADP_KM37RC.jpg
+    alt: "ISS Haziran-2021 SSTV Yayını"
+    title: "ISS Haziran-2021 SSTV Yayını"
+  - url: /assets/images/sstv/2021-06-22_19.47.56_TA4ADP_KM37RC.jpg
+    image_path: /assets/images/sstv/2021-06-22_19.47.56_TA4ADP_KM37RC.jpg
+    alt: "ISS Haziran-2021 SSTV Yayını"
+    title: "ISS Haziran-2021 SSTV Yayını"
+  - url: /assets/images/sstv/2021-06-27_11.54.12_TA4ADP_KM48UM.jpg
+    image_path: /assets/images/sstv/2021-06-27_11.54.12_TA4ADP_KM48UM.jpg
+    alt: "ISS Haziran-2021 SSTV Yayını"
+    title: "ISS Haziran-2021 SSTV Yayını"
+  - url: /assets/images/sstv/2021-06-27_11.56.29_TA4ADP_KM48UM.jpg
+    image_path: /assets/images/sstv/2021-06-27_11.56.29_TA4ADP_KM48UM.jpg
+    alt: "ISS Haziran-2021 SSTV Yayını"
+    title: "ISS Haziran-2021 SSTV Yayını"
+  - url: /assets/images/sstv/2021-06-27_11.58.41_TA4ADP_KM48UM.jpg
+    image_path: /assets/images/sstv/2021-06-27_11.58.41_TA4ADP_KM48UM.jpg
+    alt: "ISS Haziran-2021 SSTV Yayını"
+    title: "ISS Haziran-2021 SSTV Yayını"
+  - url: /assets/images/sstv/2021-08-11_18.54.19_TA4ADP_KM37RC.jpg
+    image_path: /assets/images/sstv/2021-08-11_18.54.19_TA4ADP_KM37RC.jpg
+    alt: "ISS Ağustos-2021 SSTV Yayını"
+    title: "ISS Ağustos-2021 SSTV Yayını"
+  - url: /assets/images/sstv/2021-08-11_18.56.40_TA4ADP_KM37RC.jpg
+    image_path: /assets/images/sstv/2021-08-11_18.56.40_TA4ADP_KM37RC.jpg
+    alt: "ISS Ağustos-2021 SSTV Yayını"
+    title: "ISS Ağustos-2021 SSTV Yayını"
 gallery3:
   - url: /assets/images/qsl/IK7FMQ.jpeg
     image_path: /assets/images/qsl/IK7FMQ.jpeg
