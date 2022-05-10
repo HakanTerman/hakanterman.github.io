@@ -1,7 +1,7 @@
 ---
 permalink: /logbook/
-title: "TA4ADP - LogBook"
-tags: [TA4ADP Nedir, TA4ADP Kimdir, HakanTerman Logbook, HakanTerman, Amatör Telsizcilikte TA4ADP kime aittir, Hakan TERMAN kimdir, Hakan TERMAN telsiz]
+title: "TA4HKN - LogBook"
+tags: [TA4HKN Nedir, TA4HKN Kimdir, TA4ADP Nedir, TA4ADP Kimdir, HakanTerman Logbook, HakanTerman, Amatör Telsizcilikte TA4HKN kime aittir, Hakan TERMAN kimdir, Hakan TERMAN telsiz]
 excerpt: "Hakan TERMAN - Amatör Radyo QSO Veritabanı"
 layout: collection
 collection: portfolio
@@ -148,6 +148,18 @@ gallery2:
     image_path: /assets/images/sstv/2021-08-11_18.56.40_TA4ADP_KM37RC.jpg
     alt: "ISS Ağustos-2021 SSTV Yayını"
     title: "ISS Ağustos-2021 SSTV Yayını"
+  - url: /assets/images/sstv/2021-12-01_18.17.44_TA4ADP.jpg
+    image_path: /assets/images/sstv/2021-12-01_18.17.44_TA4ADP.jpg
+    alt: "ISS 1-2Aralık-2021 SSTV Yayını"
+    title: "ISS 1-2Aralık-2021 SSTV Yayını"
+  - url: /assets/images/sstv/2021-12-01_18.19.44_TA4ADP.jpg
+    image_path: /assets/images/sstv/2021-12-01_18.19.44_TA4ADP.jpg
+    alt: "ISS 1-2Aralık-2021 SSTV Yayını"
+    title: "ISS 1-2Aralık-2021 SSTV Yayını"
+  - url: /assets/images/sstv/2021-12-01_18.21.56_TA4ADP.jpg
+    image_path: /assets/images/sstv/2021-12-01_18.21.56_TA4ADP.jpg
+    alt: "ISS 1-2Aralık-2021 SSTV Yayını"
+    title: "ISS 1-2Aralık-2021 SSTV Yayını"
 gallery3:
   - url: /assets/images/qsl/IK7FMQ.jpeg
     image_path: /assets/images/qsl/IK7FMQ.jpeg
