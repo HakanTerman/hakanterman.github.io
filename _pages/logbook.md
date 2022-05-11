@@ -189,11 +189,11 @@ mapping:
 {: #myTable1 .table table-responsive}
 |Çağrı İşareti|DMR ID|DMR Hotspot |SWL Lisans|SWARL ID|APRS |ADS-B|
 |:-:          |:-:   |:-:         |:-:       |:-:     |:-:  |:-:  |
-|[TA4ADP](https://www.qrz.com/db/TA4ADP){: .btn .btn--danger}|[2862244](https://brandmeister.network/index.php?page=profile&call=TA4ADP){: .btn .btn--info}   |[TA4ADP BM](https://brandmeister.network/?page=repeater&id=286224401){: .btn .btn--primary}           |[TA464378](#){: .btn .btn--warning}       |[TA4013SWL](http://list.swarl.org/){: .btn .btn--success}     |[APRS](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FTA4ADP-1&timerange=3600&tail=3600){: .btn .btn--inverse}         |[FlightFeeder](https://flightaware.com/adsb/stats/user/HakanTerman#stats-90495){: .btn .btn--inverse}         |
+|[TA4HKN](https://www.qrz.com/db/TA4HKN){: .btn .btn--danger}|[2862244](https://brandmeister.network/index.php?page=profile&call=TA4HKN){: .btn .btn--info}   |[TA4HKN BM](https://brandmeister.network/?page=repeater&id=286224401){: .btn .btn--primary}           |[TA464378](#){: .btn .btn--warning}       |[TA4013SWL](http://list.swarl.org/){: .btn .btn--success}     |[APRS](https://aprs.fi/#!mt=roadmap&z=11&call=a%2FTA4HKN-1&timerange=3600&tail=3600){: .btn .btn--inverse}         |[FlightFeeder](https://flightaware.com/adsb/stats/user/HakanTerman#stats-90495){: .btn .btn--inverse}         |
 
 ### QRZ - QSO Kayıtları
 
-<iframe align="top" frameborder="0" height="350" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4ADP/" width="875"></iframe>
+<iframe align="top" frameborder="0" height="350" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4HKN/" width="875"></iframe>
 
 ### SWL Dinleme Kayıtları
 
@@ -239,5 +239,5 @@ jQuery(document).ready(function ($) {
 
 ---
 
-**:warning: QRZ Bağlantıları** [QRZ.Com - TA4ADP](https://www.qrz.com/db/TA4ADP), [AmatörTelsiz - TA4ADP](https://qrz.amatortelsiz.com.tr/profil/TA4ADP)
+**:warning: QRZ Bağlantıları** [QRZ.Com - TA4HKN](https://www.qrz.com/db/TA4HKN), [AmatörTelsiz - TA4HKN](https://qrz.amatortelsiz.com.tr/profil/TA4HKN)
 {: .notice}
