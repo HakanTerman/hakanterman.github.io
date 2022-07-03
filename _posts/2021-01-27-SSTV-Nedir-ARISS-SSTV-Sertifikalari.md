@@ -142,4 +142,4 @@ yayınlanacağı belirtilmiş.
 
 Planladığımdan daha uzunca bir yazı oldu. Umarım çok sıkıcı olmamıştır. İlgilenen herkese teşekkürler.
 
-TA4ADP - Hakan TERMAN
+TA4HKN - Hakan TERMAN

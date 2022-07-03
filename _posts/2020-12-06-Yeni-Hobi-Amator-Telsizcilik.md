@@ -384,4 +384,4 @@ Türkiye'nin hemen hemen her ilinde birden fazla röle bulunmakta.
 
 Çook uzun bir yazı oldu biliyorum, umarım sıkılmazsınız. Ancak birkaç aydır takip ettiğim Telegram ve Whatsapp gruplarında tekrar tekrar sorulan bu soruları not aldım ve bir yazıda elimden geldiğince hepsini anlatmaya çalıştım. Umarım faydalı olmuştur. Amatör belgeniz hayırlı olsun, eğer çağrı kodunuz varsa lütfen yorumlara bırakın, tanışalım.
 
-TA4ADP - Hakan TERMAN
+TA4HKN - Hakan TERMAN

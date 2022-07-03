@@ -138,4 +138,4 @@ Denemek isteyen arkadaşlara kolay gelsin !
 
 Yazılı anlatımın orjinal dilde olan haline de [buradan](https://vk2zoi.com/articles/dual-band-high-gain-flower-pot/) ulaşabilirsiniz.
 
-TA4ADP - Hakan TERMAN
+TA4HKN - Hakan TERMAN

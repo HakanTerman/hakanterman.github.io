@@ -170,4 +170,4 @@ Yine orjinal dilde ve şerit metresiz halde yapımını aşağıdaki videodan iz
 Buradaki anlatıma bağlı kalarak yapacağınız antenlerin fotoğraflarını bana bir şekilde iletebilirseniz yazının alt kısmında çağrı kodlarınızla birlikte yayınlamak isterim. Umarım faydalı bir anlatım olmuştur.
 Denemek isteyen arkadaşlara kolay gelsin !
 
-TA4ADP - Hakan TERMAN
+TA4HKN - Hakan TERMAN

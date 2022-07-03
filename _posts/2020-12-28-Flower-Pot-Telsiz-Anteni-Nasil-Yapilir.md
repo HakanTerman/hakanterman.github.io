@@ -121,4 +121,4 @@ Denemek isteyen arkadaşlara kolay gelsin !
 
 Anlatımın orjinal dilde olan haline [buradan](https://vk2zoi.com/articles/dual-band-half-wave-flower-pot/) ulaşabilirsiniz.
 
-TA4ADP - Hakan TERMAN
+TA4HKN - Hakan TERMAN

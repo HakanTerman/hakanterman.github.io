@@ -105,7 +105,7 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 * 09/2021 - Amatör Denizci Belgesi (ADB) - **T.C. Ulaştırma ve Altyapı Bakanlığı**
 * 09/2021 - Kısa Mesafe Telsiz Operatörü Yeterlik Belgesi (KMT) - **T.C. Ulaştırma ve Altyapı Bakanlığı**
 * 01/2021 - Geleceğe Hazırlık Sertifika Programı - **Turkcell**
-* 11/2020 - Amatör Telsiz Operatörü (TA4ADP) - **Kıyı Emniyeti Genel Müdürlüğü**
+* 11/2020 - Amatör Telsiz Operatörü (TA4HKN) - **Kıyı Emniyeti Genel Müdürlüğü**
 * 09/2020 - IHA - 1 - Sportif / Amatör - **Sivil Havacılık Genel Müdürlüğü**
 * 04/2017 - IHA - 0 - Sportif / Amatör - **Sivil Havacılık Genel Müdürlüğü**
 * 12/2016 - TEB KOBİ TV Online Eğitim Katılım Belgesi - **TEB**
