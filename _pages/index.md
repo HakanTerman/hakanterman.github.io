@@ -57,7 +57,9 @@ Kodlama kısımları için çok ileri seviye bir şeyler yapmadığım şu döne
 
 ### :man_office_worker: Deneyim
 
-* 04/2021 - 10/2021 - Bilgi İşlem **[Rixos Premium Bodrum](https://www.rixos.com/tr/hotel-resort/rixos-premium-bodrum)**
+* 11/2022 - 11/2023 - Bilişim Uzmanı **[Milli Savunma Bakanlığı - Askeralma Genel Müdürlüğü](https://msb.gov.tr)**
+* 11/2022 - 11/2023 - Subay **[Türk Silahlı Kuvvetleri](https://tsk.tr)**
+* 04/2021 - 10/2021 - Bilgi İşlem Asistanı **[Rixos Premium Bodrum](https://www.rixos.com/tr/hotel-resort/rixos-premium-bodrum)**
 * 06/2019 - 08/2019 - Bilgi İşlem Stajı **[T.C Sivaslı Belediyesi](http://sivasli.bel.tr/)**
 * 07/2015 - 08/2015 - Bilgi İşlem Stajı **[T.C Sağlık Bakanlığı - Sivaslı Devlet Hastanesi](https://sivaslidh.saglik.gov.tr/)**
 * 02/2011 - Bugün - Web İçerik Yönetimi  **Freelance**
