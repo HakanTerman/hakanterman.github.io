@@ -140,6 +140,7 @@ Sınıf okulunuzdan mezun olduktan sonra 9/1 Derece kademe ile Emekli Sandığı
 2023 Temmuz Zamları ile birlikte olan maaşlar internette gezen tabloya göre bu şekilde, bunun üzerine 2024 Ocak ayındaki %49'luk zammı ekleyip hesap yapabilirsiniz.
 
 ![Asker-Maas](https://pbs.twimg.com/media/F0WTwtYWcAA3eme?format=jpg)
+* Görsel Sosyal Medyadan Alıntıdır
 
 ## Ankara - Polatlı Topçu ve Füze Okulu
 
@@ -155,63 +156,63 @@ Eveet, bu başlığı okumak için bu yazıya geldiyseniz ne mutlu size :)
 Girişten itibaren kurallar ve disiplin ile işleyen bir yere girdiğinizi fark etmiş olacaksınız.
 İlk etapta giderken yanınıza alacağınız veya alabileceğiniz şeylerden bahsedelim.
 
-* E-Devlet'ten alınan Sevk Belgesi - 3 Adet
-* Üniversite Diploma Fotokopisi ya da E-Devlet'ten Mezun Belgesi - 3 Adet
-* Kimlik Fotokopisi - 3 Adet
-* Avukatlar için 3 Adet Ruhsat Belgesi ya da Avukat Kimlik Kartı Fotokopisi
+- **E-Devlet'ten alınan Sevk Belgesi - 3 Adet**
+- **Üniversite Diploma Fotokopisi ya da E-Devlet'ten Mezun Belgesi - 3 Adet**
+- **Kimlik Fotokopisi - 3 Adet**
+- **Avukatlar için 3 Adet Ruhsat Belgesi ya da Avukat Kimlik Kartı Fotokopisi**
 
 Bu belgeleri yanınızda bulundurmanızda fayda var, yoksa kışlaya giriş yapamazsınız. Girişte bu belgeleri tamamlamanız için sizi geri döndürebilirler. Giriş kapısına yakın yerlerde kırtasiye ve askeri malzeme satan yerler olacak ama yoğunluktan içeriye adım bile atmak saatler süreceği için yanınızda olması size zaman kazandıracaktır.
 
-* Tuşlu, kamerasız cep telefonu. (Akıllı telefon götürmeyi düşünmeyin, emanet vs. yok)
+- **Tuşlu, kamerasız cep telefonu**. (Akıllı telefon götürmeyi düşünmeyin, emanet vs. yok)
 Yine bu konuda çevredeki esnaf emanete alabiliyor ama güvenilir yer bulmak ve sorumluluk size ait.
-* Eğer yanınızda ilaç varsa girişte teslim edin.
-* Yanınızdaki kitaplar da girişte isminizle birlikte teslim alınacak, size sonradan ulaştırılıyor.
+- Eğer yanınızda ilaç varsa girişte teslim edin.
+- Yanınızdaki kitaplar da girişte isminizle birlikte teslim alınacak, size sonradan ulaştırılıyor.
 * Paketi açılmış sigara içeriye alınmıyor, kapalı ve naylonu açılmamış olacak.
 * Traş Losyonu, parfüm, deodorant, kolonya getirmeyin girişte el koyuyorlar.
 * Sağlık problemleriniz varsa yanınızda rapor getirin. Fiziksel rahatsızlıklar, lif kopması, çapraz bağ kopukluğu gibi durumlar için yanınızda belge bulundurun.
-* Şampuan getirebilirsiniz, paketi kapalı olduğu sürece sorun yok.
+- **Şampuan** getirebilirsiniz, paketi kapalı olduğu sürece sorun yok.
 
 Girişte üzerinizdeki tüm valiz, çanta gibi şeyler aranıyor, üzerinizi de görevli askerler arayacaklar. Kurallar dışında bir şey yapmamanızı tavsiye ediyorum. Çok kısa kalacağınız eğitim sürecinizde en baştan işaretlenmek hoş olmuyor.
 
-* AÖF Sınavları, Ehliyet Sınavı gibi sınavlar için mazeret mümkün değil. ÖSYM sınavları ve diğer tekrarı olmayan sınavlar (Hakimlik - Savcılık) - Öğretmenlik Mülakatı- POMEM Mülakatı vs. için komutanlarınıza bilgi vermeyi unutmayın.
+- AÖF Sınavları, Ehliyet Sınavı gibi sınavlar için mazeret mümkün değil. ÖSYM sınavları ve diğer tekrarı olmayan sınavlar (Hakimlik - Savcılık) - Öğretmenlik Mülakatı- POMEM Mülakatı vs. için komutanlarınıza bilgi vermeyi unutmayın.
 
-* Saçlarınızı 3 Numara yapmanıza gerek yok, subay traşı ile gidin yeterli oluyor ama çok uzun tutmayın ki eğitim süresinde tekrar içeride traş olmak zorunda kalmayın. Çok saçma şekilde traş ediyorlar.
+- Saçlarınızı 3 Numara yapmanıza gerek yok, subay traşı ile gidin yeterli oluyor ama çok uzun tutmayın ki eğitim süresinde tekrar içeride traş olmak zorunda kalmayın. Çok saçma şekilde traş ediyorlar.
 
-* Yanınıza havlu almanıza gerek yok, size istikhak olarak havlu dağıtacaklar. Onların verdiği havlu dışında havlu kullanmanıza izin vermiyorlar. Size istikhak olarak mavi havlu takımı dağıtacaklar.
-* Eşofman Takımı
-* 5 Adet Metal Askı ve Gamboç (Elbise Kılıfı) ihtiyacınız olacak ama dışarıdan almanıza gerek yok, içerideki kantinde satılıyor. Dışarıdan aldıklarınız farklı renkte veya desende olursa kullanmanıza izin vermiyorlar. Bunu kantinden almanızı tavsiye ederim.
-* İçlik Takımı (Alt ve Üst) rengi önemli değil ama haki olması avantaj olacaktır. Görünen kısımlardaki her şeyiniz haki olmak zorunda. Bunu abartıp iç çamaşırını da haki alanlar oldu, gerek yok.
-* Haki renkli çorap - Mümkün olduğunca çok fazla alın. - Eğer bulamazsanız istikhak olarak size 3 tane verecekler ve devamı içeride kantinde satılıyor.
-* Fanila - Haki renk. Yine aynı şekilde size 3 adet verecekler ama bol bulundurmanızda fayda var.
-* Yedek İç Çamaşırı - Bundan da bol bulundurun.
+- Yanınıza havlu almanıza gerek yok, size istikhak olarak havlu dağıtacaklar. Onların verdiği havlu dışında havlu kullanmanıza izin vermiyorlar. Size istikhak olarak mavi havlu takımı dağıtacaklar.
+- **Eşofman Takımı**
+- **5 Adet Metal Askı ve Gamboç (Elbise Kılıfı)** ihtiyacınız olacak ama dışarıdan almanıza gerek yok, içerideki kantinde satılıyor. Dışarıdan aldıklarınız farklı renkte veya desende olursa kullanmanıza izin vermiyorlar. Bunu kantinden almanızı tavsiye ederim.
+- **İçlik Takımı (Alt ve Üst)** rengi önemli değil ama haki olması avantaj olacaktır. Görünen kısımlardaki her şeyiniz haki olmak zorunda. Bunu abartıp iç çamaşırını da haki alanlar oldu, gerek yok.
+- **Haki Renkli Çorap** - Mümkün olduğunca çok fazla alın. - Eğer bulamazsanız istikhak olarak size 3 tane verecekler ve devamı içeride kantinde satılıyor.
+- **Fanila - Haki Renk** Yine aynı şekilde size 3 adet verecekler ama bol bulundurmanızda fayda var.
+- **Yedek İç Çamaşırı / Boxer** - Bundan da bol bulundurun.
 Çamaşır yıkamak için ne vaktiniz olacak ne de uğraşma isteğiniz. Ayrıca içeride çamaşır yıkatmak isterseniz 60-70 lira gibi bir ücretle yıkama yapıyorlar, beklemesi kurutması filan uğraştırıcı işler.
-* Traş Köpüğü ve Traş Bıçağı - Kesinlikle alın, istikhak olarak size bıçak dağıtıyorlar ama günler sonra geliyor ama içeriye girdiğiniz andan itibaren traşlı olmanız gerekiyor. İlk günlerde kantindeki yoğunluğu düşünürseniz bu yanınızda olmazsa olmaz. Diğer malzemeleri almanız için zaman verecekler ancak traş konusunda kesinlikle taviz beklemeyin. Bıçağınız kaliteli olsun. Her gün ve çoğunlukla soğuk su ile traş olduğunuz için yüzünüz berbat oluyor.
-* Kol Saati
-* Küçük bir ayna alabilirseniz traş sırası beklemek zorunda kalmazsınız.
-* Siyah Traş Çantası - İçeride satılıyor, dışarıdan almanıza gerek yok.
-* Diş Macunu, Diş Fırçası
-* El Kremi
-* Dudak Nemlendirici
-* Tırmak Makası - Törpü ve Bıçak bulunmasın - Olursa girişte bu kısmı kırıyorlar
-* Priz çoklayıcı (Duvara takılan 3'lü)
-* Haki Bot Boyası - Bulamazsanız içeride satılıyor.
-* Pudra - Botlar için lazım olabiliyor.
-* Tabanlık - Botlar için.
-* Ateş Düşürücü, Ağrı Kesici ilaçlar. (Ibucold C - Parol) Hatta elinizde varsa boğaz enfeksiyonları için Antibiyotik de alabilirsiniz.
-* Boğaz Pastili
-* Yara Bandı
-* Küçük Boy El Feneri (Akşam 22.00 sonrası ışıklar sönüyor, bazen bahçede de lazım olabiliyor)
-* Tuvalet Kağıdı
-* Açık mavi renkli yastık kılıfı da alabilirsiniz, nevresimleriniz ve yastık kılıflarınız eğitim boyunca aynı kalıyor. Yedek bulundurabilirsiniz.
-* Kirli ve Temiz çamaşır torbaları - İçeride satılıyor dışarıdan almanıza gerek yok.
-* Yanınıza mutlaka ama mutlaka büyük boy valiz alın. Dışarıdan getirecekleriniz bir sırt çantasına sığacak kadar olsa da içeriden dışarıya çıkaracağınız bir çok eşya olacak. (Dahili ve Harici tören elbisesi, Kamuflaj takımı, Botlar) Eğer almazsanız içeriden valiz almak zorunda kalabilirsiniz.
-* Yanınızda bir miktar nakit para bulundurun, geçen sene meslekçiler için 250 lira gibi, takım komutanları için de 600 lira gibi bir miktardı. Bu sene de 400-100 gibi diye tahmin ediyorum. En kötü ihtimalle bir miktar hesabınızda bulunursa kışla içinde TEB atmsinden anlaşmalı bankalardan çekebilirsiniz. Mehmetçik Sigortası, Rütbeleriniz, İsimlikleriniz, Künyeniz, Defter Kalem ve bir çok  ihtiyaçlarınız için toplu şekilde para toplanıyor ve komutanlarınız bunları temin ediyorlar. Defter kalem yazmadım çünkü toplu siparişte elinizde varsa da alıyorsunuz tek tek saymıyorlar.
-* A4 Kağıt, valize atın 10 sayfa kadar. Yazmanız gereken şeyler olabiliyor :) - ANTK 41 -
-* Temassız destekli MasterCard kredi kartı. Özellikle temassız ve MasterCard olmasına dikkat edin. İçeride hiç bir yerde nakit para geçmiyor. Kantin dışında 24 saat (tabikide izin verilen saatlerde) ulaşabileceğiniz otomatlar mevcut. Su, Kola, Bisküvi gibi ürünler ve Sıcak İçecek Otomatları ile Kahve, Sıcak Çikolata gibi şeyler alabilmek için MasterCard anlaşmalı bir sistem var. Boğazınızın çok tahriş olduğu bir dönem olacağı için sık sık sıcak içecek almanız gerekebiliyor. Biz günde 10 bardağa yakın sıcak çikolata tüketiyorduk.
+- **Traş Köpüğü ve Traş Bıçağı** - Kesinlikle alın, istikhak olarak size bıçak dağıtıyorlar ama günler sonra geliyor ama içeriye girdiğiniz andan itibaren traşlı olmanız gerekiyor. İlk günlerde kantindeki yoğunluğu düşünürseniz bu yanınızda olmazsa olmaz. Diğer malzemeleri almanız için zaman verecekler ancak traş konusunda kesinlikle taviz beklemeyin. Bıçağınız kaliteli olsun. Her gün ve çoğunlukla soğuk su ile traş olduğunuz için yüzünüz berbat oluyor.
+- **Kol Saati**
+- **Küçük Ayna** alabilirseniz traş sırası beklemek zorunda kalmazsınız.
+- **Siyah Traş Çantası** - İçeride satılıyor, dışarıdan almanıza gerek yok.
+- **Diş Macunu, Diş Fırçası**
+- **El Kremi**
+- **Dudak Nemlendirici**
+- **Tırnak Makası** - Törpü ve Bıçak bulunmasın - Olursa girişte bu kısmı kırıyorlar
+- **Priz Çoklayıcı** (Duvara takılan 3'lü)
+- **Haki Bot Boyası** - Bulamazsanız içeride satılıyor.
+- **Pudra - Botlar** için lazım olabiliyor.
+- **Tabanlık** - Botlar için.
+- **Ateş Düşürücü, Ağrı Kesici** ilaçlar. (Ibucold C - Parol) Hatta elinizde varsa boğaz enfeksiyonları için **Antibiyotik** de alabilirsiniz.
+- **Boğaz Pastili**
+- **Yara Bandı**
+- **Küçük Boy El Feneri** (Akşam 22.00 sonrası ışıklar sönüyor, bazen bahçede de lazım olabiliyor)
+- **Tuvalet Kağıdı**
+- **Açık mavi renkli yastık kılıfı** da alabilirsiniz, nevresimleriniz ve yastık kılıflarınız eğitim boyunca aynı kalıyor. Yedek bulundurabilirsiniz.
+- **Kirli ve Temiz çamaşır torbaları** - İçeride satılıyor dışarıdan almanıza gerek yok.
+- Yanınıza mutlaka ama mutlaka **büyük boy valiz** alın. Dışarıdan getirecekleriniz bir sırt çantasına sığacak kadar olsa da içeriden dışarıya çıkaracağınız bir çok eşya olacak. (Dahili ve Harici tören elbisesi, Kamuflaj takımı, Botlar) Eğer almazsanız içeriden valiz almak zorunda kalabilirsiniz.
+- Yanınızda bir miktar **nakit para** bulundurun, geçen sene meslekçiler için 250 lira gibi, takım komutanları için de 600 lira gibi bir miktardı. Bu sene de **400-1000** gibi diye tahmin ediyorum. En kötü ihtimalle bir miktar hesabınızda bulunursa kışla içinde **TEB** atmsinden anlaşmalı bankalardan çekebilirsiniz. **Mehmetçik Sigortası, Rütbeleriniz, İsimlikleriniz, Künyeniz, Defter Kalem** ve bir çok  ihtiyaçlarınız için toplu şekilde para toplanıyor ve komutanlarınız bunları temin ediyorlar. Defter kalem yazmadım çünkü toplu siparişte elinizde varsa da alıyorsunuz tek tek saymıyorlar.
+- **A4 Kağıt**, valize atın 10 sayfa kadar. Yazmanız gereken şeyler olabiliyor :) - ANTK 41 -
+- **Temassız destekli MasterCard kredi kartı** Özellikle temassız ve **MasterCard** olmasına dikkat edin. İçeride hiç bir yerde nakit para geçmiyor. Kantin dışında 24 saat (tabikide izin verilen saatlerde) ulaşabileceğiniz otomatlar mevcut. Su, Kola, Bisküvi gibi ürünler ve Sıcak İçecek Otomatları ile Kahve, Sıcak Çikolata gibi şeyler alabilmek için MasterCard anlaşmalı bir sistem var. Boğazınızın çok tahriş olduğu bir dönem olacağı için sık sık sıcak içecek almanız gerekebiliyor. Biz günde 10 bardağa yakın sıcak çikolata tüketiyorduk.
 
-Eğitim içeriği yukarıda bahsettiğim gibi olmakla birlikte detay vermem doğru değil. Ancak en ufak hatanız bile cezasız kalmıyor. Gitmeden önce abi, hocam, kardeşim, bro, reis, kardeş, birader, dayı gibi hitaplardan uzaklaşmaya çalışın. Tamam, teşekkür ederim, efendim gibi soruları da azaltın ki içeride bunları kullanmak yasak olduğu için ceza yemeyin. Askeri hitaplar dışında bir şey kullanmamaya çalışın. Göreceğiniz neredeyse herkes sizden rütbeli olacağı için hiç kimseye rütbesi ile hitap etmeyin. Unutmayın, siz içeriye girerken Asteğmen değilsiniz, kursiyersiniz. Sakın ha kimseye Asteğmenim demeyin. Kapıdan girişte bunun için sivil kıyafetle sürünen insanlar görebilirsiniz.
+Eğitim içeriği yukarıda bahsettiğim gibi olmakla birlikte detay vermem doğru değil. Ancak en ufak hatanız bile cezasız kalmıyor. Gitmeden önce **abi, hocam, kardeşim, bro, reis, kardeş, birader, dayı** gibi hitaplardan uzaklaşmaya çalışın. Tamam, teşekkür ederim, efendim gibi soruları da azaltın ki içeride bunları kullanmak yasak olduğu için ceza yemeyin. Askeri hitaplar dışında bir şey kullanmamaya çalışın. Göreceğiniz neredeyse herkes sizden rütbeli olacağı için hiç kimseye rütbesi ile hitap etmeyin. Unutmayın, siz içeriye girerken Asteğmen değilsiniz, kursiyersiniz. Sakın ha kimseye **Asteğmenim** demeyin. Kapıdan girişte bunun için sivil kıyafetle sürünen insanlar görebilirsiniz.
 
-* Sevk belgenizde yazan katılış tarihinden önce gitmeyin. Katılış yapacağınız tarihte 08.00 - 16.00 arasında katılmak size kalmış ancak erken katılan arkadaşların koğuşlar konusunda avantajı olabiliyor.
+* Sevk belgenizde yazan **katılış tarihinden önce gitmeyin**. Katılış yapacağınız tarihte 08.00 - 16.00 arasında katılmak size kalmış ancak erken katılan arkadaşların koğuşlar konusunda avantajı olabiliyor.
 İçeride 14 kişilik koğuşlar da mevcut 52 kişilik koğuşlar da mevcut. Genellikle erken gelenleri 14 Kişiliklere kaydediyorlar ama bu tamamen içerideki komutanlarınıza kalmış bir durum. Canı sıkılır, kayıtlara 52 kişiliklerden başlayın derse bu hesaplarınız boşa gidebiliyor.
 
 Kapının önünde kafa dengi gördüğünüz insanlar olursa içeriye beraber girmeye çalışın. Kayıtta size Takım ve sıranızın yazdığı bir küpür verecekler. Bu küpürle birlikte koğuşlara kaydınız yapılacak. Bu aşamada sistemi sizden önceki bir kaç kişiden görürsünüz zaten, o anda ard arda gittiğiniz adam ya badiniz (alt ve ya üst yatak komşusu) ya da yandaki yatakta olacak. İçerideki sistem sizi badinize zimmetliyor, o arkadaşınızın her şeyinden sorumlusunuz, hastalandığında hastaneye götürürken bile siz gideceksiniz. O yüzden düzgün adamlar seçmeye çalışın.
@@ -226,11 +227,11 @@ Telefonlarınızı genellikle tuvaletlerdeki prizlerde şarj ediyorsunuz, bazı 
 
 * İçeride size iki doz aşı yapacaklar. Bir tanesi tetanoz bir tanesi de difteri diye hatırlıyorum ama karıştırıyor olabilirim. Aşıların sonrasında vücudunuzda bir kırgınlık ve halsizlik oluyor bu aşamadan sonra yorgunlukla birlikte hastalanma riskiniz çok fazla. Sizde olmasa bile o kadar kişiden biri mutlaka hasta olup herkese bulaştırıyor, dikkatli olun diyebileceğim bir şey yok illa ki hastalanıyorsunuz. Yanınıza aldığınız ilaçları girişte teslim ettiğiniz için ilaç saatlerinde gidip kontrollü şekilde alabilirsiniz. O şekilde kullanmaya çalışın.
 
-* Geceden traş olur yatarım düşüncesi aklınızda varsa sakın yapmayın, herkes sabah vakti traş olmak zorunda. İlk günlerdeki traş sırası sizi korkutmasın, ilerleyen günlerde sistem oturuyor ama yine de her türlü 10-15 dakika kadar sıra bekliyorsunuz.
+* Geceden traş olur yatarım düşüncesi aklınızda varsa sakın yapmayın, **herkes sabah vakti traş olmak zorunda**. İlk günlerdeki traş sırası sizi korkutmasın, ilerleyen günlerde sistem oturuyor ama yine de her türlü 10-15 dakika kadar sıra bekliyorsunuz.
 
 * Metal asker künyelerini soranlar oluyor, onlardan neredeyse hiç takmayacaksınız. Hazırlanıp size ulaşması neredeyse askerliğinizin bitişine doğru olacak. Yemin törenine çıkmadan dağıtacaklar çoğunuza.
 
-* Topçu Marşı, Harbiye Marşı, ANTK41 'e gitmeden önce göz atmanızda fayda var. Hatta size ufak bir ipucu, vaktiniz olursa tükenmez kalemle 5 tane ANTK41 yazın A4 kağıdına, içeriye girerken yanınızda olsun.
+* **Topçu Marşı, Harbiye Marşı, ANTK41** 'e gitmeden önce göz atmanızda fayda var. Hatta size ufak bir ipucu, vaktiniz olursa tükenmez kalemle **5 tane ANTK41** yazın A4 kağıdına, içeriye girerken yanınızda olsun.
 
 * Son olarak yemekhane çıkışında kapının orada tüylü bir kedi olacak, eğer halen duruyorsa yemeklerden bir parça getirirmeye çalışın :) Oralarda yemek bekliyorlar.
 
