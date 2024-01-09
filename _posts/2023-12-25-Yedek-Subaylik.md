@@ -109,7 +109,7 @@ Bu iki dersten sınava tabi tutulacaksınız, bunun eğitimlerini yazılı ve uy
 
 İstihbarat ve Yönetmeliği anlatan derslerden de sözlü olarak eğitim alacaksınız ancak yazılı sınav bu dersi kapsamıyor.
 
-Bu sınavlardan kalan arkadaşlar oluyor, böyle bir durumda statü kaybı olarak Er olarak devam ediyorsunuz. Eğitimdeki geçirdiğiniz günler gününüzden düşürülüyor ve geri kalan günlerinizi tamamlayıp terhis oluyorsunuz. Statü kaybı için 2 etken var sınavlar ve güvenlik soruşturması.
+Bu sınavlardan kalan arkadaşlar oluyor, böyle bir durumda statü kaybı olup Er olarak devam ediyorsunuz. Eğitimdeki geçirdiğiniz günler gününüzden düşürülüyor ve geri kalan günlerinizi tamamlayıp terhis oluyorsunuz. Statü kaybı için 2 etken var sınavlar ve güvenlik soruşturması.
 
 ## Asteğmen
 
