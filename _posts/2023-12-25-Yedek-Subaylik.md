@@ -174,14 +174,14 @@ Yine bu konuda çevredeki esnaf emanete alabiliyor ama güvenilir yer bulmak ve 
 
 Girişte üzerinizdeki tüm valiz, çanta gibi şeyler aranıyor, üzerinizi de görevli askerler arayacaklar. Kurallar dışında bir şey yapmamanızı tavsiye ediyorum. Çok kısa kalacağınız eğitim sürecinizde en baştan işaretlenmek hoş olmuyor.
 
-- AÖF Sınavları, Ehliyet Sınavı gibi sınavlar için mazeret mümkün değil. ÖSYM sınavları ve diğer tekrarı olmayan sınavlar (Hakimlik - Savcılık) - Öğretmenlik Mülakatı- POMEM Mülakatı vs. için komutanlarınıza bilgi vermeyi unutmayın.
+- **AÖF Sınavları, Ehliyet Sınavı** gibi sınavlar için mazeret mümkün değil. **ÖSYM sınavları** ve diğer tekrarı olmayan sınavlar **(Hakimlik - Savcılık) - Öğretmenlik Mülakatı- POMEM Mülakatı** vs. için komutanlarınıza bilgi vermeyi unutmayın.
 
-- Saçlarınızı 3 Numara yapmanıza gerek yok, subay traşı ile gidin yeterli oluyor ama çok uzun tutmayın ki eğitim süresinde tekrar içeride traş olmak zorunda kalmayın. Çok saçma şekilde traş ediyorlar.
+- **Saçlarınızı 3 Numara yapmanıza gerek yok**, subay traşı ile gidin yeterli oluyor ama çok uzun tutmayın ki eğitim süresinde tekrar içeride traş olmak zorunda kalmayın. Çok saçma şekilde traş ediyorlar.
 
-- Yanınıza havlu almanıza gerek yok, size istikhak olarak havlu dağıtacaklar. Onların verdiği havlu dışında havlu kullanmanıza izin vermiyorlar. Size istikhak olarak mavi havlu takımı dağıtacaklar.
+- Yanınıza havlu almanıza gerek yok, size istihkak olarak havlu dağıtacaklar. Onların verdiği havlu dışında havlu kullanmanıza izin vermiyorlar. Size istikhak olarak **mavi havlu takımı** dağıtacaklar.
 - **Eşofman Takımı**
 - **5 Adet Metal Askı ve Gamboç (Elbise Kılıfı)** ihtiyacınız olacak ama dışarıdan almanıza gerek yok, içerideki kantinde satılıyor. Dışarıdan aldıklarınız farklı renkte veya desende olursa kullanmanıza izin vermiyorlar. Bunu kantinden almanızı tavsiye ederim.
-- **İçlik Takımı (Alt ve Üst)** rengi önemli değil ama haki olması avantaj olacaktır. Görünen kısımlardaki her şeyiniz haki olmak zorunda. Bunu abartıp iç çamaşırını da haki alanlar oldu, gerek yok.
+- **İçlik Takımı (Alt ve Üst)** mümkünse termal, rengi önemli değil ama haki olması avantaj olacaktır. Görünen kısımlardaki her şeyiniz haki olmak zorunda. Bunu abartıp iç çamaşırını da haki alanlar oldu, gerek yok.
 - **Haki Renkli Çorap** - Mümkün olduğunca çok fazla alın. - Eğer bulamazsanız istikhak olarak size 3 tane verecekler ve devamı içeride kantinde satılıyor.
 - **Fanila - Haki Renk** Yine aynı şekilde size 3 adet verecekler ama bol bulundurmanızda fayda var.
 - **Yedek İç Çamaşırı / Boxer** - Bundan da bol bulundurun.
