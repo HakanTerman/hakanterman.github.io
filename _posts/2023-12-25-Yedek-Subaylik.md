@@ -20,9 +20,7 @@ Daha önceki sistemde, Lisans mezunu olmayan erlerin 12 ay, lisans mezunu olan e
 
 Kısa dönem yapanlar; Er, Onbaşı ve Çavuş rütbelerinde olabiliyor. Yedek subay olanlar ise, askeri öğrenci statüsü ile başlıyor; eğitimleri bittikten sonra Asteğmen rütbesi ile hizmete başlıyor, 8 ay sonra ise Teğmen rütbesi takıp askerlik hizmeti bitene kadar Teğmen olarak kalıyor ve sonrasında terhis oluyorlar.
 
-
 En çok merak edilen konulardan birisi ise maaş, Bu süre zarfında, ilk önce askeri öğrenci maaşı alıyor, sonra Asteğmen maaşı ve Teğmen olduğu süre için de Teğmen maaşı alıyor. Maaşlar, askerlik hizmetini yaptığınız yere göre değişiyor tabiki de; “iç güvenlik bölgesi” olarak adlandırılan terör riski yüksek yerlerde yapanlar maaşlarına ek tazminat da alıyorlar; sınırda yapanlar da “hudut tazminatı” alıyor, adalarda görev yapanlar yine aynı şekilde ek tazminatlar alıyor. KKTC'de görev yapan arkadaşların da ek hakları var diye biliyorum.
-
 
 ## Kimler Yedek Subay Olabilir ?
 
@@ -37,8 +35,7 @@ Yani maddelere ayırmak gerekirse ;
 **En az lisans derecesinde bir okul mezunu olmak**
 **Türk Silahlı Kuvvetleri sağlık yönetmeliğine uygun bir yapıda olmak**
 
-Daha fazla detay ve güncel bilgiler için Askeralma Genel Müdürlüğü'nün Yedek Subay Sayfasını ziyaret edebilirsiniz.
-https://www.msb.gov.tr/Askeralma/icerik/yedek-subay
+Daha fazla detay ve güncel bilgiler için Askeralma Genel Müdürlüğü'nün Yedek Subay Sayfasını [buraya tıklayarak](https://www.msb.gov.tr/Askeralma/icerik/yedek-subay) ziyaret edebilirsiniz.
 
 ## Başvuru
 
@@ -140,12 +137,12 @@ Sınıf okulunuzdan mezun olduktan sonra 9/1 Derece kademe ile Emekli Sandığı
 2023 Temmuz Zamları ile birlikte olan maaşlar internette gezen tabloya göre bu şekilde, bunun üzerine 2024 Ocak ayındaki %49'luk zammı ekleyip hesap yapabilirsiniz.
 
 ![Asker-Maas](https://pbs.twimg.com/media/F0WTwtYWcAA3eme?format=jpg)
-* Görsel Sosyal Medyadan Alıntıdır
+* Görsel Sosyal Medyadan Alıntıdır (Twitter)
 
 ## Ankara - Polatlı Topçu ve Füze Okulu
 
 ![Polatli-TopcuOkulu](https://scontent.fteq4-1.fna.fbcdn.net/v/t1.6435-9/92104027_10158144530669596_2365699258293682176_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9a8829&_nc_ohc=bsCQzbBXfPEAX9UyiP-&_nc_ht=scontent.fteq4-1.fna&cb_e2o_trans=t&oh=00_AfBMvCnO8zuAaD9vTZ8jdaBoxDiwI46LaFccWT8guwFfgA&oe=65C406B6)
-* Görsel Sosyal Medyadan Alıntıdır
+* Görsel Sosyal Medyadan Alıntıdır (Facebook)
 
 Eveet, bu başlığı okumak için bu yazıya geldiyseniz ne mutlu size :)
 
@@ -212,7 +209,7 @@ Girişte üzerinizdeki tüm valiz, çanta gibi şeyler aranıyor, üzerinizi de 
 
 Eğitim içeriği yukarıda bahsettiğim gibi olmakla birlikte detay vermem doğru değil. Ancak en ufak hatanız bile cezasız kalmıyor. Gitmeden önce **abi, hocam, kardeşim, bro, reis, kardeş, birader, dayı** gibi hitaplardan uzaklaşmaya çalışın. **Tamam, teşekkür ederim, efendim** gibi soruları da azaltın ki içeride bunları kullanmak yasak olduğu için ceza yemeyin. Askeri hitaplar dışında bir şey kullanmamaya çalışın. Göreceğiniz neredeyse herkes sizden rütbeli olacağı için hiç kimseye rütbesi ile hitap etmeyin. Unutmayın, siz içeriye girerken Asteğmen değilsiniz, kursiyersiniz. Sakın ha kimseye **Asteğmenim** demeyin. Kapıdan girişten itibaren daha kamuflaj giymeden bunun için sivil kıyafetle sürünen insanlar görebilirsiniz.
 
-* Sevk belgenizde yazan **katılış tarihinden önce gitmeyin**. Katılış yapacağınız tarihte 08.00 - 16.00 arasında katılmak size kalmış ancak erken katılan arkadaşların koğuşlar konusunda avantajı olabiliyor.
+- Sevk belgenizde yazan **katılış tarihinden önce gitmeyin**. Katılış yapacağınız tarihte 08.00 - 16.00 arasında katılmak size kalmış ancak erken katılan arkadaşların koğuşlar konusunda avantajı olabiliyor.
 İçeride 14 kişilik koğuşlar da mevcut 52 kişilik koğuşlar da mevcut. Genellikle erken gelenleri 14 Kişiliklere kaydediyorlar ama bu tamamen içerideki komutanlarınıza kalmış bir durum. O an için kendi inisiyatifine göre kayıtlara 52 kişiliklerden başlayın derse bu hesaplarınız boşa gidebiliyor.
 
 Kapının önünde kafa dengi gördüğünüz insanlar olursa içeriye beraber girmeye çalışın. Kayıtta size Takım ve sıranızın yazdığı bir küpür verecekler. Bu küpürle birlikte koğuşlara kaydınız yapılacak. Bu aşamada sistemi sizden önceki bir kaç kişiden görürsünüz zaten, o anda ard arda gittiğiniz adam ya badiniz (alt ve ya üst yatak komşusu) ya da yandaki yatakta olacak. İçerideki sistem sizi badinize zimmetliyor, o arkadaşınızın her şeyinden sorumlusunuz, hastalandığında hastaneye götürürken bile siz gideceksiniz. O yüzden düzgün adamlar seçmeye çalışın.
