@@ -87,7 +87,7 @@ Eğitim içeriğinden bahsetmek gerekirse ilk 2 hafta sağa sola dönüş, selam
 
 Meslekçi olan arkadaşlar çoğunlukla gittiğiniz yerde harici ve dahili elbiseler ile çalışacaksınız, kamuflajlarınızı çok nadir giyme şansınız olacak hatta bazılarınız eğitim sonrasında görev yerinizde hiç giymeyeceksiniz ancak her an giyecek gibi hazır tutmanız gerekecek.
 
-Askerliğinizin bitmesine 90 gün kala rütbe terfileriniz gelecek ve kalan 3 aylık süreci Teğmen olarak devak tamamlayacaksınız.
+Askerliğinizin bitmesine 90 gün kala rütbe terfileriniz gelecek ve kalan 3 aylık süreci Teğmen olarak devam ederek tamamlayacaksınız.
 
 ### Takım Komutanı
 
@@ -96,7 +96,7 @@ Temel Eğitim bu hizmet türü için 21 Gün olup, 21. Günden sonraki haftalard
 
 Meslek Kurasına tabi olan arkadaşlara kıyasla her türlü eğitimi alıp tam donanımlı şekilde sınıflandırılacaksınız. Bir çoğunuz gittiğiniz yerlerde asker eğitecek ve kıdem sahibi olarak görev yapacaksınız. Çoğunlukla kamuflaj ile çalışacaksınız, aranızda bazılarınız sınıf okulunda görevli olarak kalabilir ya da başka eğitim merkezlerine de sevk edilebilirler. Aldığınız tüm eğitimlerden ve fiziksel hareketlerden sınavlara tabi tutulacaksınız ve sonrasında 9. Haftanın sonunda kura çekerek yerinizi belirleyeceksiniz. 10. Haftanın sonunda sınıf okulunuzdan ayrılarak 15 gün mehil izni kullandıktan sonra sevk edildiğiniz yerde göreve başlayacaksınız.
 
-Askerliğinizin bitmesine 30 gün kala rütbe terfileriniz gelecek ve kalan 1 aylık süreci Teğmen olarak devak tamamlayacaksınız.
+Askerliğinizin bitmesine 30 gün kala rütbe terfileriniz gelecek ve kalan 1 aylık süreci Teğmen olarak devam ederek tamamlayacaksınız.
 
 ## Sınav İçeriği
 
@@ -133,7 +133,7 @@ Bir çoğunuzun tercih sebebi bu işin maddi karşılığı olduğunu biliyorum.
 
 Eğitimde olduğunuz süreçlerde maaş değil, harçlık alacaksınız.
 
-2022 yılında aylık 1200 Tl civarındaydı diye hatırlıyorum ancak emin değilim. Ancak üzerine gelen zamlarla ne duruma geldiğini inanın bilmiyorum.
+2022 yılında aylık 1200 TL civarındaydı diye hatırlıyorum ancak emin değilim. Ancak üzerine gelen zamlarla ne duruma geldiğini inanın bilmiyorum.
 
 Sınıf okulunuzdan mezun olduktan sonra 9/1 Derece kademe ile Emekli Sandığına tabi olarak çalışmaya başlıyorsunuz. Maaşınız askeri öğrenci maaşı ile eşit. 2023/Temmuz zammından sonra 28000 civarında bir maaşınız var. Teğmen olduğunuzda derece kademeniz 8/1 e düştüğü için maaşınızda bir miktar oynama oluyor ve yaklaşık 31500 civarına yükseliyor olması gerekiyor. Sayılar kesin sayılar olmamakla birlikte internette her maaş zammı sonrası askeri personel maaşlarının tablo olarak gezdiğini söyleyebilirim.
 
@@ -165,11 +165,11 @@ Bu belgeleri yanınızda bulundurmanızda fayda var, yoksa kışlaya giriş yapa
 
 - **Tuşlu, kamerasız cep telefonu**. (Akıllı telefon götürmeyi düşünmeyin, emanet vs. yok)
 Yine bu konuda çevredeki esnaf emanete alabiliyor ama güvenilir yer bulmak ve sorumluluk size ait.
-- Eğer yanınızda ilaç varsa girişte teslim edin.
-- Yanınızdaki kitaplar da girişte isminizle birlikte teslim alınacak, size sonradan ulaştırılıyor.
-* Paketi açılmış sigara içeriye alınmıyor, kapalı ve naylonu açılmamış olacak.
-* Traş Losyonu, parfüm, deodorant, kolonya getirmeyin girişte el koyuyorlar.
-* Sağlık problemleriniz varsa yanınızda rapor getirin. Fiziksel rahatsızlıklar, lif kopması, çapraz bağ kopukluğu gibi durumlar için yanınızda belge bulundurun.
+- Eğer yanınızda **ilaç varsa girişte teslim edin**.
+- Yanınızdaki **kitaplar** da girişte isminizle birlikte teslim alınacak, size sonradan ulaştırılıyor.
+- **Paketi açılmış sigara** içeriye alınmıyor, kapalı ve naylonu açılmamış olacak.
+- **Traş Losyonu, parfüm, deodorant, kolonya getirmeyin** girişte el koyuyorlar.
+- Sağlık problemleriniz varsa yanınızda bununla ilgili **sağlık raporu** getirin. **Fiziksel rahatsızlıklar, lif kopması, çapraz bağ kopukluğu** gibi durumlar için yanınızda belge bulundurun.
 - **Şampuan** getirebilirsiniz, paketi kapalı olduğu sürece sorun yok.
 
 Girişte üzerinizdeki tüm valiz, çanta gibi şeyler aranıyor, üzerinizi de görevli askerler arayacaklar. Kurallar dışında bir şey yapmamanızı tavsiye ediyorum. Çok kısa kalacağınız eğitim sürecinizde en baştan işaretlenmek hoş olmuyor.
@@ -178,7 +178,7 @@ Girişte üzerinizdeki tüm valiz, çanta gibi şeyler aranıyor, üzerinizi de 
 
 - **Saçlarınızı 3 Numara yapmanıza gerek yok**, subay traşı ile gidin yeterli oluyor ama çok uzun tutmayın ki eğitim süresinde tekrar içeride traş olmak zorunda kalmayın. Çok saçma şekilde traş ediyorlar.
 
-- Yanınıza havlu almanıza gerek yok, size istihkak olarak havlu dağıtacaklar. Onların verdiği havlu dışında havlu kullanmanıza izin vermiyorlar. Size istikhak olarak **mavi havlu takımı** dağıtacaklar.
+- Yanınıza **havlu takımı** almanıza gerek yok, size istihkak olarak havlu dağıtacaklar. Onların verdiği havlu dışında havlu kullanmanıza izin vermiyorlar. Dağıtım yapılana kadarki süreçte bir tane el havlusu bulundurabilirsiniz. Size istikhak olarak **mavi havlu takımı** dağıtacaklar.
 - **Eşofman Takımı**
 - **5 Adet Metal Askı ve Gamboç (Elbise Kılıfı)** ihtiyacınız olacak ama dışarıdan almanıza gerek yok, içerideki kantinde satılıyor. Dışarıdan aldıklarınız farklı renkte veya desende olursa kullanmanıza izin vermiyorlar. Bunu kantinden almanızı tavsiye ederim.
 - **İçlik Takımı (Alt ve Üst)** mümkünse termal, rengi önemli değil ama haki olması avantaj olacaktır. Görünen kısımlardaki her şeyiniz haki olmak zorunda. Bunu abartıp iç çamaşırını da haki alanlar oldu, gerek yok.
@@ -217,15 +217,15 @@ Eğitim içeriği yukarıda bahsettiğim gibi olmakla birlikte detay vermem doğ
 
 Kapının önünde kafa dengi gördüğünüz insanlar olursa içeriye beraber girmeye çalışın. Kayıtta size Takım ve sıranızın yazdığı bir küpür verecekler. Bu küpürle birlikte koğuşlara kaydınız yapılacak. Bu aşamada sistemi sizden önceki bir kaç kişiden görürsünüz zaten, o anda ard arda gittiğiniz adam ya badiniz (alt ve ya üst yatak komşusu) ya da yandaki yatakta olacak. İçerideki sistem sizi badinize zimmetliyor, o arkadaşınızın her şeyinden sorumlusunuz, hastalandığında hastaneye götürürken bile siz gideceksiniz. O yüzden düzgün adamlar seçmeye çalışın.
 
-* Telefon Şarjları
+- **Telefon Şarjları**
 
 Telefonlarınızı genellikle tuvaletlerdeki prizlerde şarj ediyorsunuz, bazı koğuşlarda prizler var ama şansınıza kalmış. Çoğunlukla çalışmıyor. Yemekhane ve gazinoda bulduğunuz prize çökebilirsiniz. Bu sebeple yanınızda duvara takılan çoklayıcı 3'lü prizlerden almanızda fayda var. Kamuflajın bol bol cebi olduğu için ben şarj aletini yanımda taşıyor, bulduğum prize takıyordum. Tuşlu telefon orada en büyük dostunuz ve moral kaynağınız oluyor.
 
-* İçeride koğuş nöbeti tutacaksınız, genellikle 28 günlükler için 1 veya 2 nöbet anca gelecek. O da 2 saatlik bir nöbet. Badinizle birlikte tutacaksınız. Uyumayın sakın.
+- İçeride **koğuş nöbeti** tutacaksınız, genellikle 28 günlükler için 1 veya 2 nöbet anca gelecek. O da 2 saatlik bir nöbet. Badinizle birlikte tutacaksınız. Uyumayın sakın.
 
-* Rahatsızlanırsanız revire gidebiliyorsunuz ama en son çare olarak kalsın. Hatta mümkünse hiç gitmemeye çalışın. Çünkü revir oldukça uzak ve yazılan ilaçlar standart, günlük belli bir sayıda muayenenin ötesine geçilmiyor.
+- Rahatsızlanırsanız revire gidebiliyorsunuz ama en son çare olarak kalsın. Hatta mümkünse hiç gitmemeye çalışın. Çünkü **revir oldukça uzak ve yazılan ilaçlar standart**, günlük belli bir sayıda muayenenin ötesine geçilmiyor.
 
-* İçeride size iki doz aşı yapacaklar. Bir tanesi tetanoz bir tanesi de difteri diye hatırlıyorum ama karıştırıyor olabilirim. Aşıların sonrasında vücudunuzda bir kırgınlık ve halsizlik oluyor bu aşamadan sonra yorgunlukla birlikte hastalanma riskiniz çok fazla. Sizde olmasa bile o kadar kişiden biri mutlaka hasta olup herkese bulaştırıyor, dikkatli olun diyebileceğim bir şey yok illa ki hastalanıyorsunuz. Yanınıza aldığınız ilaçları girişte teslim ettiğiniz için ilaç saatlerinde gidip kontrollü şekilde alabilirsiniz. O şekilde kullanmaya çalışın.
+- İçeride size **iki doz** aşı yapacaklar. Bir tanesi tetanoz bir tanesi de difteri diye hatırlıyorum ama karıştırıyor olabilirim. Aşıların sonrasında vücudunuzda bir kırgınlık ve halsizlik oluyor bu aşamadan sonra yorgunlukla birlikte hastalanma riskiniz çok fazla. Sizde olmasa bile o kadar kişiden biri mutlaka hasta olup herkese bulaştırıyor, dikkatli olun diyebileceğim bir şey yok illa ki hastalanıyorsunuz. Yanınıza aldığınız ilaçları girişte teslim ettiğiniz için ilaç saatlerinde gidip kontrollü şekilde alabilirsiniz. O şekilde kullanmaya çalışın.
 
 * Geceden traş olur yatarım düşüncesi aklınızda varsa sakın yapmayın, **herkes sabah vakti traş olmak zorunda**. İlk günlerdeki traş sırası sizi korkutmasın, ilerleyen günlerde sistem oturuyor ama yine de her türlü 10-15 dakika kadar sıra bekliyorsunuz.
 
@@ -233,7 +233,7 @@ Telefonlarınızı genellikle tuvaletlerdeki prizlerde şarj ediyorsunuz, bazı 
 
 * **Topçu Marşı, Harbiye Marşı, ANTK41** 'e gitmeden önce göz atmanızda fayda var. Hatta size ufak bir ipucu, vaktiniz olursa tükenmez kalemle **5 tane ANTK41** yazın A4 kağıdına, içeriye girerken yanınızda olsun.
 
-* Son olarak yemekhane çıkışında kapının orada tüylü bir kedi olacak, eğer halen duruyorsa yemeklerden bir parça getirirmeye çalışın :) Oralarda yemek bekliyorlar.
+* Son olarak yemekhane çıkışında kapının orada tüylü bir kedi olacak, eğer halen duruyorsa aklınıza geldikçe yemeklerden bir parça getirmeye çalışın :) Oralarda yemek bekliyorlar.
 
 Aklıma gelen tüm detaylar bu şekilde, yine de ekstra sorusu olan olursa bu yazının altındaki yorumlar kısmından ulaşabilirseniz cevaplandırmış olurum.
 
