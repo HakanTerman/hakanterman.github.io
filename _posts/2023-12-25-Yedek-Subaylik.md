@@ -4,7 +4,7 @@ tags: [yedek subaylık,  askerlik, astegmen olmak, astcavus olmak]
 header:
   teaser: /assets/images/posts/yedeksubay.jpeg
   image: /assets/images/posts/yedeksubay.jpeg
-  caption: "Fotoğraf Sahibi : [Iuri Akopov](https://500px.com/p/iuriakopov)"
+  caption: "Fotoğraf Sahibi : [Anadolu Ajansı](https://www.aa.com.tr/tr/gundem/en-buyuk-harbiyeli-ataturkun-kara-harp-okuluna-girisinin-124-yil-donumu-torenle-kutlandi/2844324)"
 category: Kisisel
 layout: single
 permalink: /kisisel/Yedek-Subaylik/
