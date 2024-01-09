@@ -102,12 +102,12 @@ Askerliğinizin bitmesine 30 gün kala rütbe terfileriniz gelecek ve kalan 1 ay
 
 Ben meslekçi olduğum için, meslekçilerin sınav içeriği ve gördüğü yazılı eğitimden bahsedebilirim.
 
-Yanaşık Düzen
-Tek Er Muharebe
+- Yanaşık Düzen
+- Tek Er Muharebe
 
 Bu iki dersten sınava tabi tutulacaksınız, bunun eğitimlerini yazılı ve uygulamalı olarak alacaksınız.
 
-İstihbaraha Karşı Koyma ve Yönetmeliği anlatan derslerden de sözlü olarak eğitim alacaksınız ancak yazılı sınav bu dersi kapsamıyor.
+İstihbarat ve Yönetmeliği anlatan derslerden de sözlü olarak eğitim alacaksınız ancak yazılı sınav bu dersi kapsamıyor.
 
 Bu sınavlardan kalan arkadaşlar oluyor, böyle bir durumda statü kaybı olarak Er olarak devam ediyorsunuz. Eğitimdeki geçirdiğiniz günler gününüzden düşürülüyor ve geri kalan günlerinizi tamamlayıp terhis oluyorsunuz. Statü kaybı için 2 etken var sınavlar ve güvenlik soruşturması.
 
@@ -119,7 +119,7 @@ Buraya kadar başarıyla geldiğinizi varsayarsak, öncelikle bir çok yerde yaz
 
 ## Kura Süreci, Askerlik Yerinizi Kendiniz Belirliyorsunuz
 
-Yedek Subay ve Yedek Astsubay olan arkadaşlar, istediğiniz ilde askerlik yapma şansınız var. Eğitimden sonraski dönemde yanı sevk edileceğiniz kıtanızın yerini ihtiyaca göre açılan seçenekler arasından siz kendiniz belirliyorsunuz.
+Yedek Subay ve Yedek Astsubay olan arkadaşlar, istediğiniz ilde askerlik yapma şansınız var. Eğitimden sonraki dönemde yanı sevk edileceğiniz kıtanızın yerini ihtiyaca göre açılan seçenekler arasından siz kendiniz belirliyorsunuz.
 
 Bu seçeneklerin olduğu bir torba içerisinden çekeceğiniz kağıtla görev yerinizi belirliyorsunuz. Bodrum ile Hakkari'nin aynı torbada olması bile mümkün. Bu duruma bir istisna var ki o daha da hoşunuza gidecek, yukarıda sınav sınav diye belirttiğimi hatırlarsınız, sınıf okulu mezuniyet puanına göre %10’luk dilime giren kursiyerler kura çekmek yerine, kurada bulunan yerlerden istediğini seçiyor.
 
