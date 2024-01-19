@@ -64,13 +64,13 @@ Amatör telsizciler, ISS mürettebatıyla dünyanın dört bir yanından iletiş
 
 ![ARISS](/assets/images/posts/yazi/ISS/ARISS.jpeg)
 
-- İstasyon Üzerinde Bir Tane de Amatör Röle bulunmamakta
+- **İstasyon Üzerinde Bir Tane de Amatör Röle bulunmamakta**
 
 ARISS (Amateur Radio on the International Space Station), ISS üzerindeki amatör telsiz ekipmanını kullanarak dünya genelindeki amatör telsizcilerle iletişim kurmayı mümkün kılar. ARISS, astronotların ISS'de bulundukları süre zarfında amatör telsizcilerle iletişim sağlayarak bilim, eğitim ve halkla ilişkiler amaçlarına hizmet etmekte.
 
 Amatör radyo frekansları üzerinden gerçekleşen bu iletişim, amatör telsizcilerin dünya çapında ISS ile ve birbirleri ile de bağlantı kurmalarına olanak tanır. Rölede her zaman bir astronot olmasa da dünyanın diğer ucundan başka bir amatörün sesini duyabilirsiniz.
 
-- ISS Üzerindeki Cross-Band Repeater Frekansları:
+- **ISS Üzerindeki Cross-Band Repeater Frekansları:**
 
 ISS'nin cross-band repeater özelliği, bir frekanstan alınan sinyali diğer bir frekansa tekrarlar.
 Genellikle 70 santimetre (UHF) bandında alır ve 2 metre (VHF) bandında tekrarlar.
@@ -78,7 +78,7 @@ UHF frekansı: 437.800 MHz, VHF frekansı: 145.990 MHz
 
 ISS'in geçişlerini ise ISS Detector Pro gibi bir uygulama ile takip edebilirsiniz. SSTV Yazımızda da buna değinmiştik deyip linkini [buraya](https://hakanterman.com/teknoloji/SSTV-Nedir-ARISS-SSTV-Sertifikalari/) bırakıyorum.
 
-- Kısaca Anlatmak Gerekirse
+- **Kısaca Anlatmak Gerekirse**
 
 Öncelikle ISS'in bölgemizden geçişini takip etmek için telefonumuza AppStore ya da Google Play üzerinden ISS Detector ya da W1ANT Uygulamalarından birini indiriyoruz. Ben arayüzüne alıştığım için ve kullanım kolaylığı olduğu için ISS Detector uygulamasını kullanıyorum.
 
@@ -89,12 +89,12 @@ Amatör radyoları açtıktan sonra uydular kısmından ISS'i işaretlemeniz ve 
 ![ISS-Detector](https://cdn.webtekno.com/custom/images/123145/tr-android-iss-detector-satellite-tracker-5.jpg)
 * Görsel : WebTekno
 
-- Nasıl Bir Antenle Ulaşabilirim ?
+- **Nasıl Bir Antenle Ulaşabilirim ?**
 
 ISS Röleye ulaşabilmek için yagi antene ihtiyacınız var, dinleme için telsizinizin kendi anteni iş görüyor olsa da göndermek yapabilmek için yagi anten sahibi olmanız şart.
 Bu konuda sizi yine daha önceden anlatımını yapmış olduğum [Şerit Metre İle 3+5 Dual Band Yagi Telsiz Anteni Yapımı](https://hakanterman.com/teknoloji/Serit-Metre-Ile-Yagi-Telsiz-Anteni-Yapimi/) yazımı incelemeye davet edebilirim. Piyasada hazır şekilde satan amatör telsizci arkadaşlarımız da mevcut.
 
- - APRS Sistemi
+ - **APRS Sistemi**
 
 APRS (Automatic Packet Reporting System) ise amatör telsizcilerin konum bilgilerini ve diğer verilerini paylaşmalarını sağlayan bir protokoldür. ISS, amatör telsizcilerin dünya genelindeki konumlarını paylaşmalarına olanak tanıyan bir APRS istasyonu olarak da kullanılabilir. Gönderilen APRS Paketleri ISS üzerindeki tekrarlayıcı sayesinde dünyanın herhangi bir yerindeki APRS alıcısına ulaşıp sisteme düşecektir.
 
