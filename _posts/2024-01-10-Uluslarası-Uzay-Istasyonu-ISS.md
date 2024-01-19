@@ -1,5 +1,5 @@
 ---
-title: Uluslararası Uzay İstasyonu
+title: Uluslararası Uzay Istasyonu - ISS
 tags: [uluslararası uzay istasyonu, iss nedir, uzayda yaşam, falcon 9 roketi, dikey iniş teknolojisi, amatör telsiz iletişimi, ariss frekansları, iss geçişleri takip, elon musk uzay projeleri, alper gezeravci]
 header:
   teaser: /assets/images/posts/ISS.jpg
@@ -7,7 +7,6 @@ header:
   caption: "Fotoğraf Sahibi : [FreePik](https://www.freepik.com/premium-ai-image/international-space-station-orbiting-earth-with-stars-as-stunning-backdrop_70160176.htm)"
 category: Teknoloji
 layout: single
-toc: true
 permalink: /teknoloji/Uluslarası-Uzay-Istasyonu-ISS/
 ---
 
