@@ -1,6 +1,6 @@
 ---
 title: Uluslararası Uzay İstasyonu - Uzaydaki Evimiz ISS
-tags: [uluslararası uzay istasyonu, iss nedir, uzayda yaşam, falcon 9 roketi, dikey iniş teknolojisi, amatör telsiz iletişimi, ariss frekansları, iss geçişleri takip, elon musk uzay projeleri, alper gezeravci]
+tags: [uluslararası uzay istasyonu, iss nedir, uzayda yaşam, falcon 9 roketi, dikey iniş teknolojisi, amatör telsiz iletişimi, ariss frekansları, iss geçişleri takip, elon musk uzay projeleri, alper gezeravci, TA5TRU, KJ5DIY, axiom mission 3]
 header:
   teaser: /assets/images/posts/ISS.jpg
   image: /assets/images/posts/ISS.jpg
@@ -30,6 +30,10 @@ Falcon 9 roketi, dikey iniş yeteneği ile bu durumu değiştirdi. Roket, fırla
 
 Dikey iniş teknolojisi, SpaceX'in maliyetleri düşürmesine ve daha sık fırlatma gerçekleştirmesine olanak tanıdı. Aynı roketin birden fazla görevde kullanılabilmesi, malzeme ve işçilik maliyetlerini önemli ölçüde azalttı. Bu da uzaya yapılan fırlatmaların maliyetini düşürerek, daha fazla insanın uzaya gitmesini ve uzay keşif faaliyetlerini artırmasını sağladı.
 
+## Uzayda İnsanlar Var
+
+Uluslararası Uzay İstasyonu'nda (ISS) şu an insanlar, uzayda yaşamın benzersiz bir deneyimini paylaşıyorlar. ISS mürettebatı, dünyanın çeşitli yerlerinden gelen astronotlar ve kozmonotlardan oluşur. Bu uzay yolcuları, bilim, araştırma ve uzay keşfi için bir araya gelerek ISS'de bir süreliğine evleri haline getiriyorlar.
+
 ## Yerçekimi ve Uyku: ISS'nin Sıradışı Yaşamı
 
 ISS, Dünya'dan tam 408 kilometre yükseklikte dolaşıyor. Peki, yerçekimi yok mu? Var tabii ki, ama çok daha zayıf. Bu durumda astronotlar, yataklarına yapışmak yerine süzülerek uyuyorlar. Su içerken veya uyurken videolarının olduğu bir youtube kanalları bile mevcut.
@@ -51,6 +55,14 @@ Yüksek hızda yörüngede dönerek kütle çekimini hisseder, ancak içinde bul
 Güneş panelleri, uzay istasyonunu besleyen elektrik enerjisini üretir. Bu elektrik enerjisi, istasyonun sistemlerini çalıştırmak, bilimsel deneylerde kullanılan cihazları beslemek ve astronotların günlük yaşamlarını sürdürebilmeleri için gerekli olan enerjiyi sağlamak için kullanılır.
 
 Yakıt ise genellikle manevra yapma veya yörünge düzeltme gibi özel durumlar için kullanılır. ISS'nin ana enerji kaynağı güneş panelleridir, bu nedenle uzaydaki havada durma veya ilerleme gibi kavramlar, Dünya'daki yerçekimi ve atmosfer şartlarından farklıdır.
+
+## ISS'i Çıplak Gözle Görebilirsiniz
+
+ISS, genellikle gün batımı veya gün doğumu sırasında Güneş tarafından aydınlatıldığı için, bu zamanlarda gökyüzünde belirgin bir parlak iz olarak görülebilmekte.
+
+Güneş ışığını da yansıttığı için gece vakti geçişlerinde çok net olarak görülebilir. Ayın ışığı veya şehir ışıkları gibi diğer aydınlatma kaynakları da ISS'in görünürlüğünü etkileyebiliyor. Işık kirliliğinin olmadığı ortamlarda geçiş saatlerini denk getirebilirseniz gözünüzle geçişi takip edebilirsiniz.
+
+Bulutsuz bir hava durumu, ISS'in gökyüzündeki seyrini izlemek için en elverişli koşullardan biridir. Bulutsuz bir gecede, ISS'in parlak bir yıldız gibi hareket ettiğini ve genellikle doğudan batıya doğru seyrettiğini gözlemleyebilirsiniz.
 
 ## Dönüş Yolu: Dünya'ya Dönüş ve Bir Sonraki Macera
 
