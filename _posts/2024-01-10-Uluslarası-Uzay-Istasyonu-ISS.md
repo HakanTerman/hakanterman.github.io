@@ -86,7 +86,9 @@ Amatör radyo frekansları üzerinden gerçekleşen bu iletişim, amatör telsiz
 
 ISS'nin cross-band repeater özelliği, bir frekanstan alınan sinyali diğer bir frekansa tekrarlar.
 Genellikle 70 santimetre (UHF) bandında alır ve 2 metre (VHF) bandında tekrarlar.
-UHF frekansı: 437.800 MHz, VHF frekansı: 145.990 MHz
+
+- UHF frekansı: 437.800 MHz (Rx)
+- VHF frekansı: 145.990 MHz (Tx)
 
 ISS'in geçişlerini ise ISS Detector Pro gibi bir uygulama ile takip edebilirsiniz. SSTV Yazımızda da buna değinmiştik deyip linkini [buraya](https://hakanterman.com/teknoloji/SSTV-Nedir-ARISS-SSTV-Sertifikalari/) bırakıyorum.
 
