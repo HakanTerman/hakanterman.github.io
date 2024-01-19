@@ -5,10 +5,10 @@ header:
   teaser: /assets/images/posts/ISS.jpg
   image: /assets/images/posts/ISS.jpg
   caption: "Fotoğraf Sahibi : [FreePik](https://www.freepik.com/premium-ai-image/international-space-station-orbiting-earth-with-stars-as-stunning-backdrop_70160176.htm)"
-  category: Teknoloji
-  layout: single
-  toc: true
-  permalink: /teknoloji/Uluslarası-Uzay-Istasyonu-ISS/
+category: Teknoloji
+layout: single
+toc: true
+permalink: /teknoloji/Uluslarası-Uzay-Istasyonu-ISS/
 ---
 
 Gökyüzünde parlayan bir inci tanesi gibi, Uluslararası Uzay İstasyonu (ISS) yıldızların arasında yapay bir dünya. Adeta bir bilim kampı gibi düşünebilirsiniz, ISS Dünya ülkelerinin uzaydaki bilim, teknoloji ve işbirliğinin muazzam bir örneği. Haydi, bu uzaydaki harika evimize bir göz atalım!
