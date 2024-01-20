@@ -76,7 +76,7 @@ Amatör telsizciler, ISS mürettebatıyla dünyanın dört bir yanından iletiş
 
 ![ARISS](/assets/images/posts/yazi/ISS/ARISS.jpeg)
 
-- **İstasyon Üzerinde Bir Tane de Amatör Röle bulunmamakta**
+- **İstasyon Üzerinde Bir Tane de Amatör Röle bulunmakta**
 
 ARISS (Amateur Radio on the International Space Station), ISS üzerindeki amatör telsiz ekipmanını kullanarak dünya genelindeki amatör telsizcilerle iletişim kurmayı mümkün kılar. ARISS, astronotların ISS'de bulundukları süre zarfında amatör telsizcilerle iletişim sağlayarak bilim, eğitim ve halkla ilişkiler amaçlarına hizmet etmekte.
 
@@ -105,7 +105,7 @@ Amatör radyoları açtıktan sonra uydular kısmından ISS'i işaretlemeniz ve 
 
 - **Nasıl Bir Antenle Ulaşabilirim ?**
 
-ISS Röleye ulaşabilmek için yagi antene ihtiyacınız var, dinleme için telsizinizin kendi anteni iş görüyor olsa da göndermek yapabilmek için yagi anten sahibi olmanız şart.
+ISS Röleye ulaşabilmek için yagi antene ihtiyacınız var, dinleme için telsizinizin kendi anteni iş görüyor olsa da gönderme yapabilmek için yagi anten sahibi olmanız şart.
 Bu konuda sizi yine daha önceden anlatımını yapmış olduğum [Şerit Metre İle 3+5 Dual Band Yagi Telsiz Anteni Yapımı](https://hakanterman.com/teknoloji/Serit-Metre-Ile-Yagi-Telsiz-Anteni-Yapimi/) yazımı incelemeye davet edebilirim. Piyasada hazır şekilde satan amatör telsizci arkadaşlarımız da mevcut.
 
  - **APRS Sistemi**
