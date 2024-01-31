@@ -6448,7 +6448,9 @@ img.mfp-img {
  display: block;
  border-bottom: 1px solid #f2f3f3;
 }
-
+.greedy-nav .hidden-links li:first-child{
+  margin-left:10px;
+}
 #daybtn {
     margin-top: 5px;
 }
