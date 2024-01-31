@@ -9,7 +9,8 @@ a:focus{outline:thin dotted #f89406;outline:5px auto #f89406;outline-offset:-2px
 }
 
 .greedy-nav .hidden-links li:last-child {
-
+  display: block;
+  border-bottom: 1px solid #f2f3f3;
 }
 
 nav > ul li ul {
