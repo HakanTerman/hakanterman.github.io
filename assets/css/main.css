@@ -13,14 +13,6 @@ a:focus{outline:thin dotted #f89406;outline:5px auto #f89406;outline-offset:-2px
   border-bottom: 1px solid #f2f3f3;
 }
 
-.masthead__menu-item li:first-child{
-  margin-left:18px;
-}
-
-.masthead__menu-item li:first-child a {
-  margin-left:18px;
-}
-
 #daybtn {
     margin-top: 5px;
 }
