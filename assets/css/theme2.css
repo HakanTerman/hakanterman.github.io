@@ -8,7 +8,7 @@ a:focus {
 }
 html {
     box-sizing: border-box;
-    background-color: #252a34
+    background-color: #252a34;
     font-size: 16px;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%}
@@ -626,7 +626,7 @@ tr, td, th {
 .btn--inverse {
     color: #7a8288 !important;
     border: 1px solid #bdc1c4 !important;
-    background-color: #252a34
+    background-color: #252a34;
 }
 .btn--inverse:hover {
     color: #fff !important;
@@ -1287,7 +1287,7 @@ tr, td, th {
     color: #7a8288;
     text-transform: uppercase;
     letter-spacing: 1px;
-    background-color: #252a34
+    background-color: #252a34;
     border: 1px solid #f2f3f3;
     border-radius: 4px;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125);
@@ -1691,7 +1691,7 @@ input, textarea, select {
     width: 100%;
     padding: 4px;
     margin-bottom: 5px / 4;
-    background-color: #252a34
+    background-color: #252a34;
     border: 1px solid #ccc;
     color: #494e52;
 }
@@ -1745,7 +1745,7 @@ select, input[type="file"] {
 }
 select {
     width: auto;
-    background-color: #252a34
+    background-color: #252a34;
 }
 select[multiple], select[size] {
     height: auto;
@@ -1856,7 +1856,7 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
     padding: 8px 20px;
     display: inline-block;
     font-size: 0.75em;
-    background-color: #252a34
+    background-color: #252a34;
     color: #000;
     border-width: 2px !important;
     border-style: solid !important;
