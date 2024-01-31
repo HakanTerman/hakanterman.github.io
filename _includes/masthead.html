@@ -20,7 +20,9 @@
                   <ul>
                       <!-- 2nd level -->
                       {% for child in link.children %}
-                      <li class="masthead__menu-item"><a href="{{ child.url | absolute_url }}">{{ child.title }}</a></li>
+                        <ul class="has-submenu">
+                            <ul class="masthead__menu-item"><a href="{{ child.url | absolute_url }}">{{ child.title }}</a></ul>
+                        </ul>
                       {% endfor %}
                   </ul>
             </li>

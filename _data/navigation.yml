@@ -6,6 +6,9 @@ main:
     url: /teknoloji/
   - title: "Listeler"
     url: /listeler/
+    children:
+      - title: "Test"
+        url: /test/
   - title: "LogBook"
     url: /logbook/
   - title: "İletişim"
