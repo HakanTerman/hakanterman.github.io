@@ -193,7 +193,7 @@ mapping:
 
 ### QRZ - QSO Kayıtları
 
-<iframe align="top" frameborder="0" height="350" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4HKN/" width="875"></iframe>
+<iframe align="top" class="logcerceve" frameborder="0" height="350" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4HKN/" width="875"></iframe>
 
 ### SWL Dinleme Kayıtları
 
