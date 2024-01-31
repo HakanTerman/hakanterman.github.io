@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* Colors */
-.body {
+.hakan {
   background-color: #252a34;
   text-color: #eaeaea;
   primary-color: #00adb5;
@@ -155,7 +155,7 @@ textarea {
 body {
   margin: 0;
   padding: 0;
-  color: #494e52;
+  color: #eaeaea;
   font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   line-height: 1.5;
 }
@@ -206,7 +206,7 @@ p {
 
 u, ins {
   text-decoration: none;
-  border-bottom: 1px solid #494e52;
+  border-bottom: 1px solid #eaeaea;
 }
 
 u a, ins a {
@@ -225,7 +225,7 @@ p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
 abbr[title], abbr[data-original-title] {
   text-decoration: none;
   cursor: help;
-  border-bottom: 1px dotted #494e52;
+  border-bottom: 1px dotted #eaeaea;
 }
 
 blockquote {
@@ -983,7 +983,7 @@ tr, td, th {
 }
 
 .notice--primary a:hover {
-  color: #494e52;
+  color: #eaeaea;
 }
 
 .notice--primary code {
@@ -2075,7 +2075,7 @@ btnform legend {
   margin-bottom: 10px;
   *margin-left: -7px;
   padding: 0;
-  color: #494e52;
+  color: #eaeaea;
   border: 0;
   border-bottom: 1px solid #ccc;
   white-space: normal;
@@ -2109,7 +2109,7 @@ label {
   display: block;
   margin-bottom: 10px/8;
   font-weight: bold;
-  color: #494e52;
+  color: #eaeaea;
   cursor: pointer;
 }
 
@@ -2124,7 +2124,7 @@ input, textarea, select {
   margin-bottom: 5px/4;
   background-color: #252a34;
   border: 1px solid #ccc;
-  color: #494e52;
+  color: #eaeaea;
 }
 
 input:hover, textarea:hover, select:hover {
