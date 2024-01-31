@@ -1430,19 +1430,19 @@ tr, td, th {
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: #fff;
+  background: #252a34;
 }
 
 .greedy-nav a {
   display: block;
   margin: 0 1rem;
   padding: 0.5rem 0;
-  color: #7a8288;
+  color: #8cd2d5;
   text-decoration: none;
 }
 
 .greedy-nav a:hover {
-  color: #5c6266;
+  color: #a9dde0;
 }
 
 .greedy-nav button {
@@ -1452,7 +1452,7 @@ tr, td, th {
   padding: 0 0.5rem;
   border: 0;
   outline: none;
-  background-color: #7a8288;
+  background-color: #eaeaea;
   color: #fff;
   cursor: pointer;
 }
