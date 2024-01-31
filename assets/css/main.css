@@ -13,6 +13,10 @@ a:focus{outline:thin dotted #f89406;outline:5px auto #f89406;outline-offset:-2px
   border-bottom: 1px solid #f2f3f3;
 }
 
+#daybtn {
+    margin-top: 10px;
+}
+
 nav > ul li ul {
   display: none;
   z-index: 100;

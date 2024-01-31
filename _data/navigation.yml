@@ -7,7 +7,16 @@ main:
   - title: "Listeler"
     url: /listeler/
     children:
-      - title: "Test"
+      - title: "Filmler"
+        url: /test/
+    children:
+      - title: "Diziler"
+        url: /test/
+    children:
+      - title: "Kitaplar"
+        url: /test/
+    children:
+      - title: "Yer İmleri"
         url: /test/
   - title: "LogBook"
     url: /logbook/
