@@ -26,6 +26,19 @@
   background-color: #1f242c;
 }
 
+table.dataTable tbody tr {
+    background-color: #1f242c;
+}
+
+thead {
+    background-color: #1e222a;
+    border-bottom: 1px solid #bdc1c4;
+}
+
+.logcerceve {
+  background-color: #aeaeae;
+}
+
 a:focus {
   outline: thin dotted #f89406;
   outline: 5px auto #f89406;
