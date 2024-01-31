@@ -30,11 +30,6 @@ table.dataTable tbody tr {
     background-color: #1f242c;
 }
 
-thead {
-    background-color: #1e222a;
-    border-bottom: 1px solid #bdc1c4;
-}
-
 .logcerceve {
   background-color: #aeaeae;
 }
@@ -757,8 +752,8 @@ table + table {
 }
 
 thead {
-  background-color: #f2f3f3;
-  border-bottom: 1px solid #bdc1c4;
+    background-color: #1e222a;
+    border-bottom: 1px solid #bdc1c4;
 }
 
 th {
