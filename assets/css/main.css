@@ -17,6 +17,9 @@ a:focus{outline:thin dotted #f89406;outline:5px auto #f89406;outline-offset:-2px
     margin-top: 5px;
 }
 
+#altmenu {
+    display: block;
+}
 nav > ul li ul {
   display: none;
   z-index: 100;
