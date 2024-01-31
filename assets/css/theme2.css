@@ -954,7 +954,7 @@ tr, td, th {
   font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 0.75em !important;
   text-indent: initial;
-  background-color: #f2f3f3;
+  background-color: #00adb5;
   border-radius: 4px;
   box-shadow: 0 1px 1px rgba(122, 130, 136, 0.25);
 }
@@ -979,7 +979,7 @@ tr, td, th {
 }
 
 .notice--primary a {
-  color: #7a8288;
+  color: #00adb5;
 }
 
 .notice--primary a:hover {
@@ -987,7 +987,7 @@ tr, td, th {
 }
 
 .notice--primary code {
-  background-color: #f8f9f9;
+  background-color: #51555d;
 }
 
 .notice--primary ul:last-child {
@@ -1180,7 +1180,7 @@ tr, td, th {
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid #f2f3f3;
+  border-bottom: 1px solid #51555d;
   -webkit-animation: intro 0.3s both;
   animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
