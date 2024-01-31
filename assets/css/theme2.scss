@@ -1,4 +1,4 @@
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin2 | default: 'dark' }}"; // skin
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin2 | default: 'default' }}"; // skin
 
 a:focus {
     outline: thin dotted #f89406;
