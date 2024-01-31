@@ -6438,3 +6438,22 @@ img.mfp-img {
   font-weight: 500;
   line-height: 32px;
 }
+
+.masthead__menu-item {
+    z-index: 500;
+    background: #252a34;
+}
+
+.greedy-nav .hidden-links li:last-child {
+ display: block;
+ border-bottom: 1px solid #f2f3f3;
+}
+
+nav > ul li ul {
+ display: none;
+ z-index: 100;
+ position: absolute;
+}
+nav > ul li:hover ul {
+ display: block;
+}
