@@ -6444,13 +6444,14 @@ img.mfp-img {
     background: #252a34;
 }
 
-.greedy-nav .hidden-links li:last-child {
- display: block;
- border-bottom: 1px solid #f2f3f3;
-}
-.greedy-nav .hidden-links li:first-child{
+.masthead__menu-item .greedy-nav .hidden-links li:first-child{
   margin-left:18px;
 }
+
+.masthead__menu-item .greedy-nav .visible-links li:first-child a {
+  margin-left:18px;
+}
+
 #daybtn {
     margin-top: 5px;
 }
