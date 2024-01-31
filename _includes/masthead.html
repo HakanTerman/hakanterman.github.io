@@ -19,11 +19,11 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
                   <ul>
                       <!-- 2nd level -->
-                      {% for child in link.children %}
-                        <ul class="has-submenu">
+                      <ul class="has-submenu">
+                        {% for child in link.children %}
                             <ul class="masthead__menu-item"><a href="{{ child.url | absolute_url }}">{{ child.title }}</a></ul>
-                        </ul>
-                      {% endfor %}
+                        {% endfor %}
+                      </ul>
                   </ul>
             </li>
           {% endfor %}
