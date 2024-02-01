@@ -13,7 +13,7 @@ main:
         url: /test/
       - title: "Kitaplar"
         url: /test/
-      - title: "Yer İmleri"
+      - title: "Kısayollar"
         url: /test/
   - title: "LogBook"
     url: /logbook/
