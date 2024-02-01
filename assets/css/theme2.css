@@ -6453,6 +6453,7 @@ img.mfp-img {
 
 #altmenu {
     display: block;
+    padding-right: 15px;
 }
 nav > ul li ul {
   display: none;
