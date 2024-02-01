@@ -1234,7 +1234,7 @@ tr, td, th {
 
 @media (min-width: 64em) {
   .masthead__menu {
-    padding-left: 21.18644%;
+    padding-left: 17.18644%;
   }
 }
 .masthead__menu ul {
@@ -1479,7 +1479,6 @@ tr, td, th {
 }
 
 .greedy-nav .visible-links li:first-child a {
-  margin-left: 0;
 }
 
 .greedy-nav .visible-links li:last-child a {
@@ -6448,20 +6447,19 @@ img.mfp-img {
   margin-left:18px;
 }
 
-.masthead__menu-item .greedy-nav .visible-links li:first-child a {
-  margin-left:18px;
-}
-
 #daybtn {
     margin-top: 5px;
 }
 
+#altmenu {
+    display: block;
+}
 nav > ul li ul {
- display: none;
- z-index: 100;
- position: absolute;
- font-size: 1.10em;
+  display: none;
+  z-index: 100;
+  position: absolute;
+  font-size: 1.10em;
 }
 nav > ul li:hover ul {
- display: block;
+  display: block;
 }
