@@ -12,7 +12,7 @@ permalink: /kisisel/Yivsiz-Av-Tufegi-Ruhsati-Nasil-Alinir/
 
 Merhaba, bir süredir almak isteyip de ertelediğim şeylerden biri olan "Yivsiz Av Tüfeği"ni 2024 zamlarından etkilenmeden almak için 2023'ün son günlerinde aradan çıkarmak istedim.
 
-Sonrasında bahsettiğim ya da öğrenen bir kaç tanıdığım sürecin nasıl işlediğini sorunca hem elimin altında hazırda dursun, hem de merak eden varsa buradan da bilgi alabilsin diye blogda bir yazı yazmaya karar verdim.
+Sonrasında bu işlemden bahsettiğim ya da av tüfeğim olduğunu öğrenen bir kaç tanıdığım sürecin nasıl işlediğini sorunca hem elimin altında hazırda bir rehber olsun, hem de merak eden varsa buradan da bilgi alabilsin diye blogda bir yazı yazmaya karar verdim.
 
 # Hangi Şartları Sağlamalıyım
 
