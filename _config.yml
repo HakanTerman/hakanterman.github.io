@@ -146,7 +146,9 @@ author:
     - label: "Spotify"
       icon: "fab fa-fw fa-spotify"
       url: "https://open.spotify.com/user/HakanTerman"
-
+    - label: "F"
+      icon: "fas fa-heart"
+      url: "#"
 
 
 # Site Footer
