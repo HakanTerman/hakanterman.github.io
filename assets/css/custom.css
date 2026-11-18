@@ -1,5 +1,16 @@
 /* ==========================================================================
-   Custom Enhancements: iOS Theme Toggle, Social Icons & Responsive Fixes
+   Modern UI Enhancements (2025/2026 Polish)
+   1. iOS Style Theme Switch
+   2. Vibrant Social & Profile Icons (Gündüz & Gece)
+   3. Custom Sleek Scrollbar
+   4. Reading Progress Bar
+   5. Code Blocks & Copy to Clipboard Button
+   6. Masthead Glassmorphism & Animated Underline
+   7. Blog Post Cards (Depth, Hover Lift & Teaser Zoom)
+   8. Timeline Design for Kişisel & Teknoloji
+   9. Author Profile Sidebar Refinements
+   10. Modern Callouts, Notices & Quotes
+   11. Responsive Media & Leaflet / QRZ Fixes
    ========================================================================== */
 
 /* --------------------------------------------------------------------------
@@ -106,7 +117,6 @@
   transform: translateY(-50%) scale(1);
 }
 
-/* In greedy navigation dropdown (mobile) */
 .hidden-links .masthead__theme-toggle {
   display: flex !important;
   padding: 10px 15px !important;
@@ -225,7 +235,7 @@
   fill: #0a66c2 !important;
 }
 
-/* GitHub (Gündüz koyu, gece beyaz) */
+/* GitHub */
 .author__urls .fa-github,
 .author__urls .fa-github-alt,
 .author__urls .fa-github-square,
@@ -327,7 +337,361 @@
 }
 
 /* --------------------------------------------------------------------------
-   3. Responsive Media Fixes (Logbook & Tables)
+   3. Custom Sleek Scrollbar
+   -------------------------------------------------------------------------- */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.45);
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(100, 116, 139, 0.75);
+}
+
+.theme-dark ::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.22);
+}
+
+.theme-dark ::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+/* --------------------------------------------------------------------------
+   4. Reading Progress Bar (Sayfa Okuma İlerleme Çubuğu)
+   -------------------------------------------------------------------------- */
+#reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  width: 0%;
+  background: linear-gradient(90deg, #3b82f6, #06b6d4, #10b981);
+  z-index: 99999;
+  transition: width 0.12s cubic-bezier(0.1, 0.9, 0.2, 1);
+  box-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
+}
+
+/* --------------------------------------------------------------------------
+   5. Code Blocks & Copy to Clipboard Button (Kod Blokları & Kopyala)
+   -------------------------------------------------------------------------- */
+.highlighter-rouge,
+figure.highlight,
+pre.highlight {
+  position: relative !important;
+  border-radius: 10px !important;
+  overflow: hidden;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+}
+
+.theme-dark .highlighter-rouge,
+.theme-dark figure.highlight {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+}
+
+.code-copy-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  padding: 4px 10px;
+  font-size: 0.75rem;
+  font-family: inherit;
+  font-weight: 600;
+  color: #64748b;
+  background: rgba(255, 255, 255, 0.88);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 6px;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.2s ease, background-color 0.2s ease, color 0.2s ease, transform 0.15s ease;
+  z-index: 10;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.theme-dark .code-copy-btn {
+  color: #94a3b8;
+  background: rgba(40, 44, 52, 0.88);
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.highlighter-rouge:hover .code-copy-btn,
+figure.highlight:hover .code-copy-btn {
+  opacity: 1;
+}
+
+.code-copy-btn:hover {
+  color: #0f172a;
+  background: #ffffff;
+  transform: scale(1.04);
+}
+
+.theme-dark .code-copy-btn:hover {
+  color: #f8fafc;
+  background: #334155;
+}
+
+.code-copy-btn.copied {
+  color: #10b981 !important;
+  border-color: #10b981 !important;
+  opacity: 1 !important;
+}
+
+/* --------------------------------------------------------------------------
+   6. Masthead Glassmorphism & Animated Underline (Buzlu Cam Menü)
+   -------------------------------------------------------------------------- */
+.masthead {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.theme-dark .masthead {
+  background-color: rgba(37, 42, 52, 0.9) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+}
+
+.greedy-nav .visible-links > li > a {
+  position: relative;
+  transition: color 0.2s ease;
+}
+
+.greedy-nav .visible-links > li > a:not(.btn)::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 2px;
+  background: #3b82f6;
+  transition: width 0.25s ease, left 0.25s ease;
+  border-radius: 2px;
+}
+
+.greedy-nav .visible-links > li > a:hover::after {
+  width: 100%;
+  left: 0;
+}
+
+/* --------------------------------------------------------------------------
+   7. Blog Post Cards (Derinlik, Hover Lift & Teaser Zoom)
+   -------------------------------------------------------------------------- */
+.archive__item {
+  border-radius: 12px;
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  padding: 8px;
+}
+
+.archive__item:hover {
+  transform: translateY(-4px);
+}
+
+.archive__item-teaser {
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+.archive__item-teaser img {
+  border-radius: 10px;
+  transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.archive__item:hover .archive__item-teaser img {
+  transform: scale(1.04);
+}
+
+.archive__item-title a {
+  transition: color 0.2s ease;
+}
+
+.archive__item-title a:hover {
+  color: #3b82f6 !important;
+}
+
+.page__meta {
+  font-size: 0.8rem !important;
+  color: #64748b;
+  margin-top: 0.3em;
+}
+
+.page__meta i {
+  color: #3b82f6;
+}
+
+/* --------------------------------------------------------------------------
+   8. Timeline Design (Kişisel & Teknoloji Sayfaları İçin Zaman Tüneli)
+   -------------------------------------------------------------------------- */
+.posts {
+  position: relative;
+  padding: 10px 0 20px 28px !important;
+  margin: 20px 0;
+}
+
+/* Sol dikey degradeli çizgi */
+.posts::before {
+  content: "";
+  position: absolute;
+  top: 15px;
+  bottom: 15px;
+  left: 8px;
+  width: 2px;
+  background: linear-gradient(180deg, #3b82f6 0%, #10b981 100%);
+  border-radius: 2px;
+  opacity: 0.35;
+}
+
+.post {
+  position: relative;
+  margin-bottom: 10px !important;
+}
+
+/* Zaman tüneli parlayan nokta */
+.post::before {
+  content: "";
+  position: absolute;
+  left: -24px;
+  top: 14px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #3b82f6;
+  border: 2px solid #ffffff;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.25);
+  transition: transform 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+  z-index: 2;
+}
+
+.theme-dark .post::before {
+  border-color: #252a34;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.35);
+}
+
+.post:hover::before {
+  transform: scale(1.35);
+  background-color: #10b981;
+  box-shadow: 0 0 0 5px rgba(16, 185, 129, 0.3);
+}
+
+.post-inner {
+  display: flex !important;
+  align-items: center;
+  gap: 16px;
+  padding: 8px 14px !important;
+  border-radius: 8px;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.post:hover .post-inner {
+  background-color: rgba(59, 130, 246, 0.05);
+  transform: translateX(4px);
+}
+
+.theme-dark .post:hover .post-inner {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.post .date {
+  font-size: 0.85rem !important;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  color: #64748b !important;
+  background: rgba(100, 116, 139, 0.08);
+  padding: 4px 10px;
+  border-radius: 20px;
+  white-space: nowrap;
+  line-height: normal !important;
+}
+
+.theme-dark .post .date {
+  color: #94a3b8 !important;
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.post .title {
+  margin: 0;
+  line-height: 1.4 !important;
+  font-size: 1.05rem;
+}
+
+.post .title a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.post:hover .title a {
+  color: #3b82f6 !important;
+}
+
+/* --------------------------------------------------------------------------
+   9. Author Profile Sidebar Refinements (Sol Profil İyileştirmeleri)
+   -------------------------------------------------------------------------- */
+.author__avatar img {
+  border-radius: 50% !important;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s ease;
+}
+
+.author__avatar:hover img {
+  transform: scale(1.05);
+  box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.3), 0 8px 16px rgba(0, 0, 0, 0.12);
+}
+
+.author__bio {
+  font-size: 0.85rem !important;
+  color: #64748b;
+  margin-top: 6px !important;
+  line-height: 1.5;
+}
+
+.author__urls li a {
+  padding: 5px 10px !important;
+  border-radius: 6px;
+  transition: background-color 0.2s ease, transform 0.2s ease, padding-left 0.2s ease;
+}
+
+.author__urls li a:hover {
+  background-color: rgba(59, 130, 246, 0.08);
+  padding-left: 14px !important;
+}
+
+.theme-dark .author__urls li a:hover {
+  background-color: rgba(255, 255, 255, 0.06);
+}
+
+/* --------------------------------------------------------------------------
+   10. Modern Callouts, Notices & Quotes (Alıntılar & Kutular)
+   -------------------------------------------------------------------------- */
+blockquote {
+  border-left: 4px solid #3b82f6 !important;
+  background: rgba(59, 130, 246, 0.04);
+  border-radius: 0 8px 8px 0;
+  padding: 12px 18px !important;
+  font-style: normal !important;
+}
+
+.notice, .notice--info, .notice--warning, .notice--success, .notice--danger {
+  border-radius: 8px !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+/* --------------------------------------------------------------------------
+   11. Responsive Media Fixes (Logbook & Tables)
    -------------------------------------------------------------------------- */
 .responsive-iframe-wrap {
   position: relative;
