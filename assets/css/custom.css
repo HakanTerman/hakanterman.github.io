@@ -659,19 +659,75 @@ figure.highlight:hover .code-copy-btn {
   line-height: 1.5;
 }
 
-.author__urls li a {
+.author__urls li a,
+.author__urls li.author__location-item,
+.author__urls li[itemprop="homeLocation"] {
   padding: 5px 10px !important;
   border-radius: 6px;
   transition: background-color 0.2s ease, transform 0.2s ease, padding-left 0.2s ease;
 }
 
-.author__urls li a:hover {
+.author__urls li.author__location-item,
+.author__urls li[itemprop="homeLocation"] {
+  margin-bottom: 5px;
+  color: inherit;
+  font-size: 1em;
+  display: block;
+}
+
+.author__urls li a:hover,
+.author__urls li.author__location-item:hover,
+.author__urls li[itemprop="homeLocation"]:hover {
   background-color: rgba(59, 130, 246, 0.08);
   padding-left: 14px !important;
 }
 
-.theme-dark .author__urls li a:hover {
+.theme-dark .author__urls li a:hover,
+.theme-dark .author__urls li.author__location-item:hover,
+.theme-dark .author__urls li[itemprop="homeLocation"]:hover {
   background-color: rgba(255, 255, 255, 0.06);
+}
+
+/* Special Heart Link ("F" -> "Fatma" Typewriter & Heartbeat) */
+@keyframes heartbeat {
+  0% { transform: scale(1); }
+  14% { transform: scale(1.3); }
+  28% { transform: scale(1); }
+  42% { transform: scale(1.3); }
+  70% { transform: scale(1); }
+}
+
+.heart-special-link {
+  display: inline-flex !important;
+  align-items: center;
+  position: relative;
+}
+
+.heart-special-link:hover .fa-heart,
+.heart-special-link:hover svg.fa-heart {
+  animation: heartbeat 1.2s infinite ease-in-out;
+  display: inline-block;
+  transform-origin: center;
+}
+
+.heart-name-typewriter {
+  display: inline-flex;
+  align-items: center;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+}
+
+.heart-special-link .typing-cursor {
+  display: none;
+  color: #ef4444;
+  font-weight: 300;
+  margin-left: 1px;
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
 }
 
 /* --------------------------------------------------------------------------

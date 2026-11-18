@@ -117,10 +117,57 @@ jQuery(document).ready(function ($) {
     });
   }
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', setupCodeCopy);
-  } else {
+  // 3. Heart Link "Fatma" Typewriter Effect
+  function setupHeartTypewriter() {
+    var heartLinks = document.querySelectorAll('.heart-special-link');
+    heartLinks.forEach(function(link) {
+      var typedSpan = link.querySelector('.name-typed');
+      var cursor = link.querySelector('.typing-cursor');
+      if (!typedSpan) return;
+
+      var targetText = "atma";
+      var currentLength = 0;
+      var timer = null;
+      var typeSpeed = 70;
+      var backSpeed = 45;
+
+      link.addEventListener('mouseenter', function() {
+        clearInterval(timer);
+        if (cursor) cursor.style.display = 'inline';
+        timer = setInterval(function() {
+          if (currentLength < targetText.length) {
+            currentLength++;
+            typedSpan.textContent = targetText.slice(0, currentLength);
+          } else {
+            clearInterval(timer);
+          }
+        }, typeSpeed);
+      });
+
+      link.addEventListener('mouseleave', function() {
+        clearInterval(timer);
+        timer = setInterval(function() {
+          if (currentLength > 0) {
+            currentLength--;
+            typedSpan.textContent = targetText.slice(0, currentLength);
+          } else {
+            clearInterval(timer);
+            if (cursor) cursor.style.display = 'none';
+          }
+        }, backSpeed);
+      });
+    });
+  }
+
+  function initModernScripts() {
     setupCodeCopy();
+    setupHeartTypewriter();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initModernScripts);
+  } else {
+    initModernScripts();
   }
 })();
 </script>

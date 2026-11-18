@@ -43,7 +43,7 @@
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place" class="author__location-item">
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
         </li>
       {% endif %}
@@ -51,7 +51,11 @@
       {% if author.links %}
         {% for link in author.links %}
           {% if link.label and link.url %}
-            <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+            {% if link.label == "F" and link.icon contains "heart" %}
+              <li class="author__link-heart"><a href="{{ link.url }}" rel="nofollow noopener noreferrer" class="heart-special-link"><i class="{{ link.icon | default: 'fas fa-heart' }}" aria-hidden="true"></i> <span class="heart-name-typewriter"><span class="name-fixed">F</span><span class="name-typed"></span><span class="typing-cursor">|</span></span></a></li>
+            {% else %}
+              <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+            {% endif %}
           {% endif %}
         {% endfor %}
       {% endif %}
