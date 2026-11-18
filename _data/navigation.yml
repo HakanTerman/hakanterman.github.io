@@ -7,6 +7,8 @@ main:
   - title: "Listeler"
     url: /listeler/
     children:
+      - title: "Envanter"
+        url: /envanter/
       - title: "Filmler"
         url: /test/
       - title: "Diziler"
