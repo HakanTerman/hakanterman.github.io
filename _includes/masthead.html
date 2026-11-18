@@ -28,8 +28,50 @@
             </li>
           {% endfor %}
           {% if site.minimal_mistakes_skin2 %}
-            <a><li class="masthead__menu-item">
-            <i id = "daybtn" class = "fa fa-fw fa-adjust dark_mode_btn" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;"></i></li></a>
+            <li class="masthead__menu-item masthead__theme-toggle">
+              <label class="ios-switch" for="theme-toggle" title="Gece / Gündüz Modu">
+                <input type="checkbox" id="theme-toggle" aria-label="Gece / Gündüz Modu">
+                <span class="ios-slider">
+                  <span class="ios-slider-icon icon-sun"><i class="fas fa-sun"></i></span>
+                  <span class="ios-slider-icon icon-moon"><i class="fas fa-moon"></i></span>
+                </span>
+              </label>
+            </li>
+            <script>
+              (function() {
+                function initThemeToggle() {
+                  var toggle = document.getElementById('theme-toggle');
+                  if (!toggle) return;
+                  var currentTheme = localStorage.getItem('theme') || 'light';
+                  toggle.checked = (currentTheme === 'dark');
+
+                  toggle.onchange = function() {
+                    var node1 = document.getElementById('theme_source');
+                    var node2 = document.getElementById('theme_source_2');
+                    if (this.checked) {
+                      if (node1 && node2) {
+                        node1.setAttribute('rel', 'stylesheet alternate');
+                        node2.setAttribute('rel', 'stylesheet');
+                      }
+                      localStorage.setItem('theme', 'dark');
+                      document.documentElement.classList.add('theme-dark');
+                    } else {
+                      if (node1 && node2) {
+                        node2.setAttribute('rel', 'stylesheet alternate');
+                        node1.setAttribute('rel', 'stylesheet');
+                      }
+                      localStorage.setItem('theme', 'light');
+                      document.documentElement.classList.remove('theme-dark');
+                    }
+                  };
+                }
+                if (document.readyState === 'loading') {
+                  document.addEventListener('DOMContentLoaded', initThemeToggle);
+                } else {
+                  initThemeToggle();
+                }
+              })();
+            </script>
           {% endif %}
         </ul>
         {% if site.search == true %}

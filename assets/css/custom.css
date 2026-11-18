@@ -1,0 +1,354 @@
+/* ==========================================================================
+   Custom Enhancements: iOS Theme Toggle, Social Icons & Responsive Fixes
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. iOS Style Dark / Light Mode Switch
+   -------------------------------------------------------------------------- */
+.masthead__menu-item.masthead__theme-toggle {
+  display: inline-flex !important;
+  align-items: center;
+  vertical-align: middle;
+  padding: 0 10px !important;
+  margin: 0;
+  cursor: pointer;
+}
+
+.ios-switch {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  width: 50px;
+  height: 28px;
+  margin: 0;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+}
+
+.ios-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  position: absolute;
+  margin: 0;
+  pointer-events: none;
+}
+
+.ios-slider {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #e5e5ea;
+  border-radius: 28px;
+  transition: background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s ease;
+  overflow: hidden;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(0, 0, 0, 0.06);
+}
+
+.ios-slider:before {
+  position: absolute;
+  content: "";
+  height: 22px;
+  width: 22px;
+  left: 3px;
+  bottom: 3px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.22), 0 0 1px rgba(0, 0, 0, 0.12);
+  z-index: 2;
+}
+
+/* Checked state (Dark Mode) */
+.ios-switch input:checked + .ios-slider {
+  background-color: #34c759;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.25);
+}
+
+.ios-switch input:checked + .ios-slider:before {
+  transform: translateX(22px);
+}
+
+/* Icons inside the switch track */
+.ios-slider-icon {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 11px;
+  z-index: 1;
+  line-height: 1;
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.ios-slider-icon.icon-sun {
+  right: 7px;
+  color: #f59e0b;
+  opacity: 1;
+}
+
+.ios-slider-icon.icon-moon {
+  left: 8px;
+  color: #ffffff;
+  opacity: 0;
+}
+
+.ios-switch input:checked + .ios-slider .icon-sun {
+  opacity: 0;
+  transform: translateY(-50%) scale(0.6);
+}
+
+.ios-switch input:checked + .ios-slider .icon-moon {
+  opacity: 1;
+  transform: translateY(-50%) scale(1);
+}
+
+/* In greedy navigation dropdown (mobile) */
+.hidden-links .masthead__theme-toggle {
+  display: flex !important;
+  padding: 10px 15px !important;
+}
+
+/* --------------------------------------------------------------------------
+   2. Author Profile & Social Icons - Vibrant Brand Colors (Gündüz & Gece)
+   -------------------------------------------------------------------------- */
+.author__urls a,
+.social-icons a {
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.author__urls a:hover,
+.social-icons a:hover {
+  text-decoration: none;
+}
+
+.author__urls a i,
+.author__urls a svg,
+.social-icons a i,
+.social-icons a svg {
+  display: inline-block;
+  transition: transform 0.2s ease, filter 0.2s ease;
+  vertical-align: middle;
+}
+
+.author__urls a:hover i,
+.author__urls a:hover svg,
+.social-icons a:hover i,
+.social-icons a:hover svg {
+  transform: scale(1.18);
+}
+
+/* Location & Email */
+.author__urls .fa-map-marker-alt,
+.author__urls .fa-map-marker,
+.author__urls svg.fa-map-marker-alt,
+.social-icons .fa-map-marker-alt,
+.social-icons svg.fa-map-marker-alt {
+  color: #ea4335 !important;
+  fill: #ea4335 !important;
+}
+
+.author__urls .fa-envelope,
+.author__urls .fa-envelope-square,
+.author__urls svg.fa-envelope-square,
+.social-icons .fa-envelope,
+.social-icons .fa-envelope-square,
+.social-icons svg.fa-envelope-square {
+  color: #ea4335 !important;
+  fill: #ea4335 !important;
+}
+
+/* Web & Link */
+.author__urls .fa-link,
+.author__urls svg.fa-link,
+.social-icons .fa-link,
+.social-icons svg.fa-link {
+  color: #0284c7 !important;
+  fill: #0284c7 !important;
+}
+
+/* Amatör Telsiz (TA4HKN) - Canlı Radyo Turuncusu */
+.author__urls .fa-broadcast-tower,
+.author__urls svg.fa-broadcast-tower,
+.social-icons .fa-broadcast-tower,
+.social-icons svg.fa-broadcast-tower {
+  color: #f97316 !important;
+  fill: #f97316 !important;
+}
+
+/* Facebook */
+.author__urls .fa-facebook,
+.author__urls .fa-facebook-square,
+.author__urls .fa-facebook-f,
+.author__urls svg.fa-facebook-square,
+.social-icons .fa-facebook,
+.social-icons .fa-facebook-square,
+.social-icons .fa-facebook-f,
+.social-icons svg.fa-facebook-square {
+  color: #1877f2 !important;
+  fill: #1877f2 !important;
+}
+
+/* Twitter / X */
+.author__urls .fa-twitter,
+.author__urls .fa-twitter-square,
+.author__urls svg.fa-twitter-square,
+.social-icons .fa-twitter,
+.social-icons .fa-twitter-square,
+.social-icons svg.fa-twitter-square {
+  color: #1da1f2 !important;
+  fill: #1da1f2 !important;
+}
+
+/* Instagram */
+.author__urls .fa-instagram,
+.author__urls svg.fa-instagram,
+.social-icons .fa-instagram,
+.social-icons svg.fa-instagram {
+  color: #e1306c !important;
+  fill: #e1306c !important;
+}
+
+/* LinkedIn */
+.author__urls .fa-linkedin,
+.author__urls .fa-linkedin-in,
+.author__urls .fa-linkedin-square,
+.author__urls svg.fa-linkedin,
+.social-icons .fa-linkedin,
+.social-icons .fa-linkedin-in,
+.social-icons .fa-linkedin-square,
+.social-icons svg.fa-linkedin {
+  color: #0a66c2 !important;
+  fill: #0a66c2 !important;
+}
+
+/* GitHub (Gündüz koyu, gece beyaz) */
+.author__urls .fa-github,
+.author__urls .fa-github-alt,
+.author__urls .fa-github-square,
+.author__urls svg.fa-github,
+.social-icons .fa-github,
+.social-icons .fa-github-alt,
+.social-icons .fa-github-square,
+.social-icons svg.fa-github {
+  color: #24292f !important;
+  fill: #24292f !important;
+}
+
+/* Telegram */
+.author__urls .fa-telegram,
+.author__urls .fa-telegram-plane,
+.author__urls svg.fa-telegram,
+.social-icons .fa-telegram,
+.social-icons .fa-telegram-plane,
+.social-icons svg.fa-telegram {
+  color: #229ed9 !important;
+  fill: #229ed9 !important;
+}
+
+/* Snapchat */
+.author__urls .fa-snapchat,
+.author__urls .fa-snapchat-ghost,
+.author__urls .fa-snapchat-square,
+.author__urls svg.fa-snapchat,
+.social-icons .fa-snapchat,
+.social-icons .fa-snapchat-ghost,
+.social-icons .fa-snapchat-square,
+.social-icons svg.fa-snapchat {
+  color: #eab308 !important;
+  fill: #eab308 !important;
+}
+
+/* Skype */
+.author__urls .fa-skype,
+.author__urls svg.fa-skype,
+.social-icons .fa-skype,
+.social-icons svg.fa-skype {
+  color: #00aff0 !important;
+  fill: #00aff0 !important;
+}
+
+/* YouTube */
+.author__urls .fa-youtube,
+.author__urls .fa-youtube-play,
+.author__urls .fa-youtube-square,
+.author__urls svg.fa-youtube,
+.social-icons .fa-youtube,
+.social-icons .fa-youtube-play,
+.social-icons .fa-youtube-square,
+.social-icons svg.fa-youtube {
+  color: #ff0000 !important;
+  fill: #ff0000 !important;
+}
+
+/* Spotify */
+.author__urls .fa-spotify,
+.author__urls svg.fa-spotify,
+.social-icons .fa-spotify,
+.social-icons svg.fa-spotify {
+  color: #1db954 !important;
+  fill: #1db954 !important;
+}
+
+/* Kalp / Özel Link (F) */
+.author__urls .fa-heart,
+.author__urls svg.fa-heart,
+.social-icons .fa-heart,
+.social-icons svg.fa-heart {
+  color: #ef4444 !important;
+  fill: #ef4444 !important;
+}
+
+/* RSS */
+.author__urls .fa-rss,
+.author__urls .fa-rss-square,
+.author__urls svg.fa-rss-square,
+.social-icons .fa-rss,
+.social-icons .fa-rss-square,
+.social-icons svg.fa-rss-square {
+  color: #f97316 !important;
+  fill: #f97316 !important;
+}
+
+/* Dark Mode Overrides for Icons */
+.theme-dark .author__urls .fa-github,
+.theme-dark .author__urls .fa-github-alt,
+.theme-dark .author__urls .fa-github-square,
+.theme-dark .author__urls svg.fa-github,
+.theme-dark .social-icons .fa-github,
+.theme-dark .social-icons .fa-github-alt,
+.theme-dark .social-icons .fa-github-square,
+.theme-dark .social-icons svg.fa-github {
+  color: #f0f6fc !important;
+  fill: #f0f6fc !important;
+}
+
+/* --------------------------------------------------------------------------
+   3. Responsive Media Fixes (Logbook & Tables)
+   -------------------------------------------------------------------------- */
+.responsive-iframe-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 875px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-top: 15px;
+  margin-bottom: 25px;
+  border-radius: 6px;
+}
+
+.responsive-iframe-wrap iframe {
+  width: 100%;
+  max-width: 875px;
+  min-width: 320px;
+  display: block;
+}
+
+#map.map-home {
+  width: 100% !important;
+  max-width: 854px !important;
+  border-radius: 6px;
+}

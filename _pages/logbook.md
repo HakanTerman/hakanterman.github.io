@@ -193,7 +193,9 @@ mapping:
 
 ### QRZ - QSO Kayıtları
 
-<iframe align="top" class="logcerceve" frameborder="0" height="350" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4HKN/" width="875"></iframe>
+<div class="responsive-iframe-wrap">
+  <iframe align="top" class="logcerceve" frameborder="0" height="350" scrolling="yes" src="https://logbook.qrz.com/lbstat/TA4HKN/"></iframe>
+</div>
 
 ### SWL Dinleme Kayıtları
 
@@ -223,7 +225,7 @@ jQuery(document).ready(function ($) {
                     initmap(grid);
   });
 </script>
-<div id="map" class="map map-home" style="height: 300px; width: 854px; margin-top: 50px"></div>
+<div id="map" class="map map-home" style="height: 350px; width: 100%; max-width: 854px; margin-top: 30px;"></div>
 
 ### Sertifika ve Ödüller
 

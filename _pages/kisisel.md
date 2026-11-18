@@ -10,11 +10,7 @@ header:
 
 <div class="posts">
   {% for post in site.posts %}
-
-    {% assign author = site.authors[post.author] %}
-    {{ author.display_name }}
-
-  {% if post.category == 'Kisisel' %}
+  {% if post.category == 'Kisisel' or post.categories contains 'Kisisel' %}
   <div class="post">
   <div class="post-inner">
   <div class="date">{{ post.date | date: "%d/%m/%Y" }}</div>
